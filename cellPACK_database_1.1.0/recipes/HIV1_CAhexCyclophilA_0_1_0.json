@@ -3,7 +3,7 @@
  "partners_position":[],
  "weight":0.2,
  "color":null,
- "sphereFile":"autoPACKserver/autoPACK_database_1.0.0/collisionTrees/HIV1_CAhexCyclophilA_0_1_0.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/HIV1_CAhexCyclophilA_0_1_0.sph",
  "results":[],
  "radii":[
   [
@@ -53,7 +53,7 @@
  "useOrientBias":false,
  "rotRange":6.2831,
  "coordsystem":"left",
- "meshFile":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_CAhexCyclophilA_0_1_0.dae",
+ "meshFile":"autoPACKserver/geometries/HIV1_CAhexCyclophilA_0_1_0.dae",
  "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
  "proba_binding":0.5,

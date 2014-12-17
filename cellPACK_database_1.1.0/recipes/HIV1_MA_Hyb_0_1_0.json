@@ -3,7 +3,7 @@
  "partners_position":[],
  "weight":0.2,
  "color":null,
- "sphereFile":"http://autofill.googlecode.com/svn/data/HIV/spheres/1uph.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/1uph.sph",
  "results":[],
  "radii":[
   [
@@ -55,7 +55,7 @@
  "useOrientBias":false,
  "rotRange":6.2831,
  "coordsystem":"left",
- "meshFile":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_MA_Hyb_0_1_0.dae",
+ "meshFile":"autoPACKserver/geometries/HIV1_MA_Hyb_0_1_0.dae",
  "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
  "proba_binding":0.5,

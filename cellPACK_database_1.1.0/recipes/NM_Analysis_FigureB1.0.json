@@ -34,7 +34,7 @@
   "ingrLookForNeighbours":false,
   "pickRandPt":true,
   "largestProteinSize":200,
-  "resultfile":"http://autofill.googlecode.com/git/autoPACK_database_1.0.0/results/NM_Analysis_FigureB1.0.apr.json",
+  "resultfile":"autoPACKserver/results/NM_Analysis_FigureB1.0.apr.json",
   "use_periodicity":true,
   "EnviroOnly":false
  },
