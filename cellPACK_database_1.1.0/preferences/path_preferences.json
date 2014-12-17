@@ -1,0 +1,7 @@
+{
+    "autopackdir": "default",
+    "autoPACKserver": "http://autofill.googlecode.com/git",
+    "autoPackDataBasePath": "http://autofill.googlecode.com/git/data",
+    "autoPackDataRightBasePath": "http://autofill.googlecode.com/git/dataRight",
+    "autoPackDataLeftBasePath": "http://autofill.googlecode.com/git/data"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<autopackSetup name="BloodPlasma">
+    <options
+        EnviroOnly="False"
+        _hackFreepts="False"
+        _timer="False"
+        boundingBox="[[-350.0, -600.0, -1100.0], [350.0, 600.0, 1100.0]]"
+        cancelDialog="False"
+        computeGridParams="True"
+        freePtsUpdateThrehod="0.15"
+        gradients="[]"
+        ingrLookForNeighbours="False"
+        innerGridMethod="bhtree"
+        largestProteinSize="725.0"
+        overwritePlaceMethod="True"
+        pickRandPt="True"
+        pickWeightedIngr="True"
+        placeMethod="jitter"
+        resultfile="autoPACKserver/autoPACK_database_1.0.0/results/BloodPlasma1.2.apr"
+        runTimeDisplay="False"
+        saveResult="False"
+        smallestProteinSize="25"
+        use_gradient="False"
+        use_periodicity="False"
+        version="1.0"
+        windowsSize="1.0"
+    />
+    
+    <cytoplasme>
+        <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_VPR_1esx_0_1_0.xml"/>
+        <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/HIV1_VIF_Modbase_0_1_0.xml"/>
+        <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/BloodPlasma_Albumin_1e7i_0_1_0.xml"/>
+        <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/BloodPlasma_Albumin_1gni_0_1_0.xml"/>
+    </cytoplasme>
+
+</autopackSetup>

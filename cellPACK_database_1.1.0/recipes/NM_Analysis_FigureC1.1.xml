@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+	<autopackSetup name="NManalysisFigure1C" version ="1.1">
+	<options EnviroOnly="False" _hackFreepts="False" _timer="False" boundingBox="[[0.0, 0.0, 0.], [1000.0, 1000.0, 1.0]]" cancelDialog="False" computeGridParams="True" freePtsUpdateThrehod="0.0" gradients="['gR']" ingrLookForNeighbours="False" innerGridMethod="bhtree" largestProteinSize="1000" overwritePlaceMethod="True" pickRandPt="True" pickWeightedIngr="True" placeMethod="pandaBullet" resultfile="autoPACKserver/autoPACK_database_1.0.0/results/NManalysisFigureC_1.1.apr" runTimeDisplay="False" saveResult="False" smallestProteinSize="15" use_gradient="True" windowsSize="10.0"/>
+	<gradients>
+	<gradient description="" direction="[-500.0, -500.0, 0.0]" gblob="4.0" mode="radial" name="gR" pick_mode="rnd" radius="1412.2" weight_mode="square"/>
+	<gradient description="" direction="[0.5, 0.5, 0.0]" gblob="4.0" mode="Y" name="gY" pick_mode="rnd" radius="10.0" weight_mode="gauss"/>
+	<gradient description="" direction="[1.0, 0.0, 0.0]" gblob="4.0" mode="X" name="gX" pick_mode="rnd" radius="10.0" weight_mode="gauss"/>
+	</gradients>
+	<grid grid_result="None" grid_storage="None"/>
+    
+	<cytoplasme>
+        <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/Bacteria_Rad25_1_1.xml"/>
+        <ingredient include="autoPACKserver/autoPACK_database_1.0.0/recipes/IngredientC_1_1.xml"/>
+		<ingredient Type="Grow" cutoff_boundary="5.0" cutoff_surface="5.0" gradient="" jitterMax="(1, 1, 0.0)" length="750" marge="65.0" molarity="0" name="snake" nbJitter="1" nbMol="3" orientation="(1, 0, 0)" packingMode="random" packingPriority="30" perturbAxisAmplitude="0.1" placeType="jitter" positions="[[[0, 0, 0]]]" positions2="[[[0.0, 100.0, 0.0]]]" principalVector="(1, 0, 0)" radii="[[25.0]]" useLength="False" walkingMode="sphere" uLength="100.0" compMask="[0]"/>
+	</cytoplasme>
+	</autopackSetup>

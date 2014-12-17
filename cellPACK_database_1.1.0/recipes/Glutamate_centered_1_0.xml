@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+
+<ingredient
+    Type="MultiSphereIngr"
+    cutoff_boundary="0"
+    cutoff_surface="0"
+    gradient=""
+    jitterMax="(1, 1, 0)"
+    meshFile="autoPACKserver/autoPACK_database_1.0.0/geometries/Glutamate_centered_1_0.dae"
+    molarity="0.15"
+    name="Glutamate_centered_1_0"
+    nbJitter="50"
+    packingMode="random"
+    packingPriority="0.5"
+    pdb="Glutamate_centered_1_0.pdb"
+    perturbAxisAmplitude="0.1"
+    placeType="jitter"
+    positions="[[[0, 0, 0]]]"
+    principalVector="(1, 0, 0)"
+    radii="[[3.61]]"
+    rejectionThreshold="30"
+    color="limegreen"
+    sphereFile = "autoPACKserver/autoPACK_database_1.0.0/collisionTrees/Glutamate_centered_1_1.sph"
+/>
