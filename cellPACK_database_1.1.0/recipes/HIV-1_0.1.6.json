@@ -3,7 +3,7 @@
   "paths":[
    [
     "autoPACKserver",
-    "https://autofill.googlecode.com/git"
+    "https://raw.githubusercontent.com/mesoscope/cellPACK_data/master/cellPACK_database_1.1.0"
    ]
   ],
   "version":"1.6",
@@ -43,7 +43,7 @@
   "ingrLookForNeighbours":false,
   "pickRandPt":true,
   "largestProteinSize":47.92,
-  "resultfile":"autoPACKserver/autoPACK_database_1.0.0/results/HIV-1_0.1.6.apr",
+  "resultfile":"autoPACKserver/results/HIV-1_0.1.6.apr",
   "use_periodicity":false,
   "EnviroOnly":false
  },
@@ -80,10 +80,10 @@
  },
  "compartments":{
   "HIV1_envelope_Pack_145_0_2_0":{
-   "geom":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_envelope_Pack_145_0_2_0.dae",
+   "geom":"autoPACKserver/geometries/HIV1_envelope_Pack_145_0_2_0.dae",
    "name":"HIV1_envelope_Pack_145_0_2_0",
    "rep":"HIV1_envelope_Rep_145_0_2_0",
-   "rep_file":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_envelope_Rep_145_0_2_0.dae",
+   "rep_file":"autoPACKserver/geometries/HIV1_envelope_Rep_145_0_2_0.dae",
    "surface":{
     "ingredients":{
      "HIV1_MA_Hyb_0_1_0":{
@@ -174,13 +174,13 @@
    }
   },
   "HIV1_capsid_3j3q_PackOuter_0_1_1":{
-   "geom":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_capsid_3j3q_PackOuter_0_1_1.dae",
+   "geom":"autoPACKserver/geometries/HIV1_capsid_3j3q_PackOuter_0_1_1.dae",
    "name":"HIV1_capsid_3j3q_PackOuter_0_1_1",
    "rep":"HIV1_capside_3j3q_Rep_Med",
-   "rep_file":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_capside_3j3q_Rep_Med_0_2_0.dae"
+   "rep_file":"autoPACKserver/geometries/HIV1_capside_3j3q_Rep_Med_0_2_0.dae"
   },
   "HIV1_capsid_3j3q_PackInner_0_1_0":{
-   "geom":"autoPACKserver/autoPACK_database_1.0.0/geometries/HIV1_capsid_3j3q_PackInner_0_1_0.dae",
+   "geom":"autoPACKserver/geometries/HIV1_capsid_3j3q_PackInner_0_1_0.dae",
    "name":"HIV1_capsid_3j3q_PackInner_0_1_0",
    "interior":{
     "ingredients":{
