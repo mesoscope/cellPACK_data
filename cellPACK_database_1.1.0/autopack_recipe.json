@@ -23,21 +23,21 @@
 
     "BloodSerum": {
         "1.0": {
-            "setupfile": "autoPACKserver/data/BloodSerum/recipe/BloodSerum1.0.xml",
+            "setupfile": "autoPACKserver/recipes/BloodSerum1.0.xml",
             "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
-            "resultfile": "autoPACKserver/data/BloodSerum/results/BloodSerumfillResult.apr"
+            "resultfile": "autoPACKserver/results/BloodSerumfillResult.apr"
         }
     },
     "BloodPlasma": {
         "1.2": {
             "setupfile": "autoPACKserver/recipes/BloodPlasma1.2.xml",
             "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
-            "resultfile": "autoPACKserver/data/BloodSerum/results/BloodPlasma1.2.json"
+            "resultfile": "autoPACKserver/results/BloodPlasma1.2.json"
         },
         "1.3": {
             "setupfile": "autoPACKserver/recipes/BloodPlasma1.3.xml",
             "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
-            "resultfile": "autoPACKserver/data/BloodSerum/results/BloodPlasma1.3.apr"
+            "resultfile": "autoPACKserver/results/BloodPlasma1.3.apr"
         }
     },
     "HIV": {
