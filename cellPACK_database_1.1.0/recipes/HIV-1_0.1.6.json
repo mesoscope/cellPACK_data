@@ -43,7 +43,7 @@
   "ingrLookForNeighbours":false,
   "pickRandPt":true,
   "largestProteinSize":47.92,
-  "resultfile":"autoPACKserver/results/HIV-1_0.1.6.apr",
+  "resultfile":"autoPACKserver/results/HIV-1_0.1.6_3.json",
   "use_periodicity":false,
   "EnviroOnly":false
  },
