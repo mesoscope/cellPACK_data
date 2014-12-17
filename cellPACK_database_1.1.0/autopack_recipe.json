@@ -44,7 +44,7 @@
         "1.6": {
             "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6.json",
             "wrkdir": "autopackdir/autoFillRecipeScripts/HIV",
-            "resultfile": "autoPACKserver/results/HIV-1_0.1.6_3.json"
+            "resultfile": "autoPACKserver/results/HIV-1_0.1.6_3.apr.json"
         }
     },
     "planeWave": {
