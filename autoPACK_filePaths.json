@@ -1,0 +1,8 @@
+{
+    "autopackdir": "default",
+    "autoPACKserver": "https://raw.githubusercontent.com/mesoscope/cellPACK_data/master/cellPACK_database_1.1.0",
+    "autoPackDataBasePath": "autoPACKserver",
+    "autoPackDataRightBasePath": "autoPACKserver",
+    "autoPackDataLeftBasePath": "autoPACKserver",
+    "recipeslistes":"autoPACKserver/autopack_recipe.json"
+}
