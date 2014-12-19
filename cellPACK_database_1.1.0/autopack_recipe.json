@@ -21,14 +21,12 @@
         }
     },
 
-    "BloodSerum": {
-        "1.0": {
-            "setupfile": "autoPACKserver/recipes/BloodSerum1.0.xml",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
-            "resultfile": "autoPACKserver/results/BloodSerumfillResult.apr"
-        }
-    },
     "BloodPlasma": {
+        "1.0": {
+            "setupfile": "autoPACKserver/recipes/BloodPlasma1.0.json",
+            "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
+            "resultfile": "autoPACKserver/results/BloodPlasma1.0.apr.json"
+        },
         "1.2": {
             "setupfile": "autoPACKserver/recipes/BloodPlasma1.2.xml",
             "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
