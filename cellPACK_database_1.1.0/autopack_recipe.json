@@ -2,21 +2,18 @@
     "NM_Analysis_FigureA": {
         "1.0": {
             "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureA1.0.json",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/NM_Analysis_FigureA",
             "resultfile": "autoPACKserver/results/NM_Analysis_FigureA1.0.apr.json"
         }
     },
     "NM_Analysis_FigureB": {
         "1.0": {
             "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureB1.0.json",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/NM_Analysis_FigureB",
             "resultfile": "autoPACKserver/results/NM_Analysis_FigureB1.0.apr.json"
         }
     },
     "NM_Analysis_FigureC": {
         "1.4": {
             "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureC1.4.json",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/NM_Analysis_FigureC",
             "resultfile": "autoPACKserver/results/NM_Analysis_FigureC1.4.apr.json"
         }
     },
@@ -24,7 +21,6 @@
     "BloodPlasma": {
         "1.0": {
             "setupfile": "autoPACKserver/recipes/BloodPlasma1.0.json",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
             "resultfile": "autoPACKserver/results/BloodPlasma1.0.apr.json"
         },
         "1.2": {
@@ -41,7 +37,6 @@
     "HIV": {
         "1.6": {
             "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6.json",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/HIV",
             "resultfile": "autoPACKserver/results/HIV-1_0.1.6_3.apr.json"
         }
     },
