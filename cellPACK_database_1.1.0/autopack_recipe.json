@@ -24,9 +24,8 @@
             "resultfile": "autoPACKserver/results/BloodPlasma1.0.apr.json"
         },
         "1.2": {
-            "setupfile": "autoPACKserver/recipes/BloodPlasma1.2.xml",
-            "wrkdir": "autopackdir/autoFillRecipeScripts/BloodSerum",
-            "resultfile": "autoPACKserver/results/BloodPlasma1.2.json"
+            "setupfile": "autoPACKserver/recipes/BloodPlasma1.2.json",
+            "resultfile": "autoPACKserver/results/BloodPlasma1.2.apr.json"
         },
         "1.3": {
             "setupfile": "autoPACKserver/recipes/BloodPlasma1.3.xml",
