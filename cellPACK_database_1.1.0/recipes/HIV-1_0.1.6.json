@@ -98,9 +98,9 @@
       "include":"HIV1_NEF_Hyb_0_2_0.json",
       "name":"HIV1_NEF_Hyb_0_2_0"
      },
-     "HIV1_HLA_1dlh_0_1_0":{
-      "include":"HIV1_HLA_1dlh_0_1_0.json",
-      "name":"HIV1_HLA_1dlh_0_1_0"
+     "HIV1_HLA_1dlh_0_1_2":{
+      "include":"HIV1_HLA_1dlh_0_1_2.json",
+      "name":"HIV1_HLA_1dlh_0_1_2"
      },
      "HIV1_VPU_Hyb_0_1_0":{
       "include":"HIV1_VPU_Hyb_0_1_0.json",
