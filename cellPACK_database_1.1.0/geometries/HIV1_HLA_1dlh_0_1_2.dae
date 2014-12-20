@@ -4,8 +4,8 @@
         <contributor>
             <authoring_tool>CINEMA4D 14.042 COLLADA Exporter</authoring_tool>
         </contributor>
-        <created>2014-12-20T20:11:51Z</created>
-        <modified>2014-12-20T20:11:51Z</modified>
+        <created>2014-12-20T20:24:51Z</created>
+        <modified>2014-12-20T20:24:51Z</modified>
         <unit meter="0.01" name="centimeter"/>
         <up_axis>Y_UP</up_axis>
     </asset>
@@ -54,7 +54,7 @@
         <material id="ID1" name="Mat">
             <instance_effect url="#ID2"/>
         </material>
-        <material id="ID3" name="HIV1_HLA_1dlh_0_1_0A.mat">
+        <material id="ID3" name="HIV1_HLA_1dlh_0_1_2A.mat">
             <instance_effect url="#ID4"/>
         </material>
         <material id="ID5" name="HIV1_HLA_1dlh_0_1_2B.mat">
