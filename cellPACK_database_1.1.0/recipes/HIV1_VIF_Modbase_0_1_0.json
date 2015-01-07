@@ -1,91 +1,43 @@
 {
- "packingMode":"random",
- "partners_position":[],
- "weight":0.2,
- "color":null,
- "sphereFile":"autoPACKserver/collisionTrees/HIV1_VIF_Modbase_0_1_0.sph",
- "results":[],
- "radii":[
-  [
-   14.49,
-   14.93,
-   13.14,
-   17.51,
-   15.95,
-   15.66
-  ]
- ],
- "cutoff_boundary":0,
- "encapsulatingRadius":38,
- "positions2":null,
- "rejectionThreshold":100,
- "isAttractor":false,
- "Type":"MultiSphere",
- "orientBiasRotRangeMax":3.1415927,
+ "overwrite_nbMol_value":100,
+ "nbJitter":10,
+ "molarity":0,
+ "useOrientBias":false,
+ "rotRange":6.2831,
  "gradient":"",
- "nbMol":100,
+ "meshFile":"autoPACKserver/geometries/HIV1_VIF_Modbase_0_1_0.dae",
+ "coordsystem":"left",
+ "sphereFile":"autoPACKserver/collisionTrees/HIV1_VIF_Modbase_0_1_0.sph",
+ "orientBiasRotRangeMin":-3.1415927,
+ "cutoff_boundary":0,
  "jitterMax":[
   1,
   1,
   1
  ],
- "packingPriority":0,
- "rotAxis":null,
- "overwrite_nbMol_value":100,
- "nbJitter":6,
- "molarity":0,
- "useOrientBias":false,
- "rotRange":6.2831,
- "coordsystem":"left",
- "meshFile":"autoPACKserver/geometries/HIV1_VIF_Modbase_0_1_0.dae",
- "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
- "proba_binding":0.5,
+ "encapsulatingRadius":38,
+ "partners_position":[],
+ "isAttractor":false,
  "principalVector":[
   1,
   0,
   0
  ],
  "properties":{},
- "partners_name":[],
  "name":"HIV1_VIF_Modbase_0_1_0",
- "positions":[
-  [
-   [
-    11.53,
-    -7.59,
-    -1.15
-   ],
-   [
-    -12.36,
-    15.07,
-    -12.56
-   ],
-   [
-    26.95,
-    -6.57,
-    -1.71
-   ],
-   [
-    -8.23,
-    7.54,
-    0.64
-   ],
-   [
-    -5.4,
-    -11.26,
-    -3.54
-   ],
-   [
-    0.22,
-    -4.5,
-    12.78
-   ]
-  ]
- ],
+ "partners_name":[],
+ "nbMol":100,
+ "weight":0.2,
+ "orientBiasRotRangeMax":3.1415927,
+ "packingMode":"random",
+ "Type":"MultiSphere",
  "excluded_partners_name":[],
+ "rejectionThreshold":60,
  "placeType":"pandaBullet",
  "cutoff_surface":15,
+ "packingPriority":0,
+ "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"7hvp",

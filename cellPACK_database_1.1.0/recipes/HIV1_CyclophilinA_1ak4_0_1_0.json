@@ -1,79 +1,43 @@
 {
- "packingMode":"random",
- "partners_position":[],
- "weight":0.2,
- "color":null,
- "sphereFile":"autoPACKserver/collisionTrees/HIV1_CyclophilinA_1ak4_0_1_0.sph",
- "results":[],
- "radii":[
-  [
-   15.95,
-   16.03,
-   15.46,
-   15.52
-  ]
- ],
- "cutoff_boundary":0,
- "encapsulatingRadius":30,
- "positions2":null,
- "rejectionThreshold":100,
- "isAttractor":false,
- "Type":"MultiSphere",
- "orientBiasRotRangeMax":3.1415927,
+ "overwrite_nbMol_value":150,
+ "nbJitter":10,
+ "molarity":0,
+ "useOrientBias":false,
+ "rotRange":6.2831,
  "gradient":"",
- "nbMol":150,
+ "meshFile":"autoPACKserver/geometries/HIV1_CyclophilinA_1ak4_0_1_0.dae",
+ "coordsystem":"left",
+ "sphereFile":"autoPACKserver/collisionTrees/HIV1_CyclophilinA_1ak4_0_1_0.sph",
+ "orientBiasRotRangeMin":-3.1415927,
+ "cutoff_boundary":0,
  "jitterMax":[
   1,
   1,
   1
  ],
- "packingPriority":0,
- "rotAxis":null,
- "overwrite_nbMol_value":150,
- "nbJitter":6,
- "molarity":0,
- "useOrientBias":false,
- "rotRange":6.2831,
- "coordsystem":"left",
- "meshFile":"autoPACKserver/geometries/HIV1_CyclophilinA_1ak4_0_1_0.dae",
- "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
- "proba_binding":0.5,
+ "encapsulatingRadius":30,
+ "partners_position":[],
+ "isAttractor":false,
  "principalVector":[
   1,
   0,
   0
  ],
  "properties":{},
- "partners_name":[],
  "name":"HIV1_CyclophilinA_1ak4_0_1_0",
- "positions":[
-  [
-   [
-    -6,
-    6.7,
-    5.59
-   ],
-   [
-    -5.62,
-    -1.19,
-    -8.36
-   ],
-   [
-    8.22,
-    6.42,
-    -3.64
-   ],
-   [
-    3.09,
-    -9.75,
-    5.98
-   ]
-  ]
- ],
+ "partners_name":[],
+ "nbMol":150,
+ "weight":0.2,
+ "orientBiasRotRangeMax":3.1415927,
+ "packingMode":"random",
+ "Type":"MultiSphere",
  "excluded_partners_name":[],
+ "rejectionThreshold":60,
  "placeType":"pandaBullet",
  "cutoff_surface":15,
+ "packingPriority":0,
+ "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"SwissModel",

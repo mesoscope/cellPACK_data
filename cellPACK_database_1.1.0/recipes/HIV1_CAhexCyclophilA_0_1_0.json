@@ -1,187 +1,43 @@
 {
- "packingMode":"random",
- "partners_position":[],
- "weight":0.2,
- "color":null,
- "sphereFile":"autoPACKserver/collisionTrees/HIV1_CAhexCyclophilA_0_1_0.sph",
- "results":[],
- "radii":[
-  [
-   23.2,
-   21.98,
-   20.32,
-   20.06,
-   23.56,
-   22.38,
-   19.97,
-   19.88,
-   22.79,
-   23.25,
-   22,
-   20.48,
-   21.04,
-   19.6,
-   22.54,
-   22.33,
-   21.43,
-   22.15,
-   16.39,
-   16.98,
-   19.82,
-   17.56
-  ]
- ],
- "cutoff_boundary":0,
- "encapsulatingRadius":30,
- "positions2":null,
- "rejectionThreshold":100,
- "isAttractor":false,
- "Type":"MultiSphere",
- "orientBiasRotRangeMax":3.1415927,
+ "overwrite_nbMol_value":100,
+ "nbJitter":10,
+ "molarity":0,
+ "useOrientBias":false,
+ "rotRange":6.2831,
  "gradient":"",
- "nbMol":100,
+ "meshFile":"autoPACKserver/geometries/HIV1_CAhexCyclophilA_0_1_0.dae",
+ "coordsystem":"left",
+ "sphereFile":"autoPACKserver/collisionTrees/HIV1_CAhexCyclophilA_0_1_0.sph",
+ "orientBiasRotRangeMin":-3.1415927,
+ "cutoff_boundary":0,
  "jitterMax":[
   1,
   1,
   1
  ],
- "packingPriority":-0.5,
- "rotAxis":null,
- "overwrite_nbMol_value":100,
- "nbJitter":6,
- "molarity":0,
- "useOrientBias":false,
- "rotRange":6.2831,
- "coordsystem":"left",
- "meshFile":"autoPACKserver/geometries/HIV1_CAhexCyclophilA_0_1_0.dae",
- "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
- "proba_binding":0.5,
+ "encapsulatingRadius":30,
+ "partners_position":[],
+ "isAttractor":false,
  "principalVector":[
   1,
   0,
   0
  ],
  "properties":{},
- "partners_name":[],
  "name":"HIV1_CAhexCyclophilA_0_1_0",
- "positions":[
-  [
-   [
-    -25.24,
-    -7.21,
-    -9.03
-   ],
-   [
-    6.67,
-    31,
-    3.19
-   ],
-   [
-    46.97,
-    9.71,
-    6.58
-   ],
-   [
-    41.39,
-    -23.6,
-    -19.54
-   ],
-   [
-    6.89,
-    -41.99,
-    -14.36
-   ],
-   [
-    16.05,
-    -18.21,
-    -15.41
-   ],
-   [
-    -3.63,
-    7.08,
-    11.99
-   ],
-   [
-    6.49,
-    16.8,
-    33.15
-   ],
-   [
-    37.08,
-    -1.7,
-    -8.24
-   ],
-   [
-    20.12,
-    -2.66,
-    -33.64
-   ],
-   [
-    24.84,
-    21.62,
-    -16.76
-   ],
-   [
-    -14.23,
-    -1.86,
-    33.78
-   ],
-   [
-    -11.14,
-    -14.78,
-    4.53
-   ],
-   [
-    23.74,
-    16.3,
-    27.75
-   ],
-   [
-    -7.78,
-    -17.53,
-    -26.83
-   ],
-   [
-    17.25,
-    9.72,
-    1.41
-   ],
-   [
-    -21.71,
-    17.81,
-    8.24
-   ],
-   [
-    -18.97,
-    -33.81,
-    9.95
-   ],
-   [
-    -47.36,
-    15.96,
-    4.3
-   ],
-   [
-    -40.89,
-    32.21,
-    5.77
-   ],
-   [
-    -53.49,
-    21.44,
-    17.05
-   ],
-   [
-    -55.88,
-    33.11,
-    4.9
-   ]
-  ]
- ],
+ "partners_name":[],
+ "nbMol":100,
+ "weight":0.2,
+ "orientBiasRotRangeMax":3.1415927,
+ "packingMode":"random",
+ "Type":"MultiSphere",
  "excluded_partners_name":[],
+ "rejectionThreshold":60,
  "placeType":"pandaBullet",
  "cutoff_surface":15,
+ "packingPriority":-0.5,
+ "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1AK4,CA",

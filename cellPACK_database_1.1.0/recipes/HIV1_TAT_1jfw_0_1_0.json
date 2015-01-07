@@ -1,97 +1,43 @@
 {
- "packingMode":"random",
- "partners_position":[],
- "weight":0.2,
- "color":null,
- "sphereFile":"autoPACKserver/collisionTrees/HIV1_TAT_1jfw_0_1_0.sph",
- "results":[],
- "radii":[
-  [
-   10.68,
-   10.51,
-   12.84,
-   10.96,
-   11.81,
-   12.12,
-   10.93
-  ]
- ],
- "cutoff_boundary":0,
- "encapsulatingRadius":48,
- "positions2":null,
- "rejectionThreshold":100,
- "isAttractor":false,
- "Type":"MultiSphere",
- "orientBiasRotRangeMax":3.1415927,
+ "overwrite_nbMol_value":54,
+ "nbJitter":5,
+ "molarity":0,
+ "useOrientBias":false,
+ "rotRange":6.2831,
  "gradient":"",
- "nbMol":54,
+ "meshFile":"autoPACKserver/geometries/HIV1_TAT_1jfw_0_1_0.dae",
+ "coordsystem":"left",
+ "sphereFile":"autoPACKserver/collisionTrees/HIV1_TAT_1jfw_0_1_0.sph",
+ "orientBiasRotRangeMin":-3.1415927,
+ "cutoff_boundary":0,
  "jitterMax":[
   1,
   1,
   1
  ],
- "packingPriority":0,
- "rotAxis":null,
- "overwrite_nbMol_value":54,
- "nbJitter":6,
- "molarity":0,
- "useOrientBias":false,
- "rotRange":6.2831,
- "coordsystem":"left",
- "meshFile":"autoPACKserver/geometries/HIV1_TAT_1jfw_0_1_0.dae",
- "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
- "proba_binding":0.5,
+ "encapsulatingRadius":48,
+ "partners_position":[],
+ "isAttractor":false,
  "principalVector":[
   1,
   0,
   0
  ],
  "properties":{},
- "partners_name":[],
  "name":"HIV1_TAT_1jfw_0_1_0",
- "positions":[
-  [
-   [
-    10.72,
-    -6.37,
-    3.39
-   ],
-   [
-    0.16,
-    10.23,
-    -2.54
-   ],
-   [
-    -4.1,
-    -1.68,
-    2.17
-   ],
-   [
-    -12,
-    3.59,
-    7.4
-   ],
-   [
-    8.36,
-    1.74,
-    -4.27
-   ],
-   [
-    1.92,
-    -10.19,
-    2.36
-   ],
-   [
-    -2.66,
-    2.28,
-    -9.94
-   ]
-  ]
- ],
+ "partners_name":[],
+ "nbMol":54,
+ "weight":0.2,
+ "orientBiasRotRangeMax":3.1415927,
+ "packingMode":"random",
+ "Type":"MultiSphere",
  "excluded_partners_name":[],
+ "rejectionThreshold":30,
  "placeType":"pandaBullet",
  "cutoff_surface":15,
+ "packingPriority":0,
+ "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"7hvp",

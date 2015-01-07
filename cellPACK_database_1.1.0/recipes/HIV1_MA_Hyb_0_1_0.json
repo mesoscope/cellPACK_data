@@ -1,199 +1,56 @@
 {
- "packingMode":"gradient",
- "partners_position":[],
- "weight":0.2,
- "color":null,
- "sphereFile":"autoPACKserver/collisionTrees/1uph.sph",
- "results":[],
+ "overwrite_nbMol_value":0,
+ "nbJitter":50,
+ "molarity":0.2096,
+ "useOrientBias":false,
+ "rotRange":6.2831,
+ "gradient":"gradRadMA",
+ "meshFile":"autoPACKserver/geometries/HIV1_MA_Hyb_0_1_0.dae",
+ "coordsystem":"left",
+ "orientBiasRotRangeMin":-3.1415927,
  "radii":[
   [
-   9.65,
-   7.88,
-   9.61,
-   16.99,
-   16.96,
-   17.27,
-   9.87,
-   9.93,
-   9.58,
-   7.51,
-   7.38,
-   7.41,
-   3.39,
-   3.02,
-   4.17,
-   4.24,
-   3.74,
-   3.82,
-   3.96,
-   4.08,
-   4.1,
-   4.06,
-   3.67,
-   4.32
+   0
   ]
  ],
  "cutoff_boundary":0,
- "encapsulatingRadius":35.3802,
- "positions2":null,
- "rejectionThreshold":100,
- "isAttractor":false,
- "Type":"MultiSphere",
- "orientBiasRotRangeMax":3.1415927,
- "gradient":"gradRadMA",
- "nbMol":0,
  "jitterMax":[
   0.5,
   0.02,
   0.5
  ],
- "packingPriority":-3,
- "rotAxis":null,
- "overwrite_nbMol_value":0,
- "nbJitter":6,
- "molarity":0.2096,
- "useOrientBias":false,
- "rotRange":6.2831,
- "coordsystem":"left",
- "meshFile":"autoPACKserver/geometries/HIV1_MA_Hyb_0_1_0.dae",
- "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
- "proba_binding":0.5,
+ "encapsulatingRadius":35.3802,
+ "partners_position":[],
+ "isAttractor":false,
  "principalVector":[
   0,
   1,
   0
  ],
  "properties":{},
- "partners_name":[],
  "name":"HIV1_MA_Hyb_0_1_0",
+ "partners_name":[],
+ "nbMol":0,
+ "weight":0.2,
+ "cutoff_surface":35.3802,
+ "packingMode":"gradient",
+ "Type":"MultiSphere",
+ "excluded_partners_name":[],
+ "rejectionThreshold":300,
+ "placeType":"pandaBullet",
+ "orientBiasRotRangeMax":3.1415927,
+ "packingPriority":-3,
+ "proba_binding":0.5,
  "positions":[
   [
    [
-    -8.15,
-    -53.31,
-    15.56
-   ],
-   [
-    18.53,
-    -53.14,
-    -0.21
-   ],
-   [
-    -10.09,
-    -53.29,
-    -13.99
-   ],
-   [
-    -10.25,
-    -30.79,
-    17.32
-   ],
-   [
-    -9.39,
-    -30.73,
-    -16.57
-   ],
-   [
-    19.6,
-    -30.85,
-    1.41
-   ],
-   [
-    12.21,
-    -64.25,
-    -2.04
-   ],
-   [
-    -8.84,
-    -64.27,
-    -7.47
-   ],
-   [
-    -3.55,
-    -64.15,
-    10.55
-   ],
-   [
-    3.49,
-    -72.49,
-    20.3
-   ],
-   [
-    17.49,
-    -73.96,
-    -13.18
-   ],
-   [
-    -21.19,
-    -74.39,
-    -6.37
-   ],
-   [
-    30.83,
-    -17.56,
-    -11.62
-   ],
-   [
-    -26.5,
-    -17.3,
-    -20.02
-   ],
-   [
-    -4.42,
-    -19.25,
-    33.79
-   ],
-   [
-    -23.77,
-    -7.28,
-    13.45
-   ],
-   [
-    -25.21,
-    -17.74,
-    10.8
-   ],
-   [
-    -24.76,
-    -12.37,
-    10.93
-   ],
-   [
-    1.44,
-    -7.32,
-    -22.79
-   ],
-   [
-    3.35,
-    -12.17,
-    -24.85
-   ],
-   [
-    2.76,
-    -17.56,
-    -26.19
-   ],
-   [
-    17.16,
-    -12.82,
-    16.72
-   ],
-   [
-    19.07,
-    -17.43,
-    18.16
-   ],
-   [
-    17.28,
-    -7.37,
-    14.2
+    0,
+    0,
+    0
    ]
   ]
  ],
- "excluded_partners_name":[],
- "placeType":"pandaBullet",
- "cutoff_surface":35.3802,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1uph",

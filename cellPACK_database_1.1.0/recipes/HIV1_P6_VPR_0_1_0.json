@@ -1,133 +1,43 @@
 {
- "packingMode":"random",
- "partners_position":[],
- "weight":0.2,
- "color":null,
- "sphereFile":"autoPACKserver/collisionTrees/HIV1_P6_VPR_0_1_0.sph",
- "results":[],
- "radii":[
-  [
-   13.39,
-   10.95,
-   12.05,
-   13.37,
-   12.53,
-   9.82,
-   11.48,
-   10.71,
-   13.81,
-   13.35,
-   12.81,
-   10.7,
-   9.94
-  ]
- ],
- "cutoff_boundary":0,
- "encapsulatingRadius":30,
- "positions2":null,
- "rejectionThreshold":100,
- "isAttractor":false,
- "Type":"MultiSphere",
- "orientBiasRotRangeMax":3.1415927,
+ "overwrite_nbMol_value":200,
+ "nbJitter":10,
+ "molarity":0,
+ "useOrientBias":false,
+ "rotRange":6.2831,
  "gradient":"",
- "nbMol":200,
+ "meshFile":"autoPACKserver/geometries/HIV1_P6_VPR_0_1_0.dae",
+ "coordsystem":"left",
+ "sphereFile":"autoPACKserver/collisionTrees/HIV1_P6_VPR_0_1_0.sph",
+ "orientBiasRotRangeMin":-3.1415927,
+ "cutoff_boundary":0,
  "jitterMax":[
   1,
   1,
   1
  ],
- "packingPriority":0,
- "rotAxis":null,
- "overwrite_nbMol_value":200,
- "nbJitter":6,
- "molarity":0,
- "useOrientBias":false,
- "rotRange":6.2831,
- "coordsystem":"left",
- "meshFile":"autoPACKserver/geometries/HIV1_P6_VPR_0_1_0.dae",
- "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
- "proba_binding":0.5,
+ "encapsulatingRadius":30,
+ "partners_position":[],
+ "isAttractor":false,
  "principalVector":[
   1,
   0,
   0
  ],
  "properties":{},
- "partners_name":[],
  "name":"HIV1_P6_VPR_0_1_0",
- "positions":[
-  [
-   [
-    -1.02,
-    0.81,
-    9.14
-   ],
-   [
-    -4.75,
-    8.29,
-    -9.1
-   ],
-   [
-    -20.84,
-    -4.94,
-    3.07
-   ],
-   [
-    -17.93,
-    13.22,
-    4.85
-   ],
-   [
-    19.94,
-    -0.36,
-    10.89
-   ],
-   [
-    11.53,
-    -10.68,
-    17.23
-   ],
-   [
-    18.4,
-    9.35,
-    0.54
-   ],
-   [
-    -11.72,
-    -2.54,
-    -11.76
-   ],
-   [
-    3.75,
-    17.68,
-    -7.18
-   ],
-   [
-    -10.94,
-    -18.57,
-    1.71
-   ],
-   [
-    5.97,
-    -17.7,
-    26.16
-   ],
-   [
-    -23.55,
-    -7.16,
-    -16.06
-   ],
-   [
-    -34.31,
-    -6.16,
-    -14.67
-   ]
-  ]
- ],
+ "partners_name":[],
+ "nbMol":200,
+ "weight":0.2,
+ "orientBiasRotRangeMax":3.1415927,
+ "packingMode":"random",
+ "Type":"MultiSphere",
  "excluded_partners_name":[],
+ "rejectionThreshold":60,
  "placeType":"pandaBullet",
  "cutoff_surface":15,
+ "packingPriority":0,
+ "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"SwissModel",
