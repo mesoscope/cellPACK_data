@@ -2,8 +2,8 @@
  "packingMode":"random",
  "partners_position":[],
  "orientation":[
-  1,
   0,
+  1,
  0
  ],
  "weight":0.2,
@@ -59,8 +59,8 @@
  "proba_binding":0.5,
  "use_mesh_rb":false,
  "principalVector":[
-  1,
   0,
+  1,
   0
  ],
  "properties":{},
