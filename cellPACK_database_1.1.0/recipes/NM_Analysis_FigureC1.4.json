@@ -86,11 +86,11 @@
  "cytoplasme":{
   "ingredients":{
    "Bacteria_Rad25_1_4":{
-    "include":"Bacteria_Rad25_1_3.json",
+    "include":"Bacteria_Rad25_1_4.json",
     "name":"Bacteria_Rad25_1_3"
    },
    "IngredientC_1_1":{
-    "include":"IngredientC_1_1.json",
+    "include":"IngredientC_1_2.json",
     "name":"IngredientC_1_1"
    },
    "snake":{

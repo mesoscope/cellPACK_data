@@ -45,6 +45,7 @@
  "rotRange":6.2831,
  "coordsystem":"left",
  "meshFile":"autoPACKserver/geometries/IngredientC_1_1.dae",
+ "neshName" : "IngredientC_1_1",
  "orientBiasRotRangeMin":-3.1415927,
  "perturbAxisAmplitude":0.1,
  "proba_binding":0.5,
