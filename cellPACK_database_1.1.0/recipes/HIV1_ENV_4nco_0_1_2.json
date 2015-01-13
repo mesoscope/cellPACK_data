@@ -5,7 +5,7 @@
  "useOrientBias":false,
  "rotRange":6.2831,
  "gradient":"gradRadSPIKE",
- "meshFile":"autoPACKserver/geometries/HIV1_ENV_4nco_0_1_1_Left.dae",
+ "meshFile":"autoPACKserver/geometries/HIV1_ENV_4nco_0_1_2_Left.dae",
  "meshName":"HIV1_ENV_4nco_0_1_1",
  "coordsystem":"left",
  "sphereFile":"autoPACKserver/collisionTrees/HIV1_ENV_4nco_0_1_1.sph",
