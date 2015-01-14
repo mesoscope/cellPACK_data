@@ -38,6 +38,10 @@
             "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6.json",
             "resultfile": "autoPACKserver/results/HIV-1_0.1.6_3.apr.json"
         }
+        "1.6-6": {
+            "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6-6.json",
+            "resultfile": "autoPACKserver/results/HIV-1_0.1.6.apr.json"
+        }
     },
     "planeWave": {
         "1.0": {
