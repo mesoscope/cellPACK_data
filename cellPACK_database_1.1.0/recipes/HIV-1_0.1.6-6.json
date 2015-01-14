@@ -84,7 +84,7 @@
    "surface":{
     "ingredients":{
      "HIV1_MA_Hyb_0_1_0":{
-      "include":"HIV1_MA_Hyb_0_1_2.json",
+      "include":"HIV1_MA_Hyb_0_1_1.json",
       "name":"HIV1_MA_Hyb_0_1_0"
      },
      "HIV1_ENV_4nco_0_1_1":{
