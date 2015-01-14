@@ -1,46 +1,58 @@
 {
  "overwrite_nbMol_value":0,
  "nbJitter":50,
- "molarity":0.0031,
+ "molarity":0.2096,
  "useOrientBias":false,
  "rotRange":6.2831,
- "gradient":"gradRadSPIKE",
- "meshFile":"autoPACKserver/geometries/HIV1_ENV_4nco_0_1_1_Left.dae",
- "meshName":"HIV1_ENV_4nco_0_1_1",
+ "gradient":"gradRadMA",
+ "meshFile":"autoPACKserver/geometries/HIV1_MA_Hyb_0_1_1.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/collisionTrees/HIV1_ENV_4nco_0_1_1.sph",
  "orientBiasRotRangeMin":-3.1415927,
+ "radii":[
+  [
+   0
+  ]
+ ],
  "cutoff_boundary":0,
  "jitterMax":[
-  0.2,
-  0.2,
-  0
+  0.5,
+  0.02,
+  0.5
  ],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":142.213,
+ "encapsulatingRadius":35.3802,
  "partners_position":[],
  "isAttractor":false,
  "principalVector":[
   0,
-  0,
-  -1
+  1,
+  0
  ],
  "properties":{},
- "name":"HIV1_ENV_4nco_0_1_1",
+ "name":"HIV1_MA_Hyb_0_1_0",
  "partners_name":[],
  "nbMol":0,
  "weight":0.2,
- "orientBiasRotRangeMax":3.1415927,
- "packingMode":"random",
+ "cutoff_surface":35.3802,
+ "packingMode":"gradient",
  "Type":"MultiSphere",
  "excluded_partners_name":[],
- "rejectionThreshold":200,
+ "rejectionThreshold":300,
  "placeType":"pandaBullet",
- "cutoff_surface":15,
- "packingPriority":-1,
+ "orientBiasRotRangeMax":3.1415927,
+ "packingPriority":-3,
  "proba_binding":0.5,
+ "positions":[
+  [
+   [
+    0,
+    0,
+    0
+   ]
+  ]
+ ],
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"2ezo",
+ "pdb":"1uph",
  "useRotAxis":false
 }
