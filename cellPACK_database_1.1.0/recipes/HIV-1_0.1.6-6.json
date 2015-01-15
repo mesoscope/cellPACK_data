@@ -173,7 +173,7 @@
   "HIV1_capsid_3j3q_PackOuter_0_1_1":{
    "geom":"autoPACKserver/geometries/HIV1_capsid_3j3q_PackOuter_0_1_2.dae",
    "name":"HIV1_capsid_3j3q_PackOuter_0_1_1",
-   "rep":"HIV1_capsid_3j3q_Rep_Med",
+   "rep":"HIV1_capside_3j3q_Rep_Med",
    "rep_file":"autoPACKserver/geometries/HIV1_capside_3j3q_Rep_Med_0_2_1.dae"
   },
   "HIV1_capsid_3j3q_PackInner_0_1_0":{
