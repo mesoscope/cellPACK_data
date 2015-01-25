@@ -6,13 +6,9 @@
  "rotRange":6.2831,
  "gradient":"gradRadMA",
  "meshFile":"autoPACKserver/geometries/HIV1_MA_Hyb_0_1_1.dae",
+ "sphereFile":"1uph.sph",
  "coordsystem":"left",
  "orientBiasRotRangeMin":-3.1415927,
- "radii":[
-  [
-   0
-  ]
- ],
  "cutoff_boundary":0,
  "jitterMax":[
   0.5,
@@ -42,15 +38,6 @@
  "orientBiasRotRangeMax":3.1415927,
  "packingPriority":-3,
  "proba_binding":0.5,
- "positions":[
-  [
-   [
-    0,
-    0,
-    0
-   ]
-  ]
- ],
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1uph",
