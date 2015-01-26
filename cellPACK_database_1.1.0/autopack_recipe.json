@@ -22,12 +22,12 @@
         "1.0": {
             "setupfile": "autoPACKserver/recipes/BloodPlasma1.0.json",
             "resultfile": "autoPACKserver/results/BloodPlasma1.0.apr.json"
-        },
+        }
     },
     "HIV": {
         "1.6": {
             "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6-6.json",
             "resultfile": "autoPACKserver/results/HIV-1_0.1.6_3.apr.json"
         }
-    },
+    }
 } 
