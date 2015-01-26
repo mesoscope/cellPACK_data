@@ -6,7 +6,7 @@
  "rotRange":6.2831,
  "gradient":"gradRadMA",
  "meshFile":"autoPACKserver/geometries/HIV1_MA_Hyb_0_1_1.dae",
- "sphereFile":"1uph.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/1uph.sph",
  "coordsystem":"left",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
