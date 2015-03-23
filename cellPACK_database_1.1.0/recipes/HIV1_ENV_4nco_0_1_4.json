@@ -41,6 +41,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"2ezo",
+ "source":{"pdb":"HIV1_ENV_4ncoABEFIJ.pdb","transform":{"center":false}},
+ "pdb":"HIV1_ENV_4ncoABEFIJ.pdb",
  "useRotAxis":false
 }

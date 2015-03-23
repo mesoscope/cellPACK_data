@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1dlh",
+ "source":{"pdb":"1dlh_HLA_Moved_0_1_0.pdb","transform":{"center":false,"translate":[0.0,0.0,10.79]}},
  "useRotAxis":false
 }

@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1uph",
+ "source":{"pdb":"MA_matrix_G1.pdb","transform":{"center":false}},
  "useRotAxis":false
 }

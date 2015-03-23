@@ -40,6 +40,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"1avv",
+ "pdb":"1vpu",
+ "source":{"pdb":"1PI7_1vpu_biounit.pdb","transform":{"center":false}},
  "useRotAxis":false
 }
