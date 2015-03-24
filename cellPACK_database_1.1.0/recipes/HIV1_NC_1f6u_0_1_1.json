@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1f6u",
+ "source":{"pdb":"1f6u","transform":{"center":true}},
  "useRotAxis":false
 }

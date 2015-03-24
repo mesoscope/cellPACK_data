@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"7hvp",
+ "source":{"pdb":"7hvp","transform":{"center":true}},
  "useRotAxis":false
 }

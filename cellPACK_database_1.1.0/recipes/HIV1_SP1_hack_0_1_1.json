@@ -40,6 +40,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"SwissModel",
+ "pdb":"HIV1_SP1_hack_0_1_0.pdb",
+ "source":{"pdb":"HIV1_SP1_hack_0_1_0.pdb","transform":{"center":false}},
  "useRotAxis":false
 }

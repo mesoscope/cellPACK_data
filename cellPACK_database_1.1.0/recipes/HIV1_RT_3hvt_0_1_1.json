@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"3hvt",
+ "source":{"pdb":"3hvt","transform":{"center":true}},
  "useRotAxis":false
 }

@@ -40,6 +40,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"SwissModel",
+ "pdb":"1esx,P6",
+ "source":{"pdb":"HIV1_P6_VPR.pdb","transform":{"center":false}},
  "useRotAxis":false
 }

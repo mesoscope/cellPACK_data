@@ -41,6 +41,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"SwissModel",
+ "pdb":"1VU4",
+ "source":{"pdb":"1VU4CtoH_hex.pdb","transform":{"center":true}},
  "useRotAxis":false
 }

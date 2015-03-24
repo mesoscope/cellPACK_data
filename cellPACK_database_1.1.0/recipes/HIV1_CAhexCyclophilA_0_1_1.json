@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1AK4,CA",
+ "source":{"pdb":"1AK4fitTo1VU4hex.pdb","transform":{"center":true}},
  "useRotAxis":false
 }

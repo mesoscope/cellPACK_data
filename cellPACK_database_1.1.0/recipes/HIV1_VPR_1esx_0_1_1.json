@@ -40,6 +40,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"7hvp",
+ "pdb":"1esx",
+ "source":{"pdb":"1esx","transform":{"center":true}},
  "useRotAxis":false
 }

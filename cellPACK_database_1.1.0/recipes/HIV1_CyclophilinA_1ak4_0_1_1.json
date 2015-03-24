@@ -40,6 +40,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"SwissModel",
+ "pdb":"1ak4",
+ "source":{"pdb":"1AK4A.pdb","transform":{"center":true}},
  "useRotAxis":false
 }

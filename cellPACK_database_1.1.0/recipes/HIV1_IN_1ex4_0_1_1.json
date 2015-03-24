@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1ex4",
+ "source":{"pdb":"1ex4","transform":{"center":true}},
  "useRotAxis":false
 }

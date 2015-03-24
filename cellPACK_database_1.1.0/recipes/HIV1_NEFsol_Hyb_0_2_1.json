@@ -41,5 +41,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"1avv",
+ "source":{"pdb":"nefStef_1.pdb","transform":{"center":true}},
  "useRotAxis":false
 }

@@ -40,6 +40,7 @@
  "proba_binding":0.5,
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"1a1t",
+ "pdb":"1a1t,A",
+ "source":{"pdb":"1a1t_model1_A.pdb","transform":{"center":false}},
  "useRotAxis":false
 }
