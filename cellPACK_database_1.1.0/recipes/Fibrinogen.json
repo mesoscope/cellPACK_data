@@ -1,12 +1,12 @@
 {
- "overwrite_nbMol_value":805,
+ "overwrite_nbMol_value":15,
  "nbJitter":5,
- "molarity":0.0006376,
+ "molarity":1.1808554e-05,
  "useOrientBias":false,
  "rotRange":6.2831,
- "meshFile":"autoPACKserver/geometries/SerumAlbumin_1.dae",
+ "meshFile":"autoPACKserver/geometries/Fibrinogen_1.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/collisionTrees/1e7i.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/3ghg.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
@@ -15,7 +15,7 @@
   1
  ],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":22.12,
+ "encapsulatingRadius":25.2,
  "partners_position":[],
  "isAttractor":false,
  "principalVector":[
@@ -24,29 +24,31 @@
   0
  ],
  "properties":{},
- "name":"SerumAlbumin",
+ "name":"Fibrinogen",
  "partners_name":[],
- "nbMol":805,
+ "nbMol":15,
  "weight":0.2,
  "orientBiasRotRangeMax":-3.1415927,
  "gradient":"",
  "Type":"MultiSphere",
- "meshName":"SerumAlbumin",
+ "meshName":"Fibrinogen",
  "excluded_partners_name":[],
  "packingMode":"random",
  "rejectionThreshold":30,
  "placeType":"jitter",
- "cutoff_surface":22.12,
- "packingPriority":0.11814741,
+ "cutoff_surface":25.2,
+ "packingPriority":-2,
  "proba_binding":0.5,
  "source":{
-  "pdb":"1e7i",
+  "pdb":"3ghg_ABCDEFMNOP.pdb",
   "transform":{
-   "center":true
+   "center":false,
+   "translate":[-81.917, -5.326, 31.969],
+   "rotate":[0.98901586336191682, -0.0, -0.14780941112961066, -0.0]
   }
  },
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"1e7i",
+ "pdb":"3ghg",
  "useRotAxis":false
 }

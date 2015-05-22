@@ -1,12 +1,12 @@
 {
- "overwrite_nbMol_value":805,
+ "overwrite_nbMol_value":40,
  "nbJitter":5,
- "molarity":0.0006376,
+ "molarity":3.1489477e-05,
  "useOrientBias":false,
  "rotRange":6.2831,
- "meshFile":"autoPACKserver/geometries/SerumAlbumin_1.dae",
+ "meshFile":"autoPACKserver/geometries/i2tsc_63kD_1.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/collisionTrees/1e7i.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/2tsc_63kD.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
@@ -15,7 +15,7 @@
   1
  ],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":22.12,
+ "encapsulatingRadius":16.63,
  "partners_position":[],
  "isAttractor":false,
  "principalVector":[
@@ -24,29 +24,29 @@
   0
  ],
  "properties":{},
- "name":"SerumAlbumin",
+ "name":"i2tsc_63kD",
  "partners_name":[],
- "nbMol":805,
+ "nbMol":40,
  "weight":0.2,
  "orientBiasRotRangeMax":-3.1415927,
  "gradient":"",
  "Type":"MultiSphere",
- "meshName":"SerumAlbumin",
+ "meshName":"i2tsc_63kD",
  "excluded_partners_name":[],
  "packingMode":"random",
  "rejectionThreshold":30,
  "placeType":"jitter",
- "cutoff_surface":22.12,
- "packingPriority":0.11814741,
+ "cutoff_surface":16.63,
+ "packingPriority":0.097860758,
  "proba_binding":0.5,
  "source":{
-  "pdb":"1e7i",
+  "pdb":"2tsc",
   "transform":{
    "center":true
   }
  },
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"1e7i",
+ "pdb":"2tsc",
  "useRotAxis":false
 }

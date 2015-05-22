@@ -1,12 +1,12 @@
 {
- "overwrite_nbMol_value":805,
+ "overwrite_nbMol_value":2,
  "nbJitter":5,
- "molarity":0.0006376,
+ "molarity":1.4e-06,
  "useOrientBias":false,
  "rotRange":6.2831,
- "meshFile":"autoPACKserver/geometries/SerumAlbumin_1.dae",
+ "meshFile":"autoPACKserver/geometries/dLDL_1.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/collisionTrees/1e7i.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/EMDB_5239.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
@@ -15,7 +15,7 @@
   1
  ],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":22.12,
+ "encapsulatingRadius":108.08,
  "partners_position":[],
  "isAttractor":false,
  "principalVector":[
@@ -24,29 +24,29 @@
   0
  ],
  "properties":{},
- "name":"SerumAlbumin",
+ "name":"dLDL",
  "partners_name":[],
- "nbMol":805,
+ "nbMol":2,
  "weight":0.2,
  "orientBiasRotRangeMax":-3.1415927,
  "gradient":"",
  "Type":"MultiSphere",
- "meshName":"SerumAlbumin",
+ "meshName":"dLDL",
  "excluded_partners_name":[],
  "packingMode":"random",
  "rejectionThreshold":30,
  "placeType":"jitter",
- "cutoff_surface":22.12,
- "packingPriority":0.11814741,
+ "cutoff_surface":108.08,
+ "packingPriority":-3,
  "proba_binding":0.5,
  "source":{
-  "pdb":"1e7i",
+  "emdb":"5239",
+  "pdb":"None",
   "transform":{
    "center":true
   }
  },
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
- "pdb":"1e7i",
  "useRotAxis":false
 }
