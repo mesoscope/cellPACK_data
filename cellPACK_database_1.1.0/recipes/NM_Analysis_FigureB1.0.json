@@ -239,7 +239,7 @@
     "useRotAxis":false
    },
    "Sphere_radius_25p":{
-    "overwrite_nbMol_value":30,
+    "overwrite_nbMol_value":40,
     "nbJitter":20,
     "molarity":0,
     "partners_position":[],
@@ -278,7 +278,7 @@
     ],
     "properties":{},
     "partners_name":[],
-    "nbMol":30,
+    "nbMol":40,
     "name":"Sphere_radius_25p",
     "orientBiasRotRangeMax":-3.1415927,
     "packingMode":"random",
@@ -305,7 +305,7 @@
     "useRotAxis":false
    },
    "Sphere_radius_25r":{
-    "overwrite_nbMol_value":30,
+    "overwrite_nbMol_value":40,
     "nbJitter":20,
     "molarity":0,
     "partners_position":[],
@@ -344,7 +344,7 @@
     ],
     "properties":{},
     "partners_name":[],
-    "nbMol":30,
+    "nbMol":40,
     "name":"Sphere_radius_25r",
     "orientBiasRotRangeMax":-3.1415927,
     "packingMode":"random",
