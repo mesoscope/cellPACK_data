@@ -66,11 +66,11 @@
  },
  "compartments":{
   "Envelope":{
-   "geom":"autoPACKserver/geoms/LypoglycanC.dae",
+   "geom":"LypoglycanC.dae",
    "name":"Envelope"
   },
   "MycoplasmaPackSurf_1_med":{
-   "geom":"autoPACKserver/geoms/Mmycoides_PackingSurf_1_Med.dae",
+   "geom":"Mmycoides_PackingSurf_1_Med.dae",
    "name":"MycoplasmaPackSurf_1_med",
    "surface":{
     "ingredients":{
