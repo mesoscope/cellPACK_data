@@ -90,9 +90,9 @@
  "useLength":false,
  "uLength":102,
  "source":{
-  "pdb":null,
+  "pdb":"dna_single_base",
   "transform":{
-   "center":true
+   "center":false
   }
  },
  "gradient":"",

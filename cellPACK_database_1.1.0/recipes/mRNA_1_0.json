@@ -64,9 +64,9 @@
  "useLength":false,
  "uLength":100,
  "source":{
-  "pdb":null,
+  "pdb":"RNA_G_Base",
   "transform":{
-   "center":true
+   "center":false
   }
  },
  "gradient":"",
