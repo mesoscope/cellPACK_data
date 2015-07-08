@@ -1,47 +1,5 @@
 {
  "packingMode":"random",
- "partners_position":[
-  [
-   [
-    -0.16263472,
-    0.92006058,
-    -0.35642457,
-    0
-   ],
-   [
-    -0.96740347,
-    -0.21975601,
-    -0.12584836,
-    0
-   ],
-   [
-    -0.19411455,
-    0.32433905,
-    0.92580974,
-    0
-   ],
-   [
-    2.9393947,
-    2.455431,
-    3.6679661,
-    1
-   ]
-  ],
-  [
-   [
-    0.69134909,  -0.68269445,  -0.23656872,   0.0 
-   ],
-   [
-    0.46901017,   0.17497646,   0.86568628,   0.0
-   ],
-   [
-    -0.54960523,  -0.70944452,   0.44116043,   0.0
-   ],
-   [
-    24.13900194,  -5.19786438,  -5.88884602,   1.0
-   ]
-  ]
- ],
  "orientation":[
   1,
   0,
@@ -54,7 +12,7 @@
   0.314
  ],
  "coordsystem":"left",
- "nbJitter":1,
+ "nbJitter":10,
  "proba_not_binding":0.5,
  "radii":[
   [
@@ -72,7 +30,7 @@
    ]
   ]
  ],
- "rejectionThreshold":300,
+ "rejectionThreshold":30,
  "isAttractor":false,
  "Type":"Grow",
  "useLength":false,
@@ -94,7 +52,6 @@
  "orientBiasRotRangeMax":-3.1415927,
  "closed":false,
  "useHalton":true,
- "overwrite_nbMol_value":80,
  "biased":0.5,
  "molarity":0,
  "useOrientBias":false,
@@ -102,7 +59,7 @@
  "orientBiasRotRangeMin":-3.1415927,
  "marge":25,
  "perturbAxisAmplitude":0.1,
- "nbMol":80,
+ "nbMol":30,
  "use_mesh_rb":false,
  "principalVector":[
   1,

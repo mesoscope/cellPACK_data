@@ -1,5 +1,6 @@
 {
- "overwrite_nbMol_value":10,
+ "overwrite_nbMol_value":2203,
+ "nbMol":2203,
  "nbJitter":5,
  "molarity":0,
  "useOrientBias":false,
@@ -47,20 +48,29 @@
   ],
   "length":45.859,
   "bend":true,
-  "pt2":[
-   85.641615,
-   -53.838768,
-   -113.50327
-  ],
   "pt1":[
-   90.22708,
-   -9.2392649,
-   -21.88527
+   -16.547,
+   -73.938,
+   77.388
+  ],
+  "pt2":[
+   -2.677,
+   -22.192,
+   -4.602
+  ],
+  "pt3":[
+   1.775,
+   25.153,
+   1.866
+  ],
+  "pt4":[
+   5.931,
+   11.516,
+   99.092
   ]
  },
  "name":"hu_prot",
  "partners_name":[],
- "nbMol":10,
  "weight":0.25,
  "orientBiasRotRangeMax":-3.1415927,
  "gradient":"",
