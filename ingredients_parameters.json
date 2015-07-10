@@ -1,0 +1,374 @@
+{
+    "packingMode": {
+        "type": "string",
+        "name": "packingMode"
+    },
+    "color": {
+        "type": "vector"
+    },
+    "coordsystem": {
+        "default": "left",
+        "type": "string",
+        "name": "coordsystem",
+        "value": "left",
+        "description": "coordinate system of the files"
+    },
+    "radii": {
+        "type": "float"
+    },
+    "positions2": {
+        "type": "vector"
+    },
+    "rejectionThreshold": {
+        "name": "rejectionThreshold",
+        "min": 0,
+        "default": 30,
+        "max": 10000,
+        "value": 30,
+        "type": "float",
+        "description": "rejectionThreshold"
+    },
+    "uLength": {
+        "type": "float",
+        "name": "uLength"
+    },
+    "use_rbsphere": {
+        "name": "use_rbsphere",
+        "min": 0,
+        "default": false,
+        "max": 0,
+        "value": false,
+        "type": "bool",
+        "description": "use sphere instead of cylinder for collision"
+    },
+    "packingPriority": {
+        "type": "float"
+    },
+    "proba_binding": {
+        "name": "proba_binding",
+        "min": 0,
+        "default": 0.5,
+        "max": 1,
+        "value": 0.5,
+        "type": "float",
+        "description": "proba_binding"
+    },
+    "overwrite_nbMol_value": {
+        "name": "overwrite_nbMol_value",
+        "min": 0,
+        "default": 0,
+        "max": 50000,
+        "value": 0,
+        "type": "int",
+        "description": "nbMol"
+    },
+    "molarity": {
+        "name": "molarity",
+        "min": 0,
+        "default": 0,
+        "max": 500,
+        "value": 0,
+        "type": "float",
+        "description": "molarity"
+    },
+    "useOrientBias": {
+        "name": "useOrientBias",
+        "min": 0,
+        "default": false,
+        "max": 0,
+        "value": false,
+        "type": "bool",
+        "description": "useOrientBias"
+    },
+    "rotRange": {
+        "name": "rotRange",
+        "min": 0,
+        "default": 6.2831,
+        "max": 12,
+        "value": 6.2831,
+        "type": "float",
+        "description": "rotRange"
+    },
+    "marge": {
+        "type": "float",
+        "name": "marge"
+    },
+    "principalVector": {
+        "name": "principalVector",
+        "min": -1,
+        "default": [
+            0,
+            0,
+            0
+        ],
+        "max": 1,
+        "value": [
+            0,
+            0,
+            0
+        ],
+        "type": "vector",
+        "description": "principalVector"
+    },
+    "name": {
+        "type": "string"
+    },
+    "positions": {
+        "type": "vector"
+    },
+    "meshName": {
+        "type": "string"
+    },
+    "useLength": {
+        "type": "float",
+        "name": "useLength"
+    },
+    "cutoff_surface": {
+        "name": "cutoff_surface",
+        "min": 0,
+        "default": 5,
+        "max": 50,
+        "value": 5,
+        "type": "float",
+        "description": "cutoff_surface"
+    },
+    "constraintMarge": {
+        "type": "bool",
+        "name": "constraintMarge"
+    },
+    "partners_position": {
+        "type": "liste_float",
+        "name": "partners_position",
+        "value": "[]"
+    },
+    "orientation": {
+        "type": "vector",
+        "name": "orientation"
+    },
+    "weight": {
+        "name": "weight",
+        "min": 0,
+        "default": 0.2,
+        "max": 50,
+        "value": 0.2,
+        "type": "float",
+        "description": "weight"
+    },
+    "sphereFile": {
+        "type": "string"
+    },
+    "biased": {
+        "type": "float",
+        "name": "biased"
+    },
+    "cutoff_boundary": {
+        "name": "cutoff_boundary",
+        "min": 0,
+        "default": 1,
+        "max": 50,
+        "value": 1,
+        "type": "float",
+        "description": "cutoff_boundary"
+    },
+    "encapsulatingRadius": {
+        "name": "encapsulatingRadius",
+        "min": 0,
+        "default": 5,
+        "max": 500,
+        "value": 5,
+        "type": "float",
+        "description": "encapsulatingRadius"
+    },
+    "isAttractor": {
+        "name": "isAttractor",
+        "min": 0,
+        "default": false,
+        "max": 0,
+        "value": false,
+        "type": "bool",
+        "description": "isAttractor"
+    },
+    "Type": {
+        "type": "string"
+    },
+    "placeType": {
+        "values": [
+            "jitter",
+            "spring",
+            "rigid-body",
+            "pandaBullet",
+            "pandaBulletRelax",
+            "pandaDev",
+            "RAPID"
+        ],
+        "name": "placeType",
+        "min": 0,
+        "default": "jitter",
+        "max": 0,
+        "type": "liste",
+        "value": "jitter",
+        "description": "placeType"
+    },
+    "useRotAxis": {
+        "name": "useRotAxis",
+        "min": 0,
+        "default": false,
+        "max": 0,
+        "value": false,
+        "type": "bool",
+        "description": "useRotAxis"
+    },
+    "gradient": {
+        "values": [],
+        "name": "gradient",
+        "min": 0,
+        "default": "jitter",
+        "max": 0,
+        "type": "liste",
+        "value": "",
+        "description": "gradient name to use if histo.use_gradient"
+    },
+    "jitterMax": {
+        "name": "jitterMax",
+        "min": 0,
+        "default": [
+            1,
+            1,
+            1
+        ],
+        "max": 1,
+        "value": [
+            1,
+            1,
+            1
+        ],
+        "type": "vector",
+        "description": "jitterMax"
+    },
+    "rotAxis": {
+        "name": "rotAxis",
+        "min": 0,
+        "default": [
+            0,
+            0,
+            0
+        ],
+        "max": 1,
+        "value": [
+            0,
+            0,
+            0
+        ],
+        "type": "vector",
+        "description": "rotAxis"
+    },
+    "closed": {
+        "type": "bool",
+        "name": "closed"
+    },
+    "nbJitter": {
+        "name": "nbJitter",
+        "min": 0,
+        "default": 5,
+        "max": 50,
+        "value": 5,
+        "type": "int",
+        "description": "nbJitter"
+    },
+    "meshFile": {
+        "type": "string"
+    },
+    "orientBiasRotRangeMin": {
+        "name": "orientBiasRotRange",
+        "min": -3.1415927,
+        "default": -3.1415927,
+        "max": 3.1415927,
+        "value": -3.1415927,
+        "type": "float",
+        "description": "orientBiasRotRangeMin"
+    },
+    "perturbAxisAmplitude": {
+        "name": "perturbAxisAmplitude",
+        "min": 0,
+        "default": 0.1,
+        "max": 1,
+        "value": 0.1,
+        "type": "float",
+        "description": "perturbAxisAmplitude"
+    },
+    "nbMol": {
+        "name": "nbMol",
+        "min": 0,
+        "default": 0,
+        "max": 50000,
+        "value": 0,
+        "type": "int",
+        "description": "nbMol"
+    },
+    "properties": {
+        "name": "properties",
+        "min": 0,
+        "default": {},
+        "max": 1,
+        "value": {},
+        "type": "dic",
+        "description": "properties"
+    },
+    "walkingMode": {
+        "type": "string",
+        "name": "walkingMode"
+    },
+    "partners_name": {
+        "type": "liste_string",
+        "name": "partners_name"
+    },
+    "compMask": {
+        "values": "0",
+        "name": "compMask",
+        "min": 0,
+        "default": "0",
+        "max": 0,
+        "type": "string",
+        "value": "0",
+        "description": "allowed compartments"
+    },
+    "excluded_partners_name": {
+        "type": "liste_string",
+        "name": "excluded_partners_name",
+        "value": "[]"
+    },
+    "orientBiasRotRangeMax": {
+        "name": "orientBiasRotRange",
+        "min": -3.1415927,
+        "default": 3.1415927,
+        "max": 3.1415927,
+        "value": 3.1415927,
+        "type": "float",
+        "description": "orientBiasRotRangeMax"
+    },
+    "length": {
+        "type": "float",
+        "name": "length"
+    },
+    "proba_not_binding": {
+        "name": "proba_not_binding",
+        "min": 0,
+        "default": 0.5,
+        "max": 1,
+        "value": 0.5,
+        "type": "float",
+        "description": "proba_not_binding"
+    },
+    "use_mesh_rb": {
+        "name": "use_mesh_rb",
+        "min": 0,
+        "default": false,
+        "max": 0,
+        "value": false,
+        "type": "bool",
+        "description": "use mesh for collision"
+    },
+    "pdb": {
+        "type": "string"
+    }
+}

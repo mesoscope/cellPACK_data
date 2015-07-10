@@ -1,0 +1,192 @@
+{
+    "computeGridParams": {
+        "name": "computeGridParams",
+        "default": true,
+        "value": true,
+        "width": 100,
+        "type": "bool",
+        "description": "compute Grid Params"
+    },
+    "pickRandPt": {
+        "name": "pickRandPt",
+        "default": true,
+        "value": true,
+        "width": 200,
+        "type": "bool",
+        "description": "Pick drop position point randomly"
+    },
+    "cancelDialog": {
+        "name": "cancelDialog",
+        "default": false,
+        "value": false,
+        "width": 30,
+        "type": "bool",
+        "description": "compute Grid Params"
+    },
+    "_hackFreepts": {
+        "name": "_hackFreepts",
+        "default": false,
+        "value": false,
+        "width": 30,
+        "type": "bool",
+        "description": "no free point update"
+    },
+    "pickWeightedIngr": {
+        "name": "pickWeightedIngr",
+        "default": true,
+        "value": true,
+        "width": 200,
+        "type": "bool",
+        "description": "Prioritize ingredient selection by packingWeight"
+    },
+    "windowsSize": {
+        "name": "windowsSize",
+        "default": 100,
+        "value": 100,
+        "width": 30,
+        "type": "int",
+        "description": "windows Size"
+    },
+    "use_gradient": {
+        "name": "use_gradient",
+        "default": false,
+        "value": false,
+        "width": 150,
+        "type": "bool",
+        "description": "Use gradients if defined"
+    },
+    "placeMethod": {
+        "name": "placeMethod",
+        "default": "placeMethod",
+        "value": "jitter",
+        "width": 30,
+        "values": [
+            "jitter",
+            "spring",
+            "rigid-body",
+            "pandaBullet",
+            "pandaBulletRelax",
+            "pandaDev",
+            "RAPID"
+        ],
+        "type": "liste",
+        "description": "     Overriding Packing Method = "
+    },
+    "saveResult": {
+        "name": "saveResult",
+        "default": false,
+        "value": false,
+        "width": 200,
+        "type": "bool",
+        "description": "Save packing result to .apr file (enter full path below):"
+    },
+    "ingrLookForNeighbours": {
+        "name": "ingrLookForNeighbours",
+        "default": false,
+        "value": false,
+        "width": 30,
+        "type": "bool",
+        "description": "Look for ingredients attractor and partner"
+    },
+    "runTimeDisplay": {
+        "name": "runTimeDisplay",
+        "default": false,
+        "value": false,
+        "width": 150,
+        "type": "bool",
+        "description": "Display packing in realtime (slow)"
+    },
+    "_timer": {
+        "name": "_timer",
+        "default": false,
+        "value": false,
+        "width": 30,
+        "type": "bool",
+        "description": "evaluate time per function"
+    },
+    "freePtsUpdateThrehod": {
+        "mini": 0,
+        "maxi": 1,
+        "name": "freePtsUpdateThrehod",
+        "width": 30,
+        "default": 0.15,
+        "type": "float",
+        "value": 0.15,
+        "description": "Mask grid while packing (0=always | 1=never)"
+    },
+    "overwritePlaceMethod": {
+        "name": "overwritePlaceMethod",
+        "default": false,
+        "value": false,
+        "width": 300,
+        "type": "bool",
+        "description": "Overwrite per-ingredient packing method with Overriding Packing Method:"
+    },
+    "innerGridMethod": {
+        "name": "innerGridMethod",
+        "default": "innerGridMethod",
+        "value": "bhtree",
+        "width": 30,
+        "values": [
+            "bhtree",
+            "sdf",
+            "jordan",
+            "jordan3",
+            "pyray",
+            "floodfill"
+        ],
+        "type": "liste",
+        "description": "     Method to calculate the inner grid:"
+    },
+    "largestProteinSize": {
+        "name": "largestProteinSize",
+        "default": 0,
+        "value": 0,
+        "width": 30,
+        "type": "int",
+        "description": "largest Protein Size"
+    },
+    "gradients": {
+        "name": "gradients",
+        "default": "",
+        "value": "",
+        "width": 150,
+        "values": [],
+        "type": "liste",
+        "description": "Gradients available"
+    },
+    "resultfile": {
+        "name": "resultfile",
+        "default": "fillResult",
+        "value": "fillResult",
+        "width": 200,
+        "type": "filename",
+        "description": "result filename"
+    },
+    "smallestProteinSize": {
+        "mini": 1,
+        "maxi": 1000,
+        "name": "smallestProteinSize",
+        "width": 30,
+        "default": 15,
+        "type": "int",
+        "value": 15,
+        "description": "Smallest ingredient packing radius override (low=accurate | high=fast)"
+    },
+    "use_periodicity": {
+        "name": "use_periodicity",
+        "default": false,
+        "value": false,
+        "width": 200,
+        "type": "bool",
+        "description": "Use periodic condition"
+    },
+    "EnviroOnly": {
+        "name": "EnviroOnly",
+        "default": false,
+        "value": false,
+        "width": 30,
+        "type": "bool",
+        "description": "Histo volume Only"
+    }
+}
