@@ -1,7 +1,8 @@
 {
- "overwrite_nbMol_value":10,
+ "overwrite_nbMol_value":0,
+ "nbMol":0,
  "nbJitter":5,
- "molarity":0,
+ "molarity":0.099632331787621,
  "useOrientBias":false,
  "rotRange":6.2831001,
  "color":[
@@ -19,9 +20,9 @@
  ],
  "cutoff_boundary":0,
  "jitterMax":[
-  0.1,
-  0.1,
-  0.1
+  1,
+  1,
+  1
  ],
  "perturbAxisAmplitude":0.1,
  "encapsulatingRadius":113.84028,
@@ -34,44 +35,37 @@
  ],
  "properties":{
   "st_pt2":[
-   97.392,
-   -110.415,
-   4.57
+   38.786,
+   22.058,
+   27.949
   ],
-  "length":73.845,
+  "length":63.423050957310636,
   "st_pt1":[
-   37.353,
-   -31.118,
-   18.76
+   3.087,
+   22.485,
+   13.395
   ],
   "marge_out":[
-   44,
-   46
+   60,
+   70
   ],
   "bend":true,
   "diehdral":[
-   60,
-   66
+   70,
+   90
   ],
   "marge_in":[
-   22,
-   26
+   0,
+   5
   ],
-  "pt2":[
-   0.529,
-   37.436,
-   52.602
-  ],
-  "pt1":[
-   13.757,
-   7.849,
-   14.545
-  ],
+  "pt1":[-119.96, -59.814, 89.309],
+  "pt2":[-45.827, -18.367, 32.825],
+  "pt3":[-1.663, 11.179, -1.802],
+  "pt4":[-52.616, 74.174, 60.161],
   "st_ingr":"mRNA"
  },
  "name":"rna_polymerase",
  "partners_name":[],
- "nbMol":10,
  "weight":0.25,
  "orientBiasRotRangeMax":-3.1415927,
  "gradient":"None",
@@ -82,7 +76,7 @@
  "placeType":"jitter",
  "cutoff_surface":113.84028,
  "packingPriority":2,
- "proba_binding":0.0082528474,
+ "proba_binding":0.5,
  "source":{
   "pdb":"2o5i_1",
   "transform":{
@@ -103,7 +97,7 @@
    ]
   ]
  ],
- "proba_not_binding":0.5,
+ "proba_not_binding":0,
  "use_mesh_rb":false,
  "useRotAxis":false
 }

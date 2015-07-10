@@ -1,7 +1,7 @@
 {
- "overwrite_nbMol_value":0,
+ "overwrite_nbMol_value":10,
  "nbJitter":5,
- "molarity":0,
+ "molarity":0.498161658938104,
  "useOrientBias":false,
  "rotRange":6.2831,
  "color":[
@@ -14,7 +14,7 @@
  "orientBiasRotRangeMin":-3.1415927,
  "radii":[
   [
-   155
+   130
   ]
  ],
  "cutoff_boundary":0,
@@ -33,24 +33,40 @@
   0
  ],
  "properties":{	
+ "marge_out":[
+   24,
+   28
+  ],
+  "diehdral":[
+   67,
+   71
+  ],
+  "marge_in":[
+   48,
+   50
+  ],
   "st_pt2":[
-   -67.637,
-   -242.877,
-   -37.69
+   -17.79,
+   95.035,
+   -90.413
   ],
-  "length":110.689,
+  "length":28.3487519655,
   "st_pt1":[
-   -68.653,
-   -213.527,
-   -7.012
+   -3.29,
+   20.055,
+   -26.37
   ],
+  "pt1":[-100.506, -118.001, -15.25],
+  "pt2":[-38.275, -39.914, -20.695],
+  "pt3":[-10.252, -39.096, -24.904],
+  "pt4":[72.775, -54.869, -78.361],
   "bend":true,
   "st_ingr":"peptides"
  },
  "name":"ribosome_low",
  "partners_name":[],
- "nbMol":0,
- "weight":1,
+ "nbMol":10,
+ "weight":0.5,
  "orientBiasRotRangeMax":-3.1415927,
  "gradient":"",
  "Type":"MultiSphere",
@@ -60,25 +76,23 @@
  "placeType":"jitter",
  "cutoff_surface":155,
  "packingPriority":0,
- "proba_binding":0.25,
+ "proba_binding":1,
  "source":{
   "pdb":"1TWT_1TWV",
   "transform":{
-   "center":true,
-   "translate":[-24.072,-99.02,-10.563],
-   "rotate":[-7.186,0.0,180.0]
+   "center":true
   }
  },
  "positions":[
   [
    [
-    -22.192,
-    -105.945,
-    -7.28
+    0,
+    0,
+    0
    ]
   ]
  ],
- "proba_not_binding":0.5,
+ "proba_not_binding":0,
  "use_mesh_rb":false,
  "useRotAxis":false
 }
