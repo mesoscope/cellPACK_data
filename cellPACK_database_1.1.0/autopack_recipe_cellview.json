@@ -5,19 +5,6 @@
             "resultfile": "autoPACKserver/results/NM_Analysis_FigureA1.0.cpr.json"
         }
     },
-    "NM_Analysis_FigureB": {
-        "1.0": {
-            "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureB1.0.json",
-            "resultfile": "autoPACKserver/results/NM_Analysis_FigureB1.0.cpr.json"
-        }
-    },
-    "NM_Analysis_FigureC": {
-        "1.4": {
-            "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureC1.4.json",
-            "resultfile": "autoPACKserver/results/NM_Analysis_FigureC1.4.cpr.json"
-        }
-    },
-
     "Mycoplasma": {
         "1.0": {
             "setupfile": "autoPACKserver/recipes/Mycoplasma1.5.json",
@@ -34,6 +21,12 @@
         "1.0": {
             "setupfile": "autoPACKserver/recipes/BloodHIV1.1.json",
             "resultfile": "autoPACKserver/results/BloodHIV1.0_mixed_fixed_nc1.cpr"
+        }
+    },
+   "Influenza":{
+        "1.0": {
+            "setupfile": "autoPACKserver/recipes/Influenza1.0.json",
+            "resultfile": "autoPACKserver/results/influenza_model1.json"
         }
     }
 } 
