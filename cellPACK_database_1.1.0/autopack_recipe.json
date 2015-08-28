@@ -2,7 +2,7 @@
     "NM_Analysis_FigureA": {
         "1.0": {
             "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureA1.0.json",
-            "resultfile": "autoPACKserver/results/NM_Analysis_FigureA1.0.apr.json"
+            "resultfile": "autoPACKserver/results/NM_Analysis_FigureA1.0.cpr.json"
         }
     },
     "NM_Analysis_FigureB": {
