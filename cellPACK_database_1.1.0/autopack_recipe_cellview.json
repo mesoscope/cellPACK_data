@@ -1,0 +1,39 @@
+{
+    "NM_Analysis_FigureA": {
+        "1.0": {
+            "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureA1.0.json",
+            "resultfile": "autoPACKserver/results/NM_Analysis_FigureA1.0.cpr.json"
+        }
+    },
+    "NM_Analysis_FigureB": {
+        "1.0": {
+            "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureB1.0.json",
+            "resultfile": "autoPACKserver/results/NM_Analysis_FigureB1.0.cpr.json"
+        }
+    },
+    "NM_Analysis_FigureC": {
+        "1.4": {
+            "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureC1.4.json",
+            "resultfile": "autoPACKserver/results/NM_Analysis_FigureC1.4.cpr.json"
+        }
+    },
+
+    "Mycoplasma": {
+        "1.0": {
+            "setupfile": "autoPACKserver/recipes/Mycoplasma1.5.json",
+            "resultfile": "autoPACKserver/results/Mycoplasma1.5_mixed_pdb_fixed.cpr"
+        }
+    },
+    "HIV": {
+        "1.8": {
+            "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6-7.json",
+            "resultfile": "autoPACKserver/results/HIV-1_0.1.6-8_mixed_pdb.cpr"
+        }
+    },
+    "BloodHIV": {
+        "1.0": {
+            "setupfile": "autoPACKserver/recipes/BloodHIV1.1.json",
+            "resultfile": "autoPACKserver/results/BloodHIV1.0_mixed_fixed_nc1.cpr"
+        }
+    }
+} 
