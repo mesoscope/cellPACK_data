@@ -8,13 +8,13 @@
     "NM_Analysis_FigureB": {
         "1.0": {
             "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureB1.0.json",
-            "resultfile": "autoPACKserver/results/NM_Analysis_FigureB1.0.apr.json"
+            "resultfile": "autoPACKserver/results/NM_Analysis_FigureB1.0.cpr.json"
         }
     },
     "NM_Analysis_FigureC": {
         "1.4": {
             "setupfile": "autoPACKserver/recipes/NM_Analysis_FigureC1.4.json",
-            "resultfile": "autoPACKserver/results/NM_Analysis_FigureC1.4.apr.json"
+            "resultfile": "autoPACKserver/results/NM_Analysis_FigureC1.4.cpr.json"
         }
     },
 
