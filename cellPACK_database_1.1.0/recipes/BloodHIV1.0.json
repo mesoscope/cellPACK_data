@@ -45,7 +45,7 @@
   "largestProteinSize":47.92,
   "resultfile":"/opt/data/dev/cellPACK/cellPACK_data/cellPACK_database_1.1.0/results/HIV-1_0.1.6_3.apr.json",
   "use_periodicity":false,
-  "EnviroOnly":false,
+  "EnviroOnly":false
  },
  "gradients":{
   "gradRadSPIKE":{
