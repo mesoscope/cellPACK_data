@@ -43,7 +43,7 @@
   "pdb":"2plv",
   "biomt":true,
   "transform":{
-   "center":false,
+   "center":false
   }
  },
  "proba_not_binding":0.5,
