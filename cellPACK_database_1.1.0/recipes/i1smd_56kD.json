@@ -6,7 +6,7 @@
  "rotRange":6.2831,
  "meshFile":"autoPACKserver/geometries/i1smd_56kD_1.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/collisionTrees/i1smd_56kD.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/i1smd_56kD.sph ",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
