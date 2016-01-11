@@ -6,7 +6,7 @@
  "rotRange":6.2831,
  "meshFile":"autoPACKserver/geometries/Heparin_1.dae",
  "coordsystem":"left",
- "sphereFile":"autoPACKserver/collisionTrees/2hhb_hemoglobin.sph",
+ "sphereFile":"autoPACKserver/collisionTrees/3irl_hemoglobin.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
  "jitterMax":[
