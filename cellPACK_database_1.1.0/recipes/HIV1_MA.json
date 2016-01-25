@@ -8,11 +8,7 @@
  "meshFile":"autoPACKserver/geometries/HIV1_MA.dae",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
- "jitterMax":[
-  0.5,
-  0.02,
-  0.5
- ],
+ "jitterMax":[0.5,0.02,0.5],
  "perturbAxisAmplitude":0.1,
  "encapsulatingRadius":52.878,
  "partners_position":[],
@@ -39,7 +35,7 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"MA_matrix_G1.pdb",
- "source":{"pdb":"MA_matrix_G1.pdb","transform":{"center":false}},
+ "source":{"pdb":"MA_matrix_G1.pdb","transform":{"center":true,"offset":[0.0,-33.453,0.0]}},
  "useRotAxis":false,
  "radii":[[  9.65,   7.88,   9.61,  16.99,  16.96,  17.27,   9.87,   9.93,
           9.58,   7.51,   7.38,   7.41,   3.39,   3.02,   4.17,   4.24,
