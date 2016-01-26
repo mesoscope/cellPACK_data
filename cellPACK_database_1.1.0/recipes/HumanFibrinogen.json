@@ -34,7 +34,7 @@
  "source":{
   "pdb":"3ghg_ABCDEFMNOP.pdb",
   "transform":{
-   "center":true,
+   "center":true
   }
  },
  "proba_not_binding":0.5,
