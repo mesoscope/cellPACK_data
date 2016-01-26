@@ -15,7 +15,7 @@
   1
  ],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":36.83,
+ "encapsulatingRadius":191.3,
  "partners_position":[],
  "isAttractor":false,
  "principalVector":[
@@ -42,7 +42,7 @@
  "source":{
   "pdb":"2rcj",
   "transform":{
-   "center":false
+   "center":true
   }
  },
  "proba_not_binding":0.5,
