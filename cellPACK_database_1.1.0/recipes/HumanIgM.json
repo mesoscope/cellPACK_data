@@ -1,0 +1,42 @@
+{
+ "overwrite_nbMol_value":2,
+ "nbJitter":5,
+ "molarity":1.9680923e-06,
+ "useOrientBias":false,
+ "rotRange":6.2831,
+ "meshFile":"autoPACKserver/geometries/HumanIgM.dae",
+ "sphereFile":"autoPACKserver/collisionTrees/HumanIgM.sph",
+ "meshName":"HumanIgM",
+ "orientBiasRotRangeMin":-3.1415927,
+ "cutoff_boundary":0,
+ "jitterMax":[1,1,1],
+ "perturbAxisAmplitude":0.1,
+ "encapsulatingRadius":191.3,
+ "partners_position":[],
+ "isAttractor":false,
+ "principalVector":[ 1, 0, 0],
+ "properties":{},
+ "name":"HumanIgM",
+ "partners_name":[],
+ "nbMol":2,
+ "weight":0.2,
+ "orientBiasRotRangeMax":-3.1415927,
+ "gradient":"",
+ "Type":"MultiSphere",
+ "excluded_partners_name":[],
+ "packingMode":"random",
+ "rejectionThreshold":30,
+ "placeType":"jitter",
+ "cutoff_surface":36.83,
+ "packingPriority":-10,
+ "proba_binding":0.5,
+ "source":{
+  "pdb":"2rcj",
+  "transform":{
+   "center":true
+  }
+ },
+ "proba_not_binding":0.5,
+ "use_mesh_rb":false,
+ "useRotAxis":false
+}
