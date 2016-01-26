@@ -33,7 +33,7 @@
  "source":{
   "pdb":"igg.pdb",
   "transform":{
-   "center":true,
+   "center":true
   }
  },
  "proba_not_binding":0.5,
