@@ -6,26 +6,19 @@
  "rotRange":6.2831,
  "gradient":"",
  "meshFile":"autoPACKserver/geometries/HIV1_SP1_hack_0_1_1.dae",
+ "meshName":"HIV1_SP1_hack_0_1_0",
  "coordsystem":"left",
  "sphereFile":"autoPACKserver/collisionTrees/HIV1_SP1_hack_0_1_0.sph",
  "orientBiasRotRangeMin":-3.1415927,
  "cutoff_boundary":0,
- "jitterMax":[
-  1,
-  1,
-  1
- ],
+ "jitterMax":[1,1,1],
  "perturbAxisAmplitude":0.1,
- "encapsulatingRadius":30,
+ "encapsulatingRadius":16,
  "partners_position":[],
  "isAttractor":false,
- "principalVector":[
-  1,
-  0,
-  0
- ],
+ "principalVector":[1,0,0],
  "properties":{},
- "name":"HIV1_SP1_hack_0_1_0",
+ "name":"HIV1_SP1",
  "partners_name":[],
  "nbMol":2500,
  "weight":0.2,
@@ -41,6 +34,6 @@
  "proba_not_binding":0.5,
  "use_mesh_rb":false,
  "pdb":"HIV1_SP1_hack_0_1_0.pdb",
- "source":{"pdb":"HIV1_SP1_hack_0_1_0.pdb","transform":{"center":false}},
+ "source":{"pdb":"HIV1_SP1_hack_0_1_0.pdb","transform":{"center":true}},
  "useRotAxis":false
 }
