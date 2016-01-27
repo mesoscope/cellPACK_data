@@ -6,7 +6,7 @@
  "rotRange":6.2831,
  "gradient":"",
  "meshFile":"autoPACKserver/geometries/HIV1_P6_VPR_0_1_2.dae",
- "meshName":"HIV1_P6_VPR_0_1_0",
+ "meshName":"HIV1_P6_VPR",
  "coordsystem":"left",
  "sphereFile":"autoPACKserver/collisionTrees/P6_VPR.sph",
  "orientBiasRotRangeMin":-3.1415927,
