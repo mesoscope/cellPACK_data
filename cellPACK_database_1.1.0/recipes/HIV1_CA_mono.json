@@ -20,7 +20,7 @@
  "properties":{},
  "name":"HIV1_CA_mono",
  "partners_name":[],
- "nbMol":91,
+ "nbMol":0,
  "weight":0.2,
  "orientBiasRotRangeMax":3.1415927,
  "packingMode":"random",
