@@ -825,7 +825,7 @@
     "partners_position":[],
     "rotRange":6.2831,
     "color":null,
-    "meshFile":"autoPACKserver/geometries/i1smd_56kD_1.dae",
+    "meshFile":"autoPACKserver/geometries/i1smd_56kD_2.dae",
     "meshName":"Transferrin",
     "sphereFile":"autoPACKserver/collisionTrees/1smd_56kD.sph",
     "weight":0.2,
