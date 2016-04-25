@@ -1,0 +1,834 @@
+{
+  "recipe": {
+    "version": "1.0",
+    "name": "HIV"
+  },
+  "options": {
+    "cancelDialog": false,
+    "_hackFreepts": false,
+    "windowsSize": 30,
+    "use_gradient": false,
+    "placeMethod": "pandaBullet",
+    "saveResult": false,
+    "runTimeDisplay": false,
+    "overwritePlaceMethod": true,
+    "innerGridMethod": "jordan3",
+      "boundingBox":[
+       [
+        -800,
+        -1272,
+        -1734
+       ],
+       [
+        881.659,
+        1272,
+        1734
+       ]
+      ],
+    "gradients": [
+      
+    ],
+    "smallestProteinSize": 50,
+    "computeGridParams": true,
+    "freePtsUpdateThrehod": 0.0,
+    "pickWeightedIngr": true,
+    "_timer": false,
+    "ingrLookForNeighbours": false,
+    "pickRandPt": true,
+    "largestProteinSize": 47.92,
+    "resultfile": "hiv_immature_inside.json",
+    "use_periodicity": false,
+    "EnviroOnly": false
+  },
+  "cytoplasme": {
+    "ingredients": {
+       "Heparin":{
+        "include":"Heparin.json",
+        "name":"Heparin"
+       },
+       "Fibrinogen":{
+        "include":"Fibrinogen.json",
+        "name":"Fibrinogen"
+       },
+       "dLDL":{
+        "include":"dLDL.json",
+        "name":"dLDL"
+       },
+       "AntiTrypsin":{
+        "include":"AntiTrypsin.json",
+        "name":"AntiTrypsin"
+       },
+       "plv_Polio":{
+        "include":"plv_Polio.json",
+        "name":"plv_Polio"
+       },
+       "Hemoglobin":{
+        "include":"Hemoglobin.json",
+        "name":"Hemoglobin"
+       },
+       "i2tsc_63kD":{
+        "include":"i2tsc_63kD.json",
+        "name":"i2tsc_63kD"
+       },
+       "IgG_Antibody_1mer":{
+        "include":"IgG_Antibody_1mer.json",
+        "name":"IgG_Antibody_1mer"
+       },
+       "i1ysx_23kD":{
+        "include":"i1ysx_23kD.json",
+        "name":"i1ysx_23kD"
+       },
+       "SerumAlbumin":{
+        "include":"SerumAlbumin.json",
+        "name":"SerumAlbumin"
+       },
+       "Ceruloplasmin":{
+        "include":"Ceruloplasmin.json",
+        "name":"Ceruloplasmin"
+       },
+       "iLDL":{
+        "include":"iLDL.json",
+        "name":"iLDL"
+       },
+       "iIgA_Antibody_2mer":{
+        "include":"iIgA_Antibody_2mer.json",
+        "name":"iIgA_Antibody_2mer"
+       },
+       "Insulin":{
+        "include":"Insulin.json",
+        "name":"Insulin"
+       },
+       "FactorH1":{
+        "include":"FactorH1.json",
+        "name":"FactorH1"
+       },
+       "Transferrin":{
+        "include":"Transferrin.json",
+        "name":"Transferrin"
+       },
+       "i1smd_56kD":{
+        "include":"i1smd_56kD.json",
+        "name":"i1smd_56kD"
+       },
+       "i7aat_91kD":{
+        "include":"i7aat_91kD.json",
+        "name":"i7aat_91kD"
+       },
+       "iIgM_Antibody_5mer":{
+        "include":"iIgM_Antibody_5mer.json",
+        "name":"iIgM_Antibody_5mer"
+       }      
+    }
+  },
+  "compartments": {
+    "Envelope": {
+      "geom": "Envelope.dae",
+      "name": "Envelope",
+      "rep": "EnvelopeBilayer",
+      "rep_file": "http://autofill.googlecode.com/svn/data/HIV/geoms/EnvelopeBilayer3.dae",
+      "surface": {
+        "ingredients": {
+          "iSUTM": {
+            "overwrite_nbMol_value": 21,
+            "nbJitter": 5,
+            "molarity": 0.006,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "iSUTMr.dae",
+            "coordsystem": "left",
+            "orientBiasRotRangeMin": -3.1415927,
+            "cutoff_boundary": 0,
+            "radii": [
+              [
+                42.670000000000002,
+                47.299999999999997,
+                47.060000000000002,
+                47.109999999999999,
+                41.490000000000002,
+                45.100000000000001
+              ]
+            ],
+            "positions": [
+              [
+                [
+                  -0.23999999999999999,
+                  0.44,
+                  29.280000000000001
+                ],
+                [
+                  16.010000000000002,
+                  -28.359999999999999,
+                  -6.5999999999999996
+                ],
+                [
+                  16.620000000000001,
+                  27.670000000000002,
+                  -6.9800000000000004
+                ],
+                [
+                  -32.590000000000003,
+                  0.56000000000000005,
+                  -6.9699999999999998
+                ],
+                [
+                  0.0,
+                  -0.0,
+                  107.59
+                ],
+                [
+                  -33.119999999999997,
+                  0.68999999999999995,
+                  -6.4800000000000004
+                ]
+              ]
+            ],
+            "jitterMax": [
+              0.2,
+              0.1,
+              0.2
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 101.13,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "properties": {
+              
+            },
+            "name": "iSUTM",
+            "partners_name": [
+              
+            ],
+            "nbMol": 21,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "excluded_partners_name": [
+              
+            ],
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 27.13,
+            "packingPriority": -1,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "HIV1_ENV_4ncoABEFIJ.pdb",
+              "transform": {
+                "center": true
+              }
+            },
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "HIV1_ENV_4ncoABEFIJ.pdb",
+            "useRotAxis": false
+          },
+          "GAG": {
+            "overwrite_nbMol_value": 495,
+            "nbJitter": 5,
+            "molarity": 0.14,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "GAG.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "radii": [
+              [
+                48.460000000000001,
+                49.340000000000003,
+                34.380000000000003,
+                41.649999999999999,
+                34.0
+              ]
+            ],
+            "cutoff_boundary": 0,
+            "meshFile": "GAG.dae",
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 265,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "properties": {
+              
+            },
+            "name": "GAG",
+            "partners_name": [
+              
+            ],
+            "nbMol": 495,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "excluded_partners_name": [
+              
+            ],
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "hiv_gag.pdb",
+              "transform": {
+                "center": true
+              }
+            },
+            "positions": [
+              [
+                [
+                  5.3899999999999997,
+                  -1.3,
+                  123.04000000000001
+                ],
+                [
+                  -1.99,
+                  0.02,
+                  26.300000000000001
+                ],
+                [
+                  -4.0999999999999996,
+                  3.7799999999999998,
+                  -211.58000000000001
+                ],
+                [
+                  -0.81999999999999995,
+                  -0.77000000000000002,
+                  -63.07
+                ],
+                [
+                  0.19,
+                  0.23000000000000001,
+                  -136.61000000000001
+                ]
+              ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "hiv_gag.pdb",
+            "useRotAxis": false
+          },
+          "hiv_gag_pol": {
+            "overwrite_nbMol_value": 134,
+            "nbJitter": 5,
+            "molarity": 0.0,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "hiv_gag_pol.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "radii": [
+                [
+                    48.82,
+                    54.770000000000003,
+                    52.729999999999997,
+                    47.049999999999997,
+                    52.189999999999998,
+                    50.670000000000002,
+                    55.770000000000003,
+                    54.890000000000001
+                ]
+            ],
+            "cutoff_boundary": 0,
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 265,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "properties": {
+              
+            },
+            "name": "hiv_gag_pol",
+            "partners_name": [
+              
+            ],
+            "nbMol": 495,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "excluded_partners_name": [
+              
+            ],
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "hiv_gag_pol_align.pdb",
+              "transform": {
+                "center": true
+              }
+            },
+            "positions": [
+                [
+                    [
+                        -6.75,
+                        8.3900000000000006,
+                        59.950000000000003
+                    ],
+                    [
+                        -6.0999999999999996,
+                        -10.550000000000001,
+                        -213.43000000000001
+                    ],
+                    [
+                        11.359999999999999,
+                        10.26,
+                        116.08
+                    ],
+                    [
+                        -23.57,
+                        8.4100000000000001,
+                        116.63
+                    ],
+                    [
+                        0.93000000000000005,
+                        6.9299999999999997,
+                        199.38
+                    ],
+                    [
+                        -4.1399999999999997,
+                        8.5099999999999998,
+                        -32.640000000000001
+                    ],
+                    [
+                        42.460000000000001,
+                        -51.640000000000001,
+                        -268.50999999999999
+                    ],
+                    [
+                        -7.7999999999999998,
+                        12.68,
+                        -123.40000000000001
+                    ]
+                ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "hiv_gag_pol.pdb",
+            "useRotAxis": false
+          },
+          "HIV1_NEF_Hyb_0_2_0": {
+            "include": "HIV1_NEF_Hyb_0_2_1.json",
+            "name": "HIV1_NEF_Hyb_0_2_0",
+            "overwrite": {
+              "molarity": 0,
+              "nbMol": 10
+            }
+          },
+          "HIV1_HLA_1dlh_0_1_0": {
+            "include": "HIV1_HLA_1dlh_0_1_1.json",
+            "name": "HIV1_HLA_1dlh_0_1_0",
+            "overwrite": {
+              "molarity": 0,
+              "nbMol": 2
+            }
+          }
+        }
+      },
+      "interior": {
+        "ingredients": {
+          "HIV1_VIF_Modbase_0_1_0": {
+            "include": "HIV1_VIF_Modbase_0_1_1.json",
+            "name": "HIV1_VIF_Modbase_0_1_0",
+            "overwrite": {
+              "molarity": 0,
+              "nbMol": 100
+            }
+          },
+          "profilinactin": {
+            "nbJitter": 5,
+            "molarity": 0.0,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "profilinactin.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "radii": [
+              [
+                35.560000000000002,
+                36.43
+              ]
+            ],
+            "cutoff_boundary": 0,
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 46,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "properties": {
+              
+            },
+            "name": "profilinactin",
+            "partners_name": [
+              
+            ],
+            "nbMol": 280,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "excluded_partners_name": [
+              
+            ],
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "2btf",
+              "transform": {
+                "center": true
+              }
+            },
+            "positions": [
+              [
+                [
+                  6.2999999999999998,
+                  17.579999999999998,
+                  5.7400000000000002
+                ],
+                [
+                  -4.5800000000000001,
+                  -12.779999999999999,
+                  -4.1699999999999999
+                ]
+              ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "2btf",
+            "useRotAxis": false
+          },
+          "thioltransferase": {
+            "nbJitter": 5,
+            "molarity": 0.0,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "thioltransferase.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "cutoff_boundary": 0,
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 23,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "properties": {
+              
+            },
+            "name": "thioltransferase",
+            "partners_name": [
+              
+            ],
+            "nbMol": 150,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "excluded_partners_name": [
+              
+            ],
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "1b4q",
+              "transform": {
+                "center": true
+              }
+            },
+            "radii": [
+              [
+                22.949999999999999
+              ]
+            ],
+            "positions": [
+              [
+                [
+                  0.0,
+                  -0.0,
+                  -0.0
+                ]
+              ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "1b4q",
+            "useRotAxis": false
+          },
+          "phosphofructokinase": {
+            "nbJitter": 5,
+            "molarity": 0.0,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "phosphofructokinase.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "cutoff_boundary": 0,
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 42,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "properties": {
+              
+            },
+            "name": "phosphofructokinase",
+            "partners_name": [
+              
+            ],
+            "nbMol": 130,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "excluded_partners_name": [
+              
+            ],
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "4pfk",
+              "transform": {
+                "center": true
+              }
+            },
+            "radii": [
+              [
+                25.469999999999999,
+                25.420000000000002
+              ]
+            ],
+            "positions": [
+              [
+                [
+                  4.21,
+                  -13.09,
+                  -3.8700000000000001
+                ],
+                [
+                  -5.5999999999999996,
+                  18.02,
+                  5.5300000000000002
+                ]
+              ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "4pfk",
+            "useRotAxis": false
+          },
+          "ezrin": {
+            "nbJitter": 5,
+            "molarity": 0.0,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "ezrin.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "cutoff_boundary": 0,
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 40,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "name": "ezrin",
+            "nbMol": 50,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "1ni2A.pdb",
+              "transform": {
+                "center": true
+              }
+            },
+            "radii": [
+              [
+                40.0
+              ]
+            ],
+            "positions": [
+              [
+                [
+                  -0.12,
+                  0.040000000000000001,
+                  -0.01
+                ]
+              ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "1ni2A.pdb",
+            "useRotAxis": false
+          },
+          "moezin": {
+            "nbJitter": 5,
+            "molarity": 0.0,
+            "useOrientBias": false,
+            "rotRange": 6.2831,
+            "meshFile": "moezin.dae",
+            "orientBiasRotRangeMin": -3.1415927,
+            "cutoff_boundary": 0,
+            "jitterMax": [
+              1,
+              1,
+              1
+            ],
+            "perturbAxisAmplitude": 0.1,
+            "encapsulatingRadius": 65,
+            "partners_position": [
+              
+            ],
+            "isAttractor": false,
+            "principalVector": [
+              0,
+              1,
+              0
+            ],
+            "name": "moezin",
+            "nbMol": 50,
+            "weight": 0.2,
+            "orientBiasRotRangeMax": -3.1415927,
+            "gradient": "",
+            "Type": "MultiSphere",
+            "packingMode": "random",
+            "rejectionThreshold": 30,
+            "placeType": "pandaBullet",
+            "cutoff_surface": 103,
+            "packingPriority": -3,
+            "proba_binding": 0.5,
+            "source": {
+              "pdb": "1e5w",
+              "transform": {
+                "center": true
+              }
+            },
+            "radii": [
+              [
+                40.0
+              ]
+            ],
+            "positions": [
+              [
+                [
+                  -0.12,
+                  0.040000000000000001,
+                  -0.01
+                ]
+              ]
+            ],
+            "proba_not_binding": 0.5,
+            "use_mesh_rb": false,
+            "pdb": "1e5w",
+            "useRotAxis": false
+          },
+          "HIV1_NEFsol_Hyb_0_2_0": {
+            "include": "HIV1_NEFsol_Hyb_0_2_1.json",
+            "name": "HIV1_NEFsol_Hyb_0_2_0",
+            "overwrite": {
+              "molarity": 0,
+              "nbMol": 20
+            }
+          },
+          "HIV1_VPR_1esx_0_1_0": {
+            "include": "HIV1_VPR_1esx_0_1_1.json",
+            "name": "HIV1_VPR_1esx_0_1_0",
+            "overwrite": {
+              "molarity": 0,
+              "nbMol": 150
+            }
+          }
+        }
+      }
+    }
+  }
+}
