@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.811615914265, 0.112376883815, 0.367118514705],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 62.8111154072,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Calnexin_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Calnexin",
+    "positions": [
+        [[-7.823569291082157, 25.774805950641618, 21.204910671622663], [-1.9537140317087744, -1.9012603929824885, -13.027618532662856], [-26.28175546567745, -26.827709014835253, 36.321850885472095], [11.031048916115404, 21.720495187309357, -1.982972525170083], [11.57656346023921, 11.773041406599472, -20.35462591521079], [17.34461137166748, -4.293381538015151, -10.436711295877368], [2.1404282559896366, -28.678670037033672, 30.017328119435764], [-29.62195299600624, 7.152933569978845, 33.808070358094014], [7.004181209362614, -6.6007998641382075, -28.140681384634817]]
+    ],
+    "meshName": "Calnexin",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1JHN",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1JHN",
+    "useRotAxis": 0
+}

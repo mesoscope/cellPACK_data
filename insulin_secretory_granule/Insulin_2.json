@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.0415866684757, 0.124602615843, 0.628306971294],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 33.6451518172,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Insulin_2_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Insulin_2",
+    "positions": [
+        [[4.315919995962529, 5.614014549289998, -10.612021750137751], [-5.822758212400526, -6.514361557168283, 3.163500620888579], [3.0894678782860923, -12.735172370195793, 4.1961355701950405], [-2.017132531714169, 22.589391770152158, -3.9162858004225707], [3.5616734255155236, 7.6623492870411205, 3.1917752005344875]]
+    ],
+    "meshName": "Insulin_2",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2KQP",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2KQP",
+    "useRotAxis": 0
+}

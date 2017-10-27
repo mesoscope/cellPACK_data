@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.618945503175, 0.369464531011, 0.422278589307],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 47.7979242491,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Syntaxin_13_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -37.8125],
+    "properties": {},
+    "partners_name": [],
+    "name": "Syntaxin_13",
+    "positions": [
+        [[25.171792097334365, -8.996750173188063, -10.702353335664164], [11.962730447184972, 4.734501474257016, -11.400975362294636], [-0.8715869927367785, -0.6498908180676942, 0.5418578357188695], [-16.20130970504685, -0.12156324302645227, 11.473786425755698]]
+    ],
+    "meshName": "Syntaxin_13",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2DNX_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2DNX_mb_c",
+    "useRotAxis": 0
+}

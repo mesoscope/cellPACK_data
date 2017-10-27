@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.412816056002, 0.149388451586, 0.358044202734],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 39.5238981923,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Beta_1_3_glucuronyltransferase_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -41.847],
+    "properties": {},
+    "partners_name": [],
+    "name": "Beta_1_3_glucuronyltransferase",
+    "positions": [
+        [[-10.851282244680473, 9.983956841564144, -1.4372479571699681], [17.976708448284228, -0.9171773003525975, -21.680460776056375], [19.888061843237285, -10.745669274719056, -6.011743299778847], [-16.966015386159047, -15.063586611925711, -0.6743411497580718], [9.171812617671254, 7.274882794760483, -9.095489407234112], [-18.78714895292271, 15.381424461768706, 13.09314525123703], [17.78912396993317, -3.812909520894288, 10.995935638452298], [-0.694362934750092, 9.878324697457073, 13.746454939997646], [1.8821689435492477, -8.15635733177878, -16.87785000344145], [-0.6016143725602101, -5.393415899590434, 0.588195489111512], [26.168390311280486, 5.059674879653046, -2.432281666093614], [-16.17119339477666, -3.0623047367586302, 16.08791768045656], [-25.617529809274334, -0.2277702867617239, -0.28230952236582346]]
+    ],
+    "meshName": "Beta_1_3_glucuronyltransferase",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3CU0_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3CU0_mb_c",
+    "useRotAxis": 0
+}

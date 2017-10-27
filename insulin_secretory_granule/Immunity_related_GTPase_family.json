@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.980735998924, 0.471320726258, 0.69774287709],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 40.4097524385,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Immunity_related_GTPase_family_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -47.7225],
+    "properties": {},
+    "partners_name": [],
+    "name": "Immunity_related_GTPase_family",
+    "positions": [
+        [[-11.285538828088232, 10.454533765681745, 19.040359350549977], [7.600340909559965, 6.538277223937926, 2.578425095285514], [-5.455068108498753, -20.236699728885462, -15.362315820658269], [-15.623537105228635, -5.703575037047897, -21.804519976594754], [20.16743637691209, 1.424635240141373, -4.850217936331438], [0.18076992245928447, -0.7783578390118171, -22.576792993874694], [3.77748226287745, -11.576836148346436, -5.507545849823781], [4.931471436452074, 15.548395723238883, 20.097108233114106], [-7.097673461373575, 1.9267450383829154, 3.14117281325543], [18.938816393369486, 6.36325757307549, 18.763714723204103], [-15.831354726209332, -14.413263597894458, -6.566333036324474]]
+    ],
+    "meshName": "Immunity_related_GTPase_family",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1tpz_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1tpz_mb_c",
+    "useRotAxis": 0
+}

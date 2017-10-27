@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.19233744693, 0.125571475354, 0.125129137148],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 41.3220462619,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Cell_division_control_protein__coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Cell_division_control_protein_",
+    "positions": [
+        [[15.979603260978216, 9.915966230942983, 16.090267680910898], [-10.948560785097476, 13.83171102908992, -22.045511399736903], [1.4363246035092634, -16.941258562703954, -11.994084317356151], [-0.12537480928179232, 10.370911832956365, 12.450649926401995], [-11.923687030521394, -6.211801085238037, -14.101214545297605], [-5.299610041050931, -10.65329630768532, 12.299322133802331], [4.306894717986522, 1.5130902261497168, -17.104076282231052], [9.629235477169612, -7.024575453552573, 2.949954479660806], [9.668094876190125, -4.647849016411752, 23.458918623923257], [-9.110817149748458, 8.364315889566278, -5.491998978455832]]
+    ],
+    "meshName": "Cell_division_control_protein_",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "5C2J",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "5C2J",
+    "useRotAxis": 0
+}

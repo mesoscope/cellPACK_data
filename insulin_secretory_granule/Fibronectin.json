@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.208282299717, 0.391656448512, 0.629722035137],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 42.5171816743,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Fibronectin_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Fibronectin",
+    "positions": [
+        [[-12.457693315905686, -16.577721455226005, -8.971415436812675], [-26.655308397965964, -9.615469784793188, -10.583820156142925], [6.40057578760621, 19.39419620674006, 15.776369812821807], [0.7395351088476163, -7.651760635718002, 9.977348046877502], [-7.548671880414833, 1.5001722798908481, -15.705472515050648], [10.215094598268356, 2.3788174316227244, 2.130305170480843], [22.50421597757926, 15.167280860529472, 10.502628569269227], [1.2523016780246163, -11.91152943627059, -13.497000767572057]]
+    ],
+    "meshName": "Fibronectin",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3M7P",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3M7P",
+    "useRotAxis": 0
+}

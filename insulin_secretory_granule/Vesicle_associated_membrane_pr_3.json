@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.253900564007, 0.968906927361, 0.875321671686],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 66.8071039208,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Vesicle_associated_membrane_pr_3_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -67.91],
+    "properties": {},
+    "partners_name": [],
+    "name": "Vesicle_associated_membrane_pr_3",
+    "positions": [
+        [[3.602004761009674, -1.6274458658980762, -19.68881822061994], [-8.194190934876554, 0.12349508738880131, 9.652719636040382], [0.49422735255284306, 1.0065678591176848, -4.794716337463238], [-10.033148222375326, 1.9611422679729236, 41.471906991602644], [-7.06641571920965, 4.316751965781126, 26.880115381697077], [17.215445936815335, -6.716991432658419, -50.97171681649721], [2.504949711014282, 5.976919245269799, 12.342101538858168], [8.153705458830967, -7.154098788631692, -33.69679628506917]]
+    ],
+    "meshName": "Vesicle_associated_membrane_pr_3",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4WY4_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4WY4_mb_c",
+    "useRotAxis": 0
+}

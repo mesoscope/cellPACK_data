@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.338503210992, 0.183258736745, 0.389839174206],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 50.3140182673,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Flotillin_1_Reggie_2_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Flotillin_1_Reggie_2",
+    "positions": [
+        [[2.871000198711281, -7.643656100886241, -0.6518787235325403], [-11.364903876435495, 14.697025806758687, 0.024763794718259655], [-11.527823768638179, 0.9667904646413806, 1.8748062841292767], [18.719559813044174, -2.5292210806159328, -2.419276404935707], [13.54756997718755, -17.0209673277351, -4.703164759173443], [-0.6077668896038283, 4.97062722877694, 1.2636117340344728], [-30.871731688831463, 20.104174275787184, 12.47176454320028]]
+    ],
+    "meshName": "Flotillin_1_Reggie_2",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1WIN",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1WIN",
+    "useRotAxis": 0
+}

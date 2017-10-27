@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.279043092293, 0.177218846755, 0.702857914146],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 37.4199145021,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "ADP_ribosylation_factor_6_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -35.305],
+    "properties": {},
+    "partners_name": [],
+    "name": "ADP_ribosylation_factor_6",
+    "positions": [
+        [[20.56046016446223, 8.185129024896845, 5.141788344742939], [-24.544994889832626, -1.0925784515225851, 6.557667165296584], [-9.693533584012677, 6.106256610872688, 6.428215287489701], [-11.229331914219902, -9.15926888946758, -2.041768409637682], [25.302350496144474, -2.28867317183223, -6.966318344879175], [12.306060230930267, -5.709776352888107, 10.77152461641181], [11.613338826079156, -10.8353521401812, -4.066828180217156], [-19.772135409292055, 7.310876225153783, -8.696685528453001], [5.860945156350585, 4.700559835762862, -5.478186269472709]]
+    ],
+    "meshName": "ADP_ribosylation_factor_6",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2J5X_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2J5X_mb_c",
+    "useRotAxis": 0
+}

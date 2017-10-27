@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.0236227625142, 0.710079377945, 0.324711929254],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 49.9197411887,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "14_3_3_protein_beta_alpha_Prot_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "14_3_3_protein_beta_alpha_Prot",
+    "positions": [
+        [[7.154295750067482, 22.89347315196033, -2.664303534643539], [9.481831795208473, -17.358208829209385, -3.267992059532147], [-1.49406285091439, -9.743743257263048, -18.510262921703653], [1.5734080819156706, 7.166639210279642, -2.4933579767886833], [3.598745576846801, 28.70603654308923, 12.990102459698596], [11.668882503878455, -7.957116768803837, 12.477397399115818], [-18.269247927476684, -19.95010456307411, -15.999664813087895], [-0.25477665441038067, 20.539310222156516, 28.86836449647073], [-12.591347650260024, 31.201913241659845, 18.841433240462752], [-14.276247993999657, -29.709235469547526, -1.9598561425552052], [13.122866029945499, 12.297759847427931, 13.213846663903297], [0.10270135096805445, -28.20134010677532, -12.816239125560204], [-3.5681390848521715, 11.289115244285242, -17.827195331817464]]
+    ],
+    "meshName": "14_3_3_protein_beta_alpha_Prot",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4DNK",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4DNK",
+    "useRotAxis": 0
+}

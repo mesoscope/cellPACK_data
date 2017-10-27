@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.609526831598, 0.274387275247, 0.834391562587],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 53.1173258091,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Rab_effector_Noc2_Rabphilin_3A_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -42.064],
+    "properties": {},
+    "partners_name": [],
+    "name": "Rab_effector_Noc2_Rabphilin_3A",
+    "positions": [
+        [[-0.2131276957001762, -7.7482163342097525, 0.5222545456554363], [3.0409424013684436, 8.64538244499654, -0.30380151171520836], [-32.90901795417406, -6.017167505669668, 15.18892655978334], [-15.760497731565495, -5.592663866773659, 17.15024889885741], [-15.779288692133797, -2.454681087669775, -3.451523707798796], [6.061371516658362, 8.768470555381677, -17.508561416122223], [18.67173610205798, -4.717237106781205, -6.575413653584938], [20.82400785088518, 5.195866405667153, 5.169824993482146]]
+    ],
+    "meshName": "Rab_effector_Noc2_Rabphilin_3A",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1ZBD_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1ZBD_mb_c",
+    "useRotAxis": 0
+}

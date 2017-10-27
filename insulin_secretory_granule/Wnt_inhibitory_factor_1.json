@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.0748560497759, 0.704326348565, 0.236616086745],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 34.1891631416,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Wnt_inhibitory_factor_1_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Wnt_inhibitory_factor_1",
+    "positions": [
+        [[-10.652905279753417, -1.1831723366918507, -8.443578675924876], [14.563893831746045, 3.748198621955681, 0.500688886705666], [9.95305175848303, 4.976649437036905, 19.649646050237422], [-5.575683002183051, -8.549308884847036, 12.723068627227514], [-12.730170526380457, -18.57015925082979, -7.63744993664033], [4.463934145271071, 4.785373004865359, -14.769151515307271], [-1.2540692460812535, 13.537465747398485, -2.1209031726970533]]
+    ],
+    "meshName": "Wnt_inhibitory_factor_1",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2YGQ",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2YGQ",
+    "useRotAxis": 0
+}

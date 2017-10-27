@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.56620070657, 0.701927860698, 0.965651294271],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 47.866631348,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Receptor_type_tyrosine_protein_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -42.3715],
+    "properties": {},
+    "partners_name": [],
+    "name": "Receptor_type_tyrosine_protein",
+    "positions": [
+        [[-17.427586498333486, -14.904593384129237, -22.636281558144663], [23.768055318781574, 9.16515731993831, 0.28415437743690797], [27.79006879024158, -8.75672774276046, 10.167828001310458], [6.286557193659963, 2.24946631617551, 1.8151981209641206], [13.701450780573449, 24.19343062475442, 6.27536941353271], [-12.415664288520443, 0.15379205345343103, -10.61095298598808], [23.638635127938432, -10.95458501853664, -5.422762271776994], [12.842917849022488, 6.136248251348826, 15.14564928360146], [-16.33927314506986, 3.9551951626883093, 6.500600559616953], [-8.302321200941023, -22.632316674148473, -11.747453183084065], [-33.48316284866858, -1.7793375262899223, -12.646233927215233], [29.248044739606417, 14.513461227791996, 17.695515586441946], [-20.81231803501375, -12.589573818334829, -1.3594223719870746], [-30.910433445392908, 3.4814136650630068, 5.5345826546804195]]
+    ],
+    "meshName": "Receptor_type_tyrosine_protein",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2QEP_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2QEP_mb_c",
+    "useRotAxis": 0
+}

@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.150084523, 0.595446217583, 0.266984047789],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 53.5031675845,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Phosphatidylinositol_4_kinase__coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -39.3305],
+    "properties": {},
+    "partners_name": [],
+    "name": "Phosphatidylinositol_4_kinase_",
+    "positions": [
+        [[-3.2755305849061647, 12.731810323983268, 1.7836738723509937], [-7.369983176169741, -17.969257354274788, 17.574972904194105], [13.21226540526322, 9.724113503371607, -5.276657265214385], [-29.995690118736835, 8.77305226081419, 25.981112903363023], [1.9285287750718318, -13.901813305628371, 0.07832020215365566], [6.679288574109706, 6.006135846123737, 15.572907924719406], [8.879312245464105, -5.418915479225782, -20.06942805119896], [-11.187086341044774, -7.393131126276707, 4.179924215125032], [1.6098805468372581, 12.240294198082074, -16.037434144713774]]
+    ],
+    "meshName": "Phosphatidylinositol_4_kinase_",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4HNE_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4HNE_mb_c",
+    "useRotAxis": 0
+}

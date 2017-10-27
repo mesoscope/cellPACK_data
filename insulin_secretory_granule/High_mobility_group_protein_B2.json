@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.958968348812, 0.523928750385, 0.690308583665],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 44.7522069214,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "High_mobility_group_protein_B2_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -38.276],
+    "properties": {},
+    "partners_name": [],
+    "name": "High_mobility_group_protein_B2",
+    "positions": [
+        [[-30.773835930467627, 7.357055520753535, -14.53230533859688], [-4.682473845274189, 7.129272704051495, -1.1934485636516086], [-23.770327586200974, -3.9452540922383568, -6.348581782763023], [10.285880839054448, -12.197514968849523, 10.186897320614893], [27.152376695619708, 2.1995425090804384, 5.225476777608218]]
+    ],
+    "meshName": "High_mobility_group_protein_B2",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2YRQ_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2YRQ_mb_c",
+    "useRotAxis": 0
+}

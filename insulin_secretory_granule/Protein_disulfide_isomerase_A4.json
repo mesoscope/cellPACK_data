@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.597643120509, 0.857338793316, 0.554380392971],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 43.9023318261,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Protein_disulfide_isomerase_A4_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Protein_disulfide_isomerase_A4",
+    "positions": [
+        [[13.230138849202362, 8.796014198258337, -12.815485445427681], [-1.6534662188232565, 6.004748185874475, -9.36514453419682], [3.265277254482512, 2.52169692917172, -23.603409594145862], [-0.6789705566860532, 14.640068875302003, 9.205739934554751], [-27.811885004273613, 11.763783004567191, 7.551832526764229], [3.2163271661021446, 6.0639633734799645, 23.859190084269887], [18.055379441219998, -6.314667156627745, -16.856732330917517], [-12.75386758139082, 0.8944641459499671, 10.865077739658403], [10.48870329458722, -20.748355728499195, -0.25185314085546795], [-10.920993010853286, 15.486325660344859, 21.881658571076635], [-26.939899971557868, -0.09222540655996325, -2.232287966633932], [24.02140509664866, -21.892680732917672, -4.583917644674029], [8.87805283770956, 1.0869311135723267, 9.24035290674889]]
+    ],
+    "meshName": "Protein_disulfide_isomerase_A4",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3EC3",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3EC3",
+    "useRotAxis": 0
+}

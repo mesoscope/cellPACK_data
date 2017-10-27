@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.687802200372, 0.866313939595, 0.0564885421904],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 40.7578953788,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Carboxypeptidase_E_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Carboxypeptidase_E",
+    "positions": [
+        [[2.318703779162307, 1.4025648931894126, 16.254821136946777], [-18.66282100783019, -8.930651513498356, 3.1233263704725505], [-16.00575755736721, 10.28670913852148, -2.7124662858706614], [16.540981105639442, 0.8320693531616734, -7.445404503966637], [1.3942752785557855, 12.712169147534969, -9.205326289451804], [17.897332425720286, -3.9584402990266456, 9.280415474346677], [-2.4324460139186797, -7.255573506456331, -6.556717954645228], [-5.7198257810012905, 11.432865301704824, 7.738855304301554], [8.801107535781185, -17.155989007462814, -0.5950002539169114], [16.91333940556725, 12.101912555868369, 4.250970707288251], [-21.49430346573444, -7.16291105722982, -14.60101337706743]]
+    ],
+    "meshName": "Carboxypeptidase_E",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2NSM",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2NSM",
+    "useRotAxis": 0
+}

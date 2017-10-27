@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.742100722954, 0.558783889082, 0.487196217312],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 27.3694192174,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Synaptotagmin_like_protein_4_E_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -32.8765],
+    "properties": {},
+    "partners_name": [],
+    "name": "Synaptotagmin_like_protein_4_E",
+    "positions": [
+        [[5.904661845688993, -4.39379105296613, 3.6096268031332412], [13.8473544058691, 2.2437171315329616, -5.646779987668829], [-3.8735475407781053, 3.468834544527485, -3.676281014790281], [-13.007117743463706, -2.3346895790441393, 6.147135724599569]]
+    ],
+    "meshName": "Synaptotagmin_like_protein_4_E",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3FDW_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3FDW_mb_c",
+    "useRotAxis": 0
+}

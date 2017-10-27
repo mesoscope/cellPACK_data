@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.440971888809, 0.477527897759, 0.670266900362],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 43.2748630177,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "14_3_3_protein_zeta_delta_Prot_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "14_3_3_protein_zeta_delta_Prot",
+    "positions": [
+        [[-17.818903682983656, -3.9970882828257626, 7.405484280559433], [-9.316971940791236, 16.116921150367425, 7.544680360480404], [12.416884266037806, -9.726145205725423, 7.195622933625813], [-27.942050637362374, 9.871591215462304, 1.7076932259007371], [-26.949723631455136, 6.962887856995928, -16.402780846587493], [25.309821808721903, 3.399327255046694, -13.799867496819713], [-24.985225565112565, -8.039400580845397, -8.642374137816796], [28.402784018536465, -7.9123609475279295, 3.1397371484942482], [20.914377695831327, 7.725194189470406, 4.047944248518536], [5.318142036637103, 16.11391457456147, 0.6072161101937362], [-2.5709661583917334, -15.786420575870459, 11.215724472873386], [23.71529164348429, -12.530619083098685, -13.20009556336442]]
+    ],
+    "meshName": "14_3_3_protein_zeta_delta_Prot",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4ZDR",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4ZDR",
+    "useRotAxis": 0
+}

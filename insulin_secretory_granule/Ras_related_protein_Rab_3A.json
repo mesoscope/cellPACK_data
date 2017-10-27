@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.41904438713, 0.162745227543, 0.62630434248],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 53.1173258091,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Ras_related_protein_Rab_3A_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -42.064],
+    "properties": {},
+    "partners_name": [],
+    "name": "Ras_related_protein_Rab_3A",
+    "positions": [
+        [[-0.2131276957001762, -7.7482163342097525, 0.5222545456554363], [20.956070254304404, 5.136838384915936, 5.360306103833431], [18.681369021642826, -4.616452809890265, -6.5720845731507715], [3.531072400090752, 8.650065491770388, -0.4756924996007427], [-15.761119729838097, -5.623082105701858, 17.19498496624807], [-32.882957638605504, -6.0101303104758985, 15.087410551157678], [6.005524609159834, 8.76525418047748, -17.662150435985033], [-15.606477303161919, -2.298802328750069, -3.3968681909865213]]
+    ],
+    "meshName": "Ras_related_protein_Rab_3A",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1ZBD_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1ZBD_mb_c",
+    "useRotAxis": 0
+}

@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.459888091121, 0.281882217196, 0.533687157445],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 30.61005368,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Ras_related_C3_botulinum_toxin_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -32.693],
+    "properties": {},
+    "partners_name": [],
+    "name": "Ras_related_C3_botulinum_toxin",
+    "positions": [
+        [[15.993683513943164, -6.403187659436705, 11.135089502685995], [8.300949690419525, 4.044083825129614, 0.544158085197826], [0.8178064798753886, -10.67470957707095, -6.787580093665088], [-0.8676680913977413, -8.789612516782821, 6.516116190674565], [-3.7582914167544743, 12.210040347243792, -3.41598011594444], [0.8348054122487935, 6.391394790335524, 11.300230882192523], [-0.9075149559818892, 4.9601613767539945, -13.994814150092155], [-15.657304323257023, 0.15045361848303435, -1.8642580123753068]]
+    ],
+    "meshName": "Ras_related_C3_botulinum_toxin",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2p2l_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2p2l_mb_c",
+    "useRotAxis": 0
+}

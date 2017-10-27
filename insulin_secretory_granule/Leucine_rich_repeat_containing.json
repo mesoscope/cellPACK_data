@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.102724164868, 0.845654046569, 0.62666286328],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 33.5060053984,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Leucine_rich_repeat_containing_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -33.398],
+    "properties": {},
+    "partners_name": [],
+    "name": "Leucine_rich_repeat_containing",
+    "positions": [
+        [[-12.23725668887418, -1.811345237393572, 11.469691353342785], [3.2175593937014777, 6.92922651805961, 3.792207036650859], [-14.426532719236747, 10.42878622479284, 0.9686781578523543], [23.995679279702767, 1.2725392103620174, 3.3582371445161705], [11.195292522888657, -10.07525348251075, -2.891093634573272], [2.674247952168023, 2.6888596209543754, -11.121627176152916], [1.8370025181252594, -5.780678050105316, 9.706909903664554], [-7.128171744282173, -8.852162628704598, -1.4599867294065838], [17.42266321586341, 3.272167504250373, -7.864864662576433], [-22.382502505568446, -1.895709502913635, -0.9596559841742953]]
+    ],
+    "meshName": "Leucine_rich_repeat_containing",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3E6J_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3E6J_mb_c",
+    "useRotAxis": 0
+}

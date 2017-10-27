@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.238857161545, 0.5660983105, 0.487765551847],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 43.6844609158,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Dystroglycan_1_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -34.3785],
+    "properties": {},
+    "partners_name": [],
+    "name": "Dystroglycan_1",
+    "positions": [
+        [[-7.400349530864373, -4.143455640504647, -12.644640761621265], [30.789366343491203, 1.40471678926493, 7.904952090012239], [-19.501056307481292, -1.4638255661711983, 4.424375351134788], [-14.743315148564456, 9.931143522670084, -9.458965406603554], [2.1976259960565083, -8.397590670821415, 3.2205500945974963], [-1.8956679059481982, 5.6465118387379, -0.5186298718120038], [16.08895518213446, -2.12977982679119, 5.6104312153453275]]
+    ],
+    "meshName": "Dystroglycan_1",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4WIQ_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4WIQ_mb_c",
+    "useRotAxis": 0
+}
