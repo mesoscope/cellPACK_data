@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.617551290877, 0.226822292771, 0.155666052613],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 33.9770869665,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Membrane_associated_progestero_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -38.772],
+    "properties": {},
+    "partners_name": [],
+    "name": "Membrane_associated_progestero",
+    "positions": [
+        [[14.6149043086601, 0.8950035150461787, 1.785805286300536], [-7.402539774246906, 4.4232846529843055, -16.910339312135754], [0.2726613823107909, -4.100398878056088, -3.4175021548116646], [-16.06991341020702, 9.400927243986866, -3.935399211316433], [7.192087327660407, 4.457279801772008, 13.898425301892035], [16.15696507597997, -7.661840687601991, 15.520924257244937], [-14.882749619266715, -7.095897219236426, -6.189690361245057]]
+    ],
+    "meshName": "Membrane_associated_progestero",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4X8Y_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4X8Y_mb_c",
+    "useRotAxis": 0
+}

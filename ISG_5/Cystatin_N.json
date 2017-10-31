@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.431540692927, 0.660845856819, 0.616756310977],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 33.1414209345,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Cystatin_N_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -31.8905],
+    "properties": {},
+    "partners_name": [],
+    "name": "Cystatin_N",
+    "positions": [
+        [[18.257924051913303, 6.206906241836062, 7.668831288984056], [6.713168527381022, -6.756379392018599, -10.05826676929738], [-8.09205655251017, 6.069003361933168, 12.753109652579136], [-11.200947293466003, 6.561857909030604, -2.71241604877594], [-15.939906766947436, -6.3066471285663575, -8.93691404485807], [15.0653625618691, -6.381891165217007, 2.4007125749684266]]
+    ],
+    "meshName": "Cystatin_N",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "4N6M_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "4N6M_mb_c",
+    "useRotAxis": 0
+}

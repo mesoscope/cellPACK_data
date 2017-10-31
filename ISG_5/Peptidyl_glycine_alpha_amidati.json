@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.294235470666, 0.573885794561, 0.644144050489],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 34.4233562034,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Peptidyl_glycine_alpha_amidati_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -31.14],
+    "properties": {},
+    "partners_name": [],
+    "name": "Peptidyl_glycine_alpha_amidati",
+    "positions": [
+        [[-11.125607476308108, 0.5824129364088968, 7.908683878862852], [4.058715665257297, 2.5841292432244143, -6.868023702174087], [-13.802892276077396, 13.315048218585552, -3.5437180605675023], [7.730683301802827, -13.614860518641434, 0.5303685287797647], [10.96045535421531, 14.890721461637588, 6.019503712514906], [19.822408554958518, -1.3636092814370808, 1.7448157865075542], [-19.48291733013127, -1.9470530054787114, -6.413828064493195], [-10.799429922910395, -14.875930913433308, -2.0410223379795824]]
+    ],
+    "meshName": "Peptidyl_glycine_alpha_amidati",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3MLL_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3MLL_mb_c",
+    "useRotAxis": 0
+}

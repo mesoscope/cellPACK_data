@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.29191799598, 0.0913336611456, 0.608117426217],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 57.8719000616,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Endoplasmic_reticulum_protein__coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Endoplasmic_reticulum_protein_",
+    "positions": [
+        [[16.66201342706719, 11.644349715579112, 4.935104748869304], [6.2111788753584225, -27.275983764686558, -33.653578909567656], [-11.263707302648, -24.83046654176336, -0.4730551637660585], [-7.664986104710097, -24.646785347835625, -27.326434473513046], [4.115432572168963, -10.103650411024821, -22.155824109733462], [-5.767489249606077, 24.750481877099787, 16.005446719498913], [-15.45457242604086, 10.80238340763666, 21.049902370888624], [-1.265851325427654, 11.391543364538995, 11.897763943660843], [-17.224789628691852, -10.648253101941563, 7.139411329741818], [25.525333780217913, 26.76368837908633, 9.788689118598713], [-6.14139891536573, -11.864032442385877, -5.682484236440584]]
+    ],
+    "meshName": "Endoplasmic_reticulum_protein_",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2QC7",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2QC7",
+    "useRotAxis": 0
+}

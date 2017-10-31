@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.818238533662, 0.417914701021, 0.35027260246],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 49.4628757586,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Similar_to_Vacuolar_protein_so_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -34.62],
+    "properties": {},
+    "partners_name": [],
+    "name": "Similar_to_Vacuolar_protein_so",
+    "positions": [
+        [[24.753673165971552, -3.531900030859775, 0.4032614296491797], [12.503146217129958, -1.133497739829204, 7.564790512223021], [-8.346382960513171, -7.745802189574623, 8.069195350516857], [-34.5014894190163, 2.6907664998503704, -4.503947128609319], [36.64341665437619, 1.6866859940152634, -7.932973824251324], [-24.62998440759767, -6.7741734964639, 3.1882442780705063], [7.500713111436106, -6.002388124808701, -5.171872627358223], [2.2628905544127407, 12.549684665360074, 1.451578631324541], [-13.68838331135619, 2.3449305047101907, -2.2352506112275234]]
+    ],
+    "meshName": "Similar_to_Vacuolar_protein_so",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2R51_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2R51_mb_c",
+    "useRotAxis": 0
+}

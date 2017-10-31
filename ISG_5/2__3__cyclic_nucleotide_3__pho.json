@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.875315084264, 0.520552177285, 0.522748651355],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 39.6027321098,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "2__3__cyclic_nucleotide_3__pho_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "2__3__cyclic_nucleotide_3__pho",
+    "positions": [
+        [[11.168791785775564, 0.3069081276291581, 1.1406208284865074], [-9.601752457266214, 7.374598096446739, -4.129987216414388], [4.198207714057951, -15.9153864977576, -1.760222384823621], [1.9138628414503984, 10.17549116574009, 5.321236317495335], [17.30989252494216, 7.38327764383843, 16.94834516927946], [-5.351948216576842, -8.500123549807565, -9.212635974251889], [3.162762454986514, 3.1191895284418156, 20.389366819289993], [-11.660382053811828, -2.555875313020832, -17.59334648291075], [0.872050754266935, 1.7741173431748951, -23.008914666236198], [-8.639930995958384, 0.0040778533284203024, 9.145518418139517], [4.2706250022310055, -7.775638752847111, 11.406329075120562]]
+    ],
+    "meshName": "2__3__cyclic_nucleotide_3__pho",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2ILX",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2ILX",
+    "useRotAxis": 0
+}

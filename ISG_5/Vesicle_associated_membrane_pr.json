@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [1,0,0],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 61.0549780813,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Vesicle_associated_membrane_pr_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -66.016],
+    "properties": {},
+    "partners_name": [],
+    "name": "Vesicle_associated_membrane_pr",
+    "positions": [
+        [[-7.0245344150191515, -4.9655674412183455, 1.1192545452497935], [-10.491820885403113, 11.526441463461323, -44.09741167343086], [1.5937076339812086, 2.881273943976931, -13.778920663949146], [6.919390628705433, 0.5278240874293239, 4.928981356401647], [-11.06254553674847, -12.445303501933203, 28.521830866007814], [4.693002936963144, -3.833296934762, 21.30849644004409], [-0.6076802679147036, 9.141734474263417, -30.250657183673912], [6.8576674389657954, -7.102513420412372, 38.20904078881755]]
+    ],
+    "meshName": "Vesicle_associated_membrane_pr",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1kil_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1kil_mb_c",
+    "useRotAxis": 0
+}

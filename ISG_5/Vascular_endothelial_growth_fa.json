@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.154767260148, 0.0573617621091, 0.302444174317],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 52.1496084818,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Vascular_endothelial_growth_fa_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Vascular_endothelial_growth_fa",
+    "positions": [
+        [[20.719118969585583, -28.74057192817088, -10.357172474077503], [-18.30883868308517, -13.779747796470902, 19.768455535016024], [10.067090877235975, 1.5726077110512182, -4.253172905853428], [-2.2775985908627203, 17.089191342683186, -0.5002162437251576], [-7.63974953529956, 30.941467655395105, -1.4418871491947076], [16.000762276144062, -13.76952705757614, -7.4809669547442335], [-9.337234828282707, -3.72356462502974, -0.7013630497962067]]
+    ],
+    "meshName": "Vascular_endothelial_growth_fa",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3V2A",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3V2A",
+    "useRotAxis": 0
+}

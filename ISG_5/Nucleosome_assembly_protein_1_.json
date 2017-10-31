@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.874704658939, 0.118481190962, 0.181910723098],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 55.8153780534,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Nucleosome_assembly_protein_1__coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -37.6355],
+    "properties": {},
+    "partners_name": [],
+    "name": "Nucleosome_assembly_protein_1_",
+    "positions": [
+        [[12.978553168913322, 7.418931705026839, -0.8674319197334524], [3.6875374582122444, -28.384514676614515, -8.938892041955178], [20.509418089069495, 15.002983238712895, 27.18767791202369], [-6.213576268851355, 13.256541192208365, 8.292964861207087], [0.11324658256541367, -11.713853658338685, -14.372009365515781], [-1.251485841729019, -10.5718806284417, 1.8533073463443295], [-12.941215114831273, 0.13807810442684956, -9.095867161317225], [-30.089058977045397, 8.169937572761496, -5.420368877456463]]
+    ],
+    "meshName": "Nucleosome_assembly_protein_1_",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "2AYU_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "2AYU_mb_c",
+    "useRotAxis": 0
+}

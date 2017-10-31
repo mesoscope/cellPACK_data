@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.820939134699, 0.268390556758, 0.88546484955],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 38.8951638926,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "14_3_3_protein_epsilon_Mitocho_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "14_3_3_protein_epsilon_Mitocho",
+    "positions": [
+        [[15.05235532848609, 3.3431757637082096, 22.25291741255776], [-9.334953621199311, -11.325457579966278, -9.001471679508635], [6.262293455776263, 6.137433468541435, 6.394986176038852], [-4.9629099542481665, 8.461892432412684, -10.919283024203969], [-5.4773868968813515, -12.184571913693615, 6.34211414228895], [10.334252274215332, 4.980326261905494, -12.950432557830203], [-8.662149230588277, 2.7340682672566983, 6.349976388409228]]
+    ],
+    "meshName": "14_3_3_protein_epsilon_Mitocho",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "3UBW",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "3UBW",
+    "useRotAxis": 0
+}

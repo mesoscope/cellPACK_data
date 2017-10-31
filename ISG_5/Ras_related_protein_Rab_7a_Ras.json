@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.226675867209, 0.387807526429, 0.334562365906],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 33.8532262067,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1, 1, 0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Ras_related_protein_Rab_7a_Ras_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [0, 0, -1],
+    "offset": [0, 0, -33.115],
+    "properties": {},
+    "partners_name": [],
+    "name": "Ras_related_protein_Rab_7a_Ras",
+    "positions": [
+        [[10.031697735369931, 5.000213454489596, 5.096699400719409], [-5.441105276037448, 1.7154087160466982, 8.551938031252538], [0.9022774201710977, -12.49507606411448, 0.9167571917370185], [11.05267903144403, -3.0156567456403613, -9.083190785245755], [-6.0566564987168645, 7.118535434193574, -7.7260409466211195], [-20.03617397608265, 7.1780262890438005, 6.572787818528208]]
+    ],
+    "meshName": "Ras_related_protein_Rab_7a_Ras",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1VG8_mb_c",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1VG8_mb_c",
+    "useRotAxis": 0
+}

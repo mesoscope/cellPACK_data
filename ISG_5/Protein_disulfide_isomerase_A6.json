@@ -1,0 +1,56 @@
+{
+    "packingMode": "random",
+    "partners_position": [],
+    "weight": 0.20000000000000001,
+    "color": [0.552295679881, 0.185102636891, 0.0132166693448],
+    "results": [],
+    "radii": [[10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0]],
+    "cutoff_boundary": null,
+    "encapsulatingRadius": 32.4299647214,
+    "positions2": null,
+    "rejectionThreshold": 30,
+    "isAttractor": false,
+    "Type": "MultiSphere",
+    "orientBiasRotRangeMax": -3.1415926535897931,
+    "gradient": "",
+    "nbMol": 0,
+    "jitterMax": [1.0, 1.0, 1.0],
+    "packingPriority": 0,
+    "rotAxis": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "overwrite_nbMol_value": 0,
+    "nbJitter": 5,
+    "molarity": 0,
+    "useOrientBias": false,
+    "rotRange": 6.2831000000000001,
+    "coordsystem": "left",
+    "meshFile": "Protein_disulfide_isomerase_A6_coarse.dae",
+    "orientBiasRotRangeMin": -3.1415926535897931,
+    "perturbAxisAmplitude": 0.10000000000000001,
+    "proba_binding": 0.5,
+    "principalVector": [1.0, 0.0, 0.0],
+    "offset": [0.0, 0.0, 0.0],
+    "properties": {},
+    "partners_name": [],
+    "name": "Protein_disulfide_isomerase_A6",
+    "positions": [
+        [[7.961267086595938, 24.137391981406534, -6.928501902703399], [4.435844505675742, 10.607569890998914, 2.8750756549532697], [-9.063138484132656, 1.6006620787350179, 3.5847980034734004], [-2.1006306445814507, -11.044549035321946, -6.181863360939874], [2.028042060870051, 1.2740841349049707, -8.469641338271026], [3.070790865897277, -1.5861825990301217, 8.121902816239835], [-4.852987015468844, -12.631034053045553, 7.09348215731726]]
+    ],
+    "meshName": "Protein_disulfide_isomerase_A6",
+    "excluded_partners_name": [],
+    "placeType": "jitter",
+    "cutoff_surface": 20.052597999572754,
+    "proba_not_binding": 0.5,
+    "source": {
+        "pdb": "1X5D",
+        "transform": {
+            "center": true
+        }
+    },
+    "use_mesh_rb": false,
+    "pdb": "1X5D",
+    "useRotAxis": 0
+}
