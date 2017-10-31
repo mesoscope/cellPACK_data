@@ -1,7 +1,7 @@
 <COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
   <asset>
-    <created>2017-10-27T14:25:41.719229</created>
-    <modified>2017-10-27T14:25:41.719237</modified>
+    <created>2017-10-28T21:15:21.185505</created>
+    <modified>2017-10-28T21:15:21.185515</modified>
     <unit name="centimeter" meter="0.01"/>
     <up_axis>Y_UP</up_axis>
   </asset>
