@@ -5777,778 +5777,16 @@ SEQRES  17 2  231  ALA THR LEU GLU GLU MET MET THR ALA CYS GLN GLY VAL
 SEQRES  18 2  231  GLY GLY PRO GLY HIS LYS ALA ARG VAL LEU                      
 HELIX    1   1 SER A   16  ALA A   31  1                                  16    
 HELIX    2   2 GLU A   35  SER A   44  1                                  10    
-HELIX    3   3 THR A   48  VAL A   59  1                                  12    
+HELIX    3   3 THR A   48  THR A   58  1                                  11    
 HELIX    4   4 HIS A   62  HIS A   84  1                                  23    
 HELIX    5   5 ARG A  100  ALA A  105  1                                   6    
 HELIX    6   6 THR A  110  THR A  119  1                                  10    
 HELIX    7   7 PRO A  125  SER A  146  1                                  22    
-HELIX    8   8 PRO A  160  ALA A  174  1                                  15    
-HELIX    9   9 SER A  178  ASN A  193  1                                  16    
-HELIX   10  10 ASN A  195  GLY A  206  1                                  12    
-HELIX   11  11 THR A  210  ALA A  217  1                                   8    
-HELIX   12  12 SER B   16  ALA B   31  1                                  16    
-HELIX   13  13 GLU B   35  SER B   44  1                                  10    
-HELIX   14  14 THR B   48  THR B   58  1                                  11    
-HELIX   15  15 HIS B   62  HIS B   84  1                                  23    
-HELIX   16  16 ARG B  100  ALA B  105  1                                   6    
-HELIX   17  17 THR B  110  TRP B  117  1                                   8    
-HELIX   18  18 PRO B  125  SER B  146  1                                  22    
-HELIX   19  19 PRO B  160  GLN B  176  1                                  17    
-HELIX   20  20 SER B  178  THR B  188  1                                  11    
-HELIX   21  21 THR B  188  ASN B  193  1                                   6    
-HELIX   22  22 ASN B  195  GLY B  206  1                                  12    
-HELIX   23  23 THR B  210  ALA B  217  1                                   8    
-HELIX   24  24 SER C   16  LYS C   30  1                                  15    
-HELIX   25  25 VAL C   36  SER C   44  1                                   9    
-HELIX   26  26 THR C   48  VAL C   59  1                                  12    
-HELIX   27  27 HIS C   62  HIS C   84  1                                  23    
-HELIX   28  28 ARG C  100  ALA C  105  1                                   6    
-HELIX   29  29 THR C  110  HIS C  120  1                                  11    
-HELIX   30  30 PRO C  125  SER C  146  1                                  22    
-HELIX   31  31 PRO C  160  GLU C  175  1                                  16    
-HELIX   32  32 SER C  178  THR C  186  1                                   9    
-HELIX   33  33 THR C  188  ASN C  193  1                                   6    
-HELIX   34  34 ASN C  195  GLY C  206  1                                  12    
-HELIX   35  35 THR C  210  MET C  215  1                                   6    
-HELIX   36  36 SER D   16  ALA D   31  1                                  16    
-HELIX   37  37 GLU D   35  SER D   44  1                                  10    
-HELIX   38  38 THR D   48  VAL D   59  1                                  12    
-HELIX   39  39 HIS D   62  HIS D   84  1                                  23    
-HELIX   40  40 ARG D  100  ALA D  105  1                                   6    
-HELIX   41  41 THR D  110  HIS D  120  1                                  11    
-HELIX   42  42 PRO D  125  SER D  146  1                                  22    
-HELIX   43  43 SER D  149  ARG D  154  1                                   6    
-HELIX   44  44 PRO D  160  GLU D  175  1                                  16    
-HELIX   45  45 SER D  178  ASN D  193  1                                  16    
-HELIX   46  46 ASN D  195  GLY D  206  1                                  12    
-HELIX   47  47 THR D  210  MET D  215  1                                   6    
-HELIX   48  48 SER E   16  ALA E   31  1                                  16    
-HELIX   49  49 GLU E   35  SER E   44  1                                  10    
-HELIX   50  50 THR E   48  VAL E   59  1                                  12    
-HELIX   51  51 HIS E   62  HIS E   84  1                                  23    
-HELIX   52  52 ARG E  100  ALA E  105  1                                   6    
-HELIX   53  53 THR E  110  THR E  119  1                                  10    
-HELIX   54  54 PRO E  125  SER E  146  1                                  22    
-HELIX   55  55 SER E  149  ILE E  153  5                                   5    
-HELIX   56  56 PHE E  161  LEU E  172  1                                  12    
-HELIX   57  57 ARG E  173  GLU E  175  5                                   3    
-HELIX   58  58 SER E  178  THR E  188  1                                  11    
-HELIX   59  59 THR E  188  ASN E  193  1                                   6    
-HELIX   60  60 ASN E  195  GLY E  206  1                                  12    
-HELIX   61  61 PRO E  207  ALA E  209  5                                   3    
-HELIX   62  62 THR E  210  ALA E  217  1                                   8    
-HELIX   63  63 SER F   16  ALA F   31  1                                  16    
-HELIX   64  64 GLU F   35  SER F   44  1                                  10    
-HELIX   65  65 THR F   48  ASN F   57  1                                  10    
-HELIX   66  66 HIS F   62  HIS F   84  1                                  23    
-HELIX   67  67 ARG F  100  GLY F  106  1                                   7    
-HELIX   68  68 THR F  110  THR F  119  1                                  10    
-HELIX   69  69 PRO F  125  TYR F  145  1                                  21    
-HELIX   70  70 SER F  149  ILE F  153  5                                   5    
-HELIX   71  71 PRO F  160  GLU F  175  1                                  16    
-HELIX   72  72 SER F  178  THR F  188  1                                  11    
-HELIX   73  73 THR F  188  ASN F  193  1                                   6    
-HELIX   74  74 ASN F  195  GLY F  206  1                                  12    
-HELIX   75  75 THR F  210  THR F  216  1                                   7    
-HELIX   76  76 SER G   16  LYS G   30  1                                  15    
-HELIX   77  77 GLU G   35  GLU G   45  1                                  11    
-HELIX   78  78 THR G   48  VAL G   59  1                                  12    
-HELIX   79  79 HIS G   62  HIS G   84  1                                  23    
-HELIX   80  80 ARG G  100  ALA G  105  1                                   6    
-HELIX   81  81 THR G  110  THR G  119  1                                  10    
-HELIX   82  82 PRO G  125  SER G  146  1                                  22    
-HELIX   83  83 PRO G  160  GLU G  175  1                                  16    
-HELIX   84  84 SER G  178  LEU G  190  1                                  13    
-HELIX   85  85 ASN G  195  GLY G  206  1                                  12    
-HELIX   86  86 PRO G  207  ALA G  209  5                                   3    
-HELIX   87  87 THR G  210  ALA G  217  1                                   8    
-HELIX   88  88 SER H   16  LYS H   30  1                                  15    
-HELIX   89  89 GLU H   35  SER H   44  1                                  10    
-HELIX   90  90 THR H   48  VAL H   59  1                                  12    
-HELIX   91  91 HIS H   62  HIS H   84  1                                  23    
-HELIX   92  92 ARG H  100  ALA H  105  1                                   6    
-HELIX   93  93 THR H  110  THR H  119  1                                  10    
-HELIX   94  94 PRO H  125  ILE H  141  1                                  17    
-HELIX   95  95 PHE H  161  ARG H  173  1                                  13    
-HELIX   96  96 SER H  178  THR H  188  1                                  11    
-HELIX   97  97 ASN H  195  GLY H  206  1                                  12    
-HELIX   98  98 THR H  210  ALA H  217  1                                   8    
-HELIX   99  99 SER I   16  ALA I   31  1                                  16    
-HELIX  100 100 GLU I   35  LEU I   43  1                                   9    
-HELIX  101 101 THR I   48  GLY I   60  1                                  13    
-HELIX  102 102 HIS I   62  HIS I   84  1                                  23    
-HELIX  103 103 ARG I  100  ALA I  105  1                                   6    
-HELIX  104 104 THR I  110  HIS I  120  1                                  11    
-HELIX  105 105 PRO I  125  SER I  146  1                                  22    
-HELIX  106 106 PRO I  160  GLU I  175  1                                  16    
-HELIX  107 107 SER I  178  THR I  188  1                                  11    
-HELIX  108 108 THR I  188  ASN I  193  1                                   6    
-HELIX  109 109 ASN I  195  GLY I  206  1                                  12    
-HELIX  110 110 THR I  210  MET I  215  1                                   6    
-HELIX  111 111 SER J   16  LYS J   30  1                                  15    
-HELIX  112 112 GLU J   35  SER J   44  1                                  10    
-HELIX  113 113 THR J   48  VAL J   59  1                                  12    
-HELIX  114 114 ALA J   64  HIS J   84  1                                  21    
-HELIX  115 115 ARG J  100  ALA J  105  1                                   6    
-HELIX  116 116 THR J  110  HIS J  120  1                                  11    
-HELIX  117 117 PRO J  125  SER J  146  1                                  22    
-HELIX  118 118 PRO J  160  GLU J  175  1                                  16    
-HELIX  119 119 SER J  178  THR J  188  1                                  11    
-HELIX  120 120 THR J  188  ALA J  194  1                                   7    
-HELIX  121 121 ASN J  195  GLY J  206  1                                  12    
-HELIX  122 122 THR J  210  THR J  216  1                                   7    
-HELIX  123 123 SER K   16  ALA K   31  1                                  16    
-HELIX  124 124 GLU K   35  SER K   44  1                                  10    
-HELIX  125 125 THR K   48  VAL K   59  1                                  12    
-HELIX  126 126 HIS K   62  HIS K   84  1                                  23    
-HELIX  127 127 ARG K  100  ALA K  105  1                                   6    
-HELIX  128 128 THR K  110  THR K  119  1                                  10    
-HELIX  129 129 PRO K  125  SER K  146  1                                  22    
-HELIX  130 130 PRO K  160  GLU K  175  1                                  16    
-HELIX  131 131 SER K  178  THR K  188  1                                  11    
-HELIX  132 132 THR K  188  ASN K  193  1                                   6    
-HELIX  133 133 ASN K  195  GLY K  206  1                                  12    
-HELIX  134 134 PRO K  207  ALA K  209  5                                   3    
-HELIX  135 135 THR K  210  MET K  215  1                                   6    
-HELIX  136 136 SER L   16  LYS L   30  1                                  15    
-HELIX  137 137 GLU L   35  SER L   44  1                                  10    
-HELIX  138 138 THR L   48  VAL L   59  1                                  12    
-HELIX  139 139 HIS L   62  HIS L   84  1                                  23    
-HELIX  140 140 ARG L  100  ALA L  105  1                                   6    
-HELIX  141 141 THR L  110  HIS L  120  1                                  11    
-HELIX  142 142 PRO L  125  TYR L  145  1                                  21    
-HELIX  143 143 PHE L  161  ARG L  173  1                                  13    
-HELIX  144 144 SER L  178  THR L  188  1                                  11    
-HELIX  145 145 THR L  188  ALA L  194  1                                   7    
-HELIX  146 146 ASN L  195  LEU L  205  1                                  11    
-HELIX  147 147 THR L  210  THR L  216  1                                   7    
-HELIX  148 148 SER M   16  LYS M   30  1                                  15    
-HELIX  149 149 GLU M   35  SER M   44  1                                  10    
-HELIX  150 150 THR M   48  VAL M   59  1                                  12    
-HELIX  151 151 HIS M   62  HIS M   84  1                                  23    
-HELIX  152 152 ARG M  100  GLY M  106  1                                   7    
-HELIX  153 153 THR M  110  HIS M  120  1                                  11    
-HELIX  154 154 PRO M  125  SER M  146  1                                  22    
-HELIX  155 155 PRO M  160  ALA M  174  1                                  15    
-HELIX  156 156 SER M  178  ASN M  193  1                                  16    
-HELIX  157 157 ASN M  195  GLY M  206  1                                  12    
-HELIX  158 158 THR M  210  MET M  215  1                                   6    
-HELIX  159 159 SER N   16  ALA N   31  1                                  16    
-HELIX  160 160 GLU N   35  GLU N   45  1                                  11    
-HELIX  161 161 THR N   48  VAL N   59  1                                  12    
-HELIX  162 162 HIS N   62  HIS N   84  1                                  23    
-HELIX  163 163 ARG N  100  ALA N  105  1                                   6    
-HELIX  164 164 THR N  110  THR N  119  1                                  10    
-HELIX  165 165 PRO N  125  MET N  144  1                                  20    
-HELIX  166 166 SER N  149  ILE N  153  5                                   5    
-HELIX  167 167 PRO N  160  GLU N  175  1                                  16    
-HELIX  168 168 SER N  178  THR N  188  1                                  11    
-HELIX  169 169 THR N  188  ASN N  193  1                                   6    
-HELIX  170 170 ASN N  195  GLY N  206  1                                  12    
-HELIX  171 171 THR N  210  ALA N  217  1                                   8    
-HELIX  172 172 SER O   16  GLU O   28  1                                  13    
-HELIX  173 173 GLU O   35  SER O   44  1                                  10    
-HELIX  174 174 THR O   48  THR O   58  1                                  11    
-HELIX  175 175 HIS O   62  HIS O   84  1                                  23    
-HELIX  176 176 ARG O  100  ALA O  105  1                                   6    
-HELIX  177 177 THR O  110  THR O  119  1                                  10    
-HELIX  178 178 PRO O  125  SER O  146  1                                  22    
-HELIX  179 179 SER O  149  ILE O  153  5                                   5    
-HELIX  180 180 ASP O  163  LEU O  172  1                                  10    
-HELIX  181 181 SER O  178  THR O  188  1                                  11    
-HELIX  182 182 ASN O  195  GLY O  206  1                                  12    
-HELIX  183 183 GLU O  213  ALA O  217  5                                   5    
-HELIX  184 184 SER P   16  ALA P   31  1                                  16    
-HELIX  185 185 VAL P   36  SER P   44  1                                   9    
-HELIX  186 186 THR P   48  THR P   58  1                                  11    
-HELIX  187 187 HIS P   62  HIS P   84  1                                  23    
-HELIX  188 188 ARG P  100  ALA P  105  1                                   6    
-HELIX  189 189 THR P  110  THR P  119  1                                  10    
-HELIX  190 190 PRO P  125  SER P  146  1                                  22    
-HELIX  191 191 PRO P  160  GLU P  175  1                                  16    
-HELIX  192 192 SER P  178  THR P  188  1                                  11    
-HELIX  193 193 THR P  188  ASN P  193  1                                   6    
-HELIX  194 194 ASN P  195  GLY P  206  1                                  12    
-HELIX  195 195 THR P  210  THR P  216  1                                   7    
-HELIX  196 196 SER Q   16  ALA Q   31  1                                  16    
-HELIX  197 197 VAL Q   36  LEU Q   43  1                                   8    
-HELIX  198 198 THR Q   48  THR Q   58  1                                  11    
-HELIX  199 199 HIS Q   62  HIS Q   84  1                                  23    
-HELIX  200 200 ARG Q  100  GLY Q  106  1                                   7    
-HELIX  201 201 THR Q  110  HIS Q  120  1                                  11    
-HELIX  202 202 PRO Q  125  SER Q  146  1                                  22    
-HELIX  203 203 PHE Q  161  LEU Q  172  1                                  12    
-HELIX  204 204 SER Q  178  LEU Q  189  1                                  12    
-HELIX  205 205 LEU Q  190  ALA Q  194  5                                   5    
-HELIX  206 206 ASN Q  195  GLY Q  206  1                                  12    
-HELIX  207 207 THR Q  210  ALA Q  217  1                                   8    
-HELIX  208 208 SER R   16  ALA R   31  1                                  16    
-HELIX  209 209 GLU R   35  SER R   44  1                                  10    
-HELIX  210 210 THR R   48  THR R   58  1                                  11    
-HELIX  211 211 HIS R   62  HIS R   84  1                                  23    
-HELIX  212 212 ARG R  100  ALA R  105  1                                   6    
-HELIX  213 213 THR R  110  THR R  119  1                                  10    
-HELIX  214 214 PRO R  125  SER R  146  1                                  22    
-HELIX  215 215 PRO R  160  ARG R  173  1                                  14    
-HELIX  216 216 SER R  178  THR R  188  1                                  11    
-HELIX  217 217 THR R  188  ASN R  193  1                                   6    
-HELIX  218 218 ASN R  195  GLY R  206  1                                  12    
-HELIX  219 219 THR R  210  THR R  216  1                                   7    
-HELIX  220 220 SER S   16  ALA S   31  1                                  16    
-HELIX  221 221 GLU S   35  SER S   44  1                                  10    
-HELIX  222 222 THR S   48  ASN S   57  1                                  10    
-HELIX  223 223 HIS S   62  HIS S   84  1                                  23    
-HELIX  224 224 ARG S  100  ALA S  105  1                                   6    
-HELIX  225 225 THR S  110  HIS S  120  1                                  11    
-HELIX  226 226 PRO S  125  TYR S  145  1                                  21    
-HELIX  227 227 SER S  149  ILE S  153  5                                   5    
-HELIX  228 228 PRO S  160  GLN S  176  1                                  17    
-HELIX  229 229 SER S  178  THR S  188  1                                  11    
-HELIX  230 230 THR S  188  ASN S  193  1                                   6    
-HELIX  231 231 ASN S  195  LEU S  205  1                                  11    
-HELIX  232 232 THR S  210  ALA S  217  1                                   8    
-HELIX  233 233 GLN T    4  GLY T    8  5                                   5    
-HELIX  234 234 SER T   16  ALA T   31  1                                  16    
-HELIX  235 235 GLU T   35  SER T   44  1                                  10    
-HELIX  236 236 THR T   48  VAL T   59  1                                  12    
-HELIX  237 237 HIS T   62  HIS T   84  1                                  23    
-HELIX  238 238 ARG T  100  ALA T  105  1                                   6    
-HELIX  239 239 THR T  110  HIS T  120  1                                  11    
-HELIX  240 240 PRO T  125  SER T  146  1                                  22    
-HELIX  241 241 PRO T  160  GLU T  175  1                                  16    
-HELIX  242 242 SER T  178  THR T  188  1                                  11    
-HELIX  243 243 THR T  188  ASN T  193  1                                   6    
-HELIX  244 244 ASN T  195  LEU T  205  1                                  11    
-HELIX  245 245 GLY T  206  ALA T  209  5                                   4    
-HELIX  246 246 THR T  210  MET T  215  1                                   6    
-HELIX  247 247 SER U   16  ALA U   31  1                                  16    
-HELIX  248 248 GLU U   35  LEU U   43  1                                   9    
-HELIX  249 249 THR U   48  VAL U   59  1                                  12    
-HELIX  250 250 HIS U   62  HIS U   84  1                                  23    
-HELIX  251 251 ARG U  100  GLY U  106  1                                   7    
-HELIX  252 252 THR U  110  THR U  119  1                                  10    
-HELIX  253 253 PRO U  125  SER U  146  1                                  22    
-HELIX  254 254 SER U  149  ILE U  153  5                                   5    
-HELIX  255 255 PHE U  161  GLU U  175  1                                  15    
-HELIX  256 256 SER U  178  LEU U  190  1                                  13    
-HELIX  257 257 ASN U  195  GLY U  206  1                                  12    
-HELIX  258 258 THR U  210  ALA U  217  1                                   8    
-HELIX  259 259 CYS U  218  GLY U  223  1                                   6    
-HELIX  260 260 LEU V    6  GLY V    8  5                                   3    
-HELIX  261 261 SER V   16  ALA V   31  1                                  16    
-HELIX  262 262 GLU V   35  SER V   44  1                                  10    
-HELIX  263 263 THR V   48  VAL V   59  1                                  12    
-HELIX  264 264 HIS V   62  HIS V   84  1                                  23    
-HELIX  265 265 ARG V  100  ALA V  105  1                                   6    
-HELIX  266 266 THR V  110  THR V  119  1                                  10    
-HELIX  267 267 PRO V  125  TYR V  145  1                                  21    
-HELIX  268 268 PRO V  160  ARG V  173  1                                  14    
-HELIX  269 269 SER V  178  THR V  188  1                                  11    
-HELIX  270 270 LEU V  189  GLN V  192  5                                   4    
-HELIX  271 271 ASN V  195  ASP V  197  5                                   3    
-HELIX  272 272 CYS V  198  GLY V  206  1                                   9    
-HELIX  273 273 THR V  210  ALA V  217  1                                   8    
-HELIX  274 274 SER W   16  ALA W   31  1                                  16    
-HELIX  275 275 GLU W   35  SER W   44  1                                  10    
-HELIX  276 276 THR W   48  VAL W   59  1                                  12    
-HELIX  277 277 HIS W   62  HIS W   84  1                                  23    
-HELIX  278 278 ARG W  100  ALA W  105  1                                   6    
-HELIX  279 279 THR W  110  THR W  119  1                                  10    
-HELIX  280 280 PRO W  125  SER W  146  1                                  22    
-HELIX  281 281 SER W  149  ILE W  153  5                                   5    
-HELIX  282 282 PRO W  160  GLU W  175  1                                  16    
-HELIX  283 283 SER W  178  LEU W  190  1                                  13    
-HELIX  284 284 ASN W  195  LEU W  205  1                                  11    
-HELIX  285 285 THR W  210  ALA W  217  1                                   8    
-HELIX  286 286 GLY W  223  ALA W  228  1                                   6    
-HELIX  287 287 SER X   16  LYS X   30  1                                  15    
-HELIX  288 288 GLU X   35  SER X   44  1                                  10    
-HELIX  289 289 THR X   48  VAL X   59  1                                  12    
-HELIX  290 290 HIS X   62  HIS X   84  1                                  23    
-HELIX  291 291 ARG X  100  ALA X  105  1                                   6    
-HELIX  292 292 THR X  110  HIS X  120  1                                  11    
-HELIX  293 293 PRO X  125  TYR X  145  1                                  21    
-HELIX  294 294 PRO X  160  LEU X  172  1                                  13    
-HELIX  295 295 SER X  178  LEU X  189  1                                  12    
-HELIX  296 296 LEU X  190  ALA X  194  5                                   5    
-HELIX  297 297 ASN X  195  GLY X  206  1                                  12    
-HELIX  298 298 THR X  210  ALA X  217  1                                   8    
-HELIX  299 299 SER Y   16  ALA Y   31  1                                  16    
-HELIX  300 300 GLU Y   35  SER Y   44  1                                  10    
-HELIX  301 301 THR Y   48  THR Y   58  1                                  11    
-HELIX  302 302 ALA Y   64  HIS Y   84  1                                  21    
-HELIX  303 303 ARG Y  100  ALA Y  105  1                                   6    
-HELIX  304 304 THR Y  110  THR Y  119  1                                  10    
-HELIX  305 305 PRO Y  125  SER Y  146  1                                  22    
-HELIX  306 306 SER Y  149  ILE Y  153  5                                   5    
-HELIX  307 307 PHE Y  161  GLU Y  175  1                                  15    
-HELIX  308 308 SER Y  178  THR Y  188  1                                  11    
-HELIX  309 309 THR Y  188  ALA Y  194  1                                   7    
-HELIX  310 310 ASN Y  195  GLY Y  206  1                                  12    
-HELIX  311 311 PRO Y  207  ALA Y  209  5                                   3    
-HELIX  312 312 THR Y  210  MET Y  215  1                                   6    
-HELIX  313 313 SER Z   16  ALA Z   31  1                                  16    
-HELIX  314 314 GLU Z   35  LEU Z   43  1                                   9    
-HELIX  315 315 THR Z   48  THR Z   58  1                                  11    
-HELIX  316 316 HIS Z   62  LEU Z   83  1                                  22    
-HELIX  317 317 ARG Z  100  ALA Z  105  1                                   6    
-HELIX  318 318 THR Z  110  HIS Z  120  1                                  11    
-HELIX  319 319 PRO Z  125  TYR Z  145  1                                  21    
-HELIX  320 320 SER Z  149  ILE Z  153  5                                   5    
-HELIX  321 321 PRO Z  160  ARG Z  173  1                                  14    
-HELIX  322 322 SER Z  178  THR Z  188  1                                  11    
-HELIX  323 323 THR Z  188  ASN Z  193  1                                   6    
-HELIX  324 324 ASN Z  195  GLY Z  206  1                                  12    
-HELIX  325 325 THR Z  210  THR Z  216  1                                   7    
-HELIX  326 326 SER a   16  LYS a   30  1                                  15    
-HELIX  327 327 GLU a   35  SER a   44  1                                  10    
-HELIX  328 328 THR a   48  VAL a   59  1                                  12    
-HELIX  329 329 HIS a   62  HIS a   84  1                                  23    
-HELIX  330 330 ARG a  100  ALA a  105  1                                   6    
-HELIX  331 331 THR a  110  THR a  119  1                                  10    
-HELIX  332 332 PRO a  125  TYR a  145  1                                  21    
-HELIX  333 333 SER a  149  ILE a  153  5                                   5    
-HELIX  334 334 PRO a  160  ALA a  174  1                                  15    
-HELIX  335 335 SER a  178  THR a  188  1                                  11    
-HELIX  336 336 THR a  188  ASN a  193  1                                   6    
-HELIX  337 337 ASN a  195  GLY a  206  1                                  12    
-HELIX  338 338 PRO a  207  ALA a  209  5                                   3    
-HELIX  339 339 THR a  210  THR a  216  1                                   7    
-HELIX  340 340 LEU b    6  GLY b    8  5                                   3    
-HELIX  341 341 SER b   16  GLU b   28  1                                  13    
-HELIX  342 342 GLU b   35  GLU b   45  1                                  11    
-HELIX  343 343 THR b   48  VAL b   59  1                                  12    
-HELIX  344 344 HIS b   62  HIS b   84  1                                  23    
-HELIX  345 345 ARG b  100  ALA b  105  1                                   6    
-HELIX  346 346 THR b  110  THR b  119  1                                  10    
-HELIX  347 347 PRO b  125  TYR b  145  1                                  21    
-HELIX  348 348 PRO b  160  GLU b  175  1                                  16    
-HELIX  349 349 SER b  178  THR b  188  1                                  11    
-HELIX  350 350 THR b  188  ALA b  194  1                                   7    
-HELIX  351 351 ASN b  195  GLY b  206  1                                  12    
-HELIX  352 352 THR b  210  ALA b  217  1                                   8    
-HELIX  353 353 GLN c    4  GLY c    8  5                                   5    
-HELIX  354 354 SER c   16  ALA c   31  1                                  16    
-HELIX  355 355 GLU c   35  SER c   44  1                                  10    
-HELIX  356 356 THR c   48  ASN c   57  1                                  10    
-HELIX  357 357 HIS c   62  HIS c   84  1                                  23    
-HELIX  358 358 ARG c  100  ALA c  105  1                                   6    
-HELIX  359 359 THR c  110  HIS c  120  1                                  11    
-HELIX  360 360 PRO c  125  SER c  146  1                                  22    
-HELIX  361 361 SER c  149  ILE c  153  5                                   5    
-HELIX  362 362 PRO c  160  GLU c  175  1                                  16    
-HELIX  363 363 SER c  178  THR c  188  1                                  11    
-HELIX  364 364 THR c  188  ASN c  193  1                                   6    
-HELIX  365 365 ASN c  195  LEU c  205  1                                  11    
-HELIX  366 366 THR c  210  MET c  215  1                                   6    
-HELIX  367 367 GLY c  222  LYS c  227  1                                   6    
-HELIX  368 368 SER d   16  ALA d   31  1                                  16    
-HELIX  369 369 GLU d   35  SER d   44  1                                  10    
-HELIX  370 370 THR d   48  THR d   58  1                                  11    
-HELIX  371 371 HIS d   62  HIS d   84  1                                  23    
-HELIX  372 372 ARG d  100  ALA d  105  1                                   6    
-HELIX  373 373 THR d  110  HIS d  120  1                                  11    
-HELIX  374 374 PRO d  125  TYR d  145  1                                  21    
-HELIX  375 375 SER d  149  ILE d  153  5                                   5    
-HELIX  376 376 ARG d  162  GLU d  175  1                                  14    
-HELIX  377 377 SER d  178  THR d  188  1                                  11    
-HELIX  378 378 ASN d  195  GLY d  206  1                                  12    
-HELIX  379 379 THR d  210  MET d  215  1                                   6    
-HELIX  380 380 SER e   16  ALA e   31  1                                  16    
-HELIX  381 381 GLU e   35  SER e   44  1                                  10    
-HELIX  382 382 THR e   48  THR e   58  1                                  11    
-HELIX  383 383 HIS e   62  HIS e   84  1                                  23    
-HELIX  384 384 ARG e  100  ALA e  105  1                                   6    
-HELIX  385 385 THR e  110  THR e  119  1                                  10    
-HELIX  386 386 PRO e  125  SER e  146  1                                  22    
-HELIX  387 387 PHE e  161  GLU e  175  1                                  15    
-HELIX  388 388 SER e  178  THR e  188  1                                  11    
-HELIX  389 389 THR e  188  ALA e  194  1                                   7    
-HELIX  390 390 CYS e  198  GLY e  206  1                                   9    
-HELIX  391 391 THR e  210  THR e  216  1                                   7    
-HELIX  392 392 SER f   16  ALA f   31  1                                  16    
-HELIX  393 393 GLU f   35  SER f   44  1                                  10    
-HELIX  394 394 THR f   48  VAL f   59  1                                  12    
-HELIX  395 395 HIS f   62  HIS f   84  1                                  23    
-HELIX  396 396 ARG f  100  ALA f  105  1                                   6    
-HELIX  397 397 THR f  110  HIS f  120  1                                  11    
-HELIX  398 398 PRO f  125  TYR f  145  1                                  21    
-HELIX  399 399 PRO f  160  ARG f  173  1                                  14    
-HELIX  400 400 ALA f  174  GLN f  176  5                                   3    
-HELIX  401 401 SER f  178  THR f  188  1                                  11    
-HELIX  402 402 THR f  188  ALA f  194  1                                   7    
-HELIX  403 403 ASN f  195  ALA f  204  1                                  10    
-HELIX  404 404 THR f  210  THR f  216  1                                   7    
-HELIX  405 405 GLY f  223  LYS f  227  5                                   5    
-HELIX  406 406 SER g   16  ALA g   31  1                                  16    
-HELIX  407 407 GLU g   35  SER g   44  1                                  10    
-HELIX  408 408 THR g   48  VAL g   59  1                                  12    
-HELIX  409 409 HIS g   62  LEU g   83  1                                  22    
-HELIX  410 410 ARG g  100  ALA g  105  1                                   6    
-HELIX  411 411 THR g  110  THR g  119  1                                  10    
-HELIX  412 412 PRO g  125  SER g  146  1                                  22    
-HELIX  413 413 PRO g  160  ALA g  174  1                                  15    
-HELIX  414 414 SER g  178  THR g  188  1                                  11    
-HELIX  415 415 THR g  188  ASN g  193  1                                   6    
-HELIX  416 416 ASN g  195  LEU g  205  1                                  11    
-HELIX  417 417 GLU g  213  ALA g  217  5                                   5    
-HELIX  418 418 SER h   16  LYS h   30  1                                  15    
-HELIX  419 419 GLU h   35  SER h   44  1                                  10    
-HELIX  420 420 THR h   48  THR h   58  1                                  11    
-HELIX  421 421 HIS h   62  HIS h   84  1                                  23    
-HELIX  422 422 ARG h  100  ALA h  105  1                                   6    
-HELIX  423 423 THR h  110  HIS h  120  1                                  11    
-HELIX  424 424 PRO h  125  TYR h  145  1                                  21    
-HELIX  425 425 PRO h  160  GLU h  175  1                                  16    
-HELIX  426 426 SER h  178  ASN h  193  1                                  16    
-HELIX  427 427 ASN h  195  GLY h  206  1                                  12    
-HELIX  428 428 THR h  210  THR h  216  1                                   7    
-HELIX  429 429 SER i   16  ALA i   31  1                                  16    
-HELIX  430 430 GLU i   35  SER i   44  1                                  10    
-HELIX  431 431 THR i   48  THR i   58  1                                  11    
-HELIX  432 432 HIS i   62  HIS i   84  1                                  23    
-HELIX  433 433 ARG i  100  ALA i  105  1                                   6    
-HELIX  434 434 THR i  110  THR i  119  1                                  10    
-HELIX  435 435 PRO i  125  TYR i  145  1                                  21    
-HELIX  436 436 PHE i  161  GLN i  176  1                                  16    
-HELIX  437 437 SER i  178  THR i  188  1                                  11    
-HELIX  438 438 THR i  188  ASN i  193  1                                   6    
-HELIX  439 439 ASN i  195  LEU i  205  1                                  11    
-HELIX  440 440 THR i  210  MET i  215  1                                   6    
-HELIX  441 441 SER j   16  ALA j   31  1                                  16    
-HELIX  442 442 GLU j   35  SER j   44  1                                  10    
-HELIX  443 443 THR j   48  THR j   58  1                                  11    
-HELIX  444 444 HIS j   62  HIS j   84  1                                  23    
-HELIX  445 445 ARG j  100  ALA j  105  1                                   6    
-HELIX  446 446 THR j  110  THR j  119  1                                  10    
-HELIX  447 447 PRO j  125  SER j  146  1                                  22    
-HELIX  448 448 PRO j  160  GLU j  175  1                                  16    
-HELIX  449 449 SER j  178  THR j  186  1                                   9    
-HELIX  450 450 THR j  188  ASN j  193  1                                   6    
-HELIX  451 451 ASN j  195  GLY j  206  1                                  12    
-HELIX  452 452 LEU j  211  THR j  216  1                                   6    
-HELIX  453 453 GLY j  223  LYS j  227  5                                   5    
-HELIX  454 454 SER k   16  ALA k   31  1                                  16    
-HELIX  455 455 VAL k   36  SER k   44  1                                   9    
-HELIX  456 456 THR k   48  VAL k   59  1                                  12    
-HELIX  457 457 HIS k   62  HIS k   84  1                                  23    
-HELIX  458 458 ARG k  100  ALA k  105  1                                   6    
-HELIX  459 459 THR k  110  MET k  118  1                                   9    
-HELIX  460 460 PRO k  125  TYR k  145  1                                  21    
-HELIX  461 461 TYR k  164  LEU k  172  1                                   9    
-HELIX  462 462 SER k  178  VAL k  191  1                                  14    
-HELIX  463 463 ASN k  195  GLY k  206  1                                  12    
-HELIX  464 464 THR k  210  ALA k  217  1                                   8    
-HELIX  465 465 SER l   16  ALA l   31  1                                  16    
-HELIX  466 466 GLU l   35  SER l   44  1                                  10    
-HELIX  467 467 THR l   48  THR l   58  1                                  11    
-HELIX  468 468 HIS l   62  HIS l   84  1                                  23    
-HELIX  469 469 ARG l  100  GLY l  106  1                                   7    
-HELIX  470 470 THR l  110  HIS l  120  1                                  11    
-HELIX  471 471 PRO l  125  TYR l  145  1                                  21    
-HELIX  472 472 SER l  149  ILE l  153  5                                   5    
-HELIX  473 473 PHE l  161  ARG l  173  1                                  13    
-HELIX  474 474 SER l  178  GLU l  187  1                                  10    
-HELIX  475 475 THR l  188  ASN l  193  1                                   6    
-HELIX  476 476 ASN l  195  GLY l  206  1                                  12    
-HELIX  477 477 THR l  210  GLN l  219  1                                  10    
-HELIX  478 478 SER m   16  ALA m   31  1                                  16    
-HELIX  479 479 GLU m   35  SER m   44  1                                  10    
-HELIX  480 480 THR m   48  THR m   58  1                                  11    
-HELIX  481 481 HIS m   62  HIS m   84  1                                  23    
-HELIX  482 482 ARG m  100  ALA m  105  1                                   6    
-HELIX  483 483 THR m  110  THR m  119  1                                  10    
-HELIX  484 484 PRO m  125  TYR m  145  1                                  21    
-HELIX  485 485 SER m  149  ILE m  153  5                                   5    
-HELIX  486 486 PRO m  160  GLU m  175  1                                  16    
-HELIX  487 487 SER m  178  THR m  188  1                                  11    
-HELIX  488 488 THR m  188  ASN m  193  1                                   6    
-HELIX  489 489 ASN m  195  GLY m  206  1                                  12    
-HELIX  490 490 THR m  210  ALA m  217  1                                   8    
-HELIX  491 491 SER n   16  GLU n   29  1                                  14    
-HELIX  492 492 GLU n   35  GLU n   45  1                                  11    
-HELIX  493 493 THR n   48  THR n   58  1                                  11    
-HELIX  494 494 HIS n   62  HIS n   84  1                                  23    
-HELIX  495 495 ARG n  100  ALA n  105  1                                   6    
-HELIX  496 496 THR n  110  HIS n  120  1                                  11    
-HELIX  497 497 PRO n  125  SER n  146  1                                  22    
-HELIX  498 498 SER n  149  ILE n  153  5                                   5    
-HELIX  499 499 PRO n  160  GLU n  175  1                                  16    
-HELIX  500 500 SER n  178  ASN n  193  1                                  16    
-HELIX  501 501 ASN n  195  GLY n  206  1                                  12    
-HELIX  502 502 THR n  210  ALA n  217  1                                   8    
-HELIX  503 503 SER o   16  ALA o   31  1                                  16    
-HELIX  504 504 GLU o   35  SER o   44  1                                  10    
-HELIX  505 505 THR o   48  VAL o   59  1                                  12    
-HELIX  506 506 HIS o   62  HIS o   84  1                                  23    
-HELIX  507 507 ARG o  100  ALA o  105  1                                   6    
-HELIX  508 508 THR o  110  THR o  119  1                                  10    
-HELIX  509 509 PRO o  125  TYR o  145  1                                  21    
-HELIX  510 510 SER o  149  ILE o  153  5                                   5    
-HELIX  511 511 PRO o  160  GLN o  176  1                                  17    
-HELIX  512 512 SER o  178  THR o  188  1                                  11    
-HELIX  513 513 THR o  188  ASN o  193  1                                   6    
-HELIX  514 514 ASN o  195  GLY o  206  1                                  12    
-HELIX  515 515 PRO o  207  ALA o  209  5                                   3    
-HELIX  516 516 THR o  210  ALA o  217  1                                   8    
-HELIX  517 517 SER p   16  LYS p   30  1                                  15    
-HELIX  518 518 GLU p   35  SER p   44  1                                  10    
-HELIX  519 519 THR p   48  THR p   58  1                                  11    
-HELIX  520 520 HIS p   62  HIS p   84  1                                  23    
-HELIX  521 521 ARG p  100  ALA p  105  1                                   6    
-HELIX  522 522 THR p  110  THR p  119  1                                  10    
-HELIX  523 523 PRO p  125  SER p  146  1                                  22    
-HELIX  524 524 SER p  149  ILE p  153  5                                   5    
-HELIX  525 525 PRO p  160  GLU p  175  1                                  16    
-HELIX  526 526 SER p  178  THR p  188  1                                  11    
-HELIX  527 527 THR p  188  ASN p  193  1                                   6    
-HELIX  528 528 ASN p  195  GLY p  206  1                                  12    
-HELIX  529 529 THR p  210  THR p  216  1                                   7    
-HELIX  530 530 SER q   16  ALA q   31  1                                  16    
-HELIX  531 531 GLU q   35  SER q   44  1                                  10    
-HELIX  532 532 THR q   48  VAL q   59  1                                  12    
-HELIX  533 533 HIS q   62  HIS q   84  1                                  23    
-HELIX  534 534 ARG q  100  ALA q  105  1                                   6    
-HELIX  535 535 THR q  110  THR q  119  1                                  10    
-HELIX  536 536 PRO q  125  TYR q  145  1                                  21    
-HELIX  537 537 PRO q  160  GLN q  176  1                                  17    
-HELIX  538 538 SER q  178  LEU q  189  1                                  12    
-HELIX  539 539 LEU q  189  ALA q  194  1                                   6    
-HELIX  540 540 CYS q  198  GLY q  206  1                                   9    
-HELIX  541 541 THR q  210  ALA q  217  1                                   8    
-HELIX  542 542 SER r   16  ALA r   31  1                                  16    
-HELIX  543 543 GLU r   35  SER r   44  1                                  10    
-HELIX  544 544 THR r   48  VAL r   59  1                                  12    
-HELIX  545 545 HIS r   62  HIS r   84  1                                  23    
-HELIX  546 546 ARG r  100  GLY r  106  1                                   7    
-HELIX  547 547 THR r  110  THR r  119  1                                  10    
-HELIX  548 548 PRO r  125  TYR r  145  1                                  21    
-HELIX  549 549 TYR r  164  GLU r  175  1                                  12    
-HELIX  550 550 SER r  178  THR r  188  1                                  11    
-HELIX  551 551 THR r  188  ASN r  193  1                                   6    
-HELIX  552 552 ASN r  195  ALA r  204  1                                  10    
-HELIX  553 553 THR r  210  ALA r  217  1                                   8    
-HELIX  554 554 SER s   16  ALA s   31  1                                  16    
-HELIX  555 555 GLU s   35  LEU s   43  1                                   9    
-HELIX  556 556 THR s   48  VAL s   59  1                                  12    
-HELIX  557 557 HIS s   62  HIS s   84  1                                  23    
-HELIX  558 558 ARG s  100  ALA s  105  1                                   6    
-HELIX  559 559 THR s  110  THR s  119  1                                  10    
-HELIX  560 560 PRO s  125  SER s  146  1                                  22    
-HELIX  561 561 PHE s  161  ALA s  174  1                                  14    
-HELIX  562 562 SER s  178  GLU s  187  1                                  10    
-HELIX  563 563 GLU s  187  ASN s  193  1                                   7    
-HELIX  564 564 ASN s  195  GLY s  206  1                                  12    
-HELIX  565 565 PRO s  207  ALA s  209  5                                   3    
-HELIX  566 566 THR s  210  ALA s  217  1                                   8    
-HELIX  567 567 SER t   16  GLU t   28  1                                  13    
-HELIX  568 568 GLU t   35  SER t   44  1                                  10    
-HELIX  569 569 THR t   48  VAL t   59  1                                  12    
-HELIX  570 570 HIS t   62  HIS t   84  1                                  23    
-HELIX  571 571 ARG t  100  ALA t  105  1                                   6    
-HELIX  572 572 THR t  110  THR t  119  1                                  10    
-HELIX  573 573 PRO t  125  TYR t  145  1                                  21    
-HELIX  574 574 SER t  149  ILE t  153  5                                   5    
-HELIX  575 575 PRO t  160  ARG t  173  1                                  14    
-HELIX  576 576 SER t  178  THR t  188  1                                  11    
-HELIX  577 577 THR t  188  ALA t  194  1                                   7    
-HELIX  578 578 ASN t  195  LEU t  205  1                                  11    
-HELIX  579 579 THR t  210  ALA t  217  1                                   8    
-HELIX  580 580 SER u   16  ALA u   31  1                                  16    
-HELIX  581 581 GLU u   35  SER u   44  1                                  10    
-HELIX  582 582 THR u   48  THR u   58  1                                  11    
-HELIX  583 583 HIS u   62  HIS u   84  1                                  23    
-HELIX  584 584 ARG u  100  ALA u  105  1                                   6    
-HELIX  585 585 THR u  110  HIS u  120  1                                  11    
-HELIX  586 586 PRO u  125  SER u  146  1                                  22    
-HELIX  587 587 PRO u  160  GLU u  175  1                                  16    
-HELIX  588 588 SER u  178  GLU u  187  1                                  10    
-HELIX  589 589 THR u  188  ASN u  193  1                                   6    
-HELIX  590 590 ASN u  195  GLY u  206  1                                  12    
-HELIX  591 591 THR u  210  CYS u  218  1                                   9    
-HELIX  592 592 SER v   16  ALA v   31  1                                  16    
-HELIX  593 593 GLU v   35  SER v   44  1                                  10    
-HELIX  594 594 THR v   48  VAL v   59  1                                  12    
-HELIX  595 595 HIS v   62  HIS v   84  1                                  23    
-HELIX  596 596 ARG v  100  ALA v  105  1                                   6    
-HELIX  597 597 THR v  110  HIS v  120  1                                  11    
-HELIX  598 598 PRO v  125  SER v  146  1                                  22    
-HELIX  599 599 PHE v  161  GLU v  175  1                                  15    
-HELIX  600 600 SER v  178  LEU v  189  1                                  12    
-HELIX  601 601 ASN v  195  LEU v  205  1                                  11    
-HELIX  602 602 GLY v  206  ALA v  209  5                                   4    
-HELIX  603 603 THR v  210  THR v  216  1                                   7    
-HELIX  604 604 SER w   16  ALA w   31  1                                  16    
-HELIX  605 605 GLU w   35  SER w   44  1                                  10    
-HELIX  606 606 THR w   48  THR w   58  1                                  11    
-HELIX  607 607 HIS w   62  HIS w   84  1                                  23    
-HELIX  608 608 ARG w  100  ALA w  105  1                                   6    
-HELIX  609 609 THR w  110  THR w  119  1                                  10    
-HELIX  610 610 PRO w  125  TYR w  145  1                                  21    
-HELIX  611 611 SER w  149  ILE w  153  5                                   5    
-HELIX  612 612 PRO w  160  ARG w  173  1                                  14    
-HELIX  613 613 SER w  178  THR w  188  1                                  11    
-HELIX  614 614 THR w  188  ASN w  193  1                                   6    
-HELIX  615 615 ASN w  195  GLY w  206  1                                  12    
-HELIX  616 616 THR w  210  ALA w  217  1                                   8    
-HELIX  617 617 GLY w  223  ARG w  229  1                                   7    
-HELIX  618 618 SER x   16  ALA x   31  1                                  16    
-HELIX  619 619 GLU x   35  SER x   44  1                                  10    
-HELIX  620 620 THR x   48  VAL x   59  1                                  12    
-HELIX  621 621 HIS x   62  HIS x   84  1                                  23    
-HELIX  622 622 ARG x  100  GLY x  106  1                                   7    
-HELIX  623 623 THR x  110  THR x  119  1                                  10    
-HELIX  624 624 PRO x  125  SER x  146  1                                  22    
-HELIX  625 625 SER x  149  ILE x  153  5                                   5    
-HELIX  626 626 PRO x  160  LEU x  172  1                                  13    
-HELIX  627 627 SER x  178  LEU x  189  1                                  12    
-HELIX  628 628 LEU x  190  ASN x  193  5                                   4    
-HELIX  629 629 ASN x  195  ASP x  197  5                                   3    
-HELIX  630 630 CYS x  198  GLY x  206  1                                   9    
-HELIX  631 631 THR x  210  THR x  216  1                                   7    
-HELIX  632 632 SER y   16  ALA y   31  1                                  16    
-HELIX  633 633 VAL y   36  SER y   44  1                                   9    
-HELIX  634 634 THR y   48  VAL y   59  1                                  12    
-HELIX  635 635 HIS y   62  HIS y   84  1                                  23    
-HELIX  636 636 ARG y  100  GLY y  106  1                                   7    
-HELIX  637 637 THR y  110  HIS y  120  1                                  11    
-HELIX  638 638 PRO y  125  MET y  144  1                                  20    
-HELIX  639 639 SER y  149  ILE y  153  5                                   5    
-HELIX  640 640 PRO y  160  GLU y  175  1                                  16    
-HELIX  641 641 SER y  178  THR y  186  1                                   9    
-HELIX  642 642 THR y  188  ALA y  194  1                                   7    
-HELIX  643 643 ASN y  195  GLY y  206  1                                  12    
-HELIX  644 644 THR y  210  MET y  215  1                                   6    
-HELIX  645 645 SER z   16  LYS z   30  1                                  15    
-HELIX  646 646 GLU z   35  SER z   44  1                                  10    
-HELIX  647 647 THR z   48  VAL z   59  1                                  12    
-HELIX  648 648 HIS z   62  HIS z   84  1                                  23    
-HELIX  649 649 ARG z  100  ALA z  105  1                                   6    
-HELIX  650 650 THR z  110  HIS z  120  1                                  11    
-HELIX  651 651 PRO z  125  TYR z  145  1                                  21    
-HELIX  652 652 SER z  149  ILE z  153  5                                   5    
-HELIX  653 653 PRO z  160  GLU z  175  1                                  16    
-HELIX  654 654 SER z  178  THR z  188  1                                  11    
-HELIX  655 655 THR z  188  ASN z  193  1                                   6    
-HELIX  656 656 ASN z  195  LEU z  205  1                                  11    
-HELIX  657 657 THR z  210  THR z  216  1                                   7    
-HELIX  658 658 SER 0   16  ALA 0   31  1                                  16    
-HELIX  659 659 GLU 0   35  SER 0   44  1                                  10    
-HELIX  660 660 THR 0   48  VAL 0   59  1                                  12    
-HELIX  661 661 HIS 0   62  HIS 0   84  1                                  23    
-HELIX  662 662 ARG 0  100  ALA 0  105  1                                   6    
-HELIX  663 663 THR 0  110  HIS 0  120  1                                  11    
-HELIX  664 664 PRO 0  125  SER 0  146  1                                  22    
-HELIX  665 665 SER 0  149  ILE 0  153  5                                   5    
-HELIX  666 666 PRO 0  160  GLU 0  175  1                                  16    
-HELIX  667 667 SER 0  178  GLU 0  187  1                                  10    
-HELIX  668 668 GLU 0  187  ALA 0  194  1                                   8    
-HELIX  669 669 ASN 0  195  GLY 0  206  1                                  12    
-HELIX  670 670 THR 0  210  THR 0  216  1                                   7    
-HELIX  671 671 SER 1   16  GLU 1   28  1                                  13    
-HELIX  672 672 GLU 1   35  SER 1   44  1                                  10    
-HELIX  673 673 THR 1   48  VAL 1   59  1                                  12    
-HELIX  674 674 HIS 1   62  HIS 1   84  1                                  23    
-HELIX  675 675 ARG 1  100  ALA 1  105  1                                   6    
-HELIX  676 676 THR 1  110  HIS 1  120  1                                  11    
-HELIX  677 677 PRO 1  125  SER 1  146  1                                  22    
-HELIX  678 678 PHE 1  161  ALA 1  174  1                                  14    
-HELIX  679 679 SER 1  178  THR 1  188  1                                  11    
-HELIX  680 680 ASN 1  195  GLY 1  206  1                                  12    
-HELIX  681 681 THR 1  210  ALA 1  217  1                                   8    
-HELIX  682 682 SER 2   16  ALA 2   31  1                                  16    
-HELIX  683 683 GLU 2   35  LEU 2   43  1                                   9    
-HELIX  684 684 THR 2   48  VAL 2   59  1                                  12    
-HELIX  685 685 HIS 2   62  HIS 2   84  1                                  23    
-HELIX  686 686 ARG 2  100  ALA 2  105  1                                   6    
-HELIX  687 687 THR 2  110  THR 2  119  1                                  10    
-HELIX  688 688 PRO 2  125  SER 2  146  1                                  22    
-HELIX  689 689 PRO 2  160  LYS 2  170  1                                  11    
-HELIX  690 690 SER 2  178  LEU 2  189  1                                  12    
-HELIX  691 691 LEU 2  190  ALA 2  194  5                                   5    
-HELIX  692 692 ASN 2  195  GLY 2  206  1                                  12    
-HELIX  693 693 THR 2  210  THR 2  216  1                                   7    
-SHEET    1   A 2 ILE B   2  ASN B   5  0                                        
-SHEET    2   A 2 GLN B   9  HIS B  12 -1  O  GLN B   9   N  ASN B   5           
-SHEET    1   B 2 ILE C   2  VAL C   3  0                                        
-SHEET    2   B 2 VAL C  11  HIS C  12 -1  O  VAL C  11   N  VAL C   3           
-SHEET    1   C 2 ILE D   2  VAL D   3  0                                        
-SHEET    2   C 2 VAL D  11  HIS D  12 -1  O  VAL D  11   N  VAL D   3           
-SHEET    1   D 2 ILE E   2  GLN E   4  0                                        
-SHEET    2   D 2 MET E  10  HIS E  12 -1  O  VAL E  11   N  VAL E   3           
-SHEET    1   E 2 ILE F   2  VAL F   3  0                                        
-SHEET    2   E 2 VAL F  11  HIS F  12 -1  O  VAL F  11   N  VAL F   3           
-SHEET    1   F 2 ILE H   2  LEU H   6  0                                        
-SHEET    2   F 2 GLN H   9  HIS H  12 -1  O  GLN H   9   N  ASN H   5           
-SHEET    1   G 2 ILE I   2  VAL I   3  0                                        
-SHEET    2   G 2 VAL I  11  HIS I  12 -1  O  VAL I  11   N  VAL I   3           
-SHEET    1   H 2 ILE J   2  VAL J   3  0                                        
-SHEET    2   H 2 VAL J  11  HIS J  12 -1  O  VAL J  11   N  VAL J   3           
-SHEET    1   I 2 ILE L   2  VAL L   3  0                                        
-SHEET    2   I 2 VAL L  11  HIS L  12 -1  O  VAL L  11   N  VAL L   3           
-SHEET    1   J 2 ILE M   2  VAL M   3  0                                        
-SHEET    2   J 2 VAL M  11  HIS M  12 -1  O  VAL M  11   N  VAL M   3           
-SHEET    1   K 2 ILE Q   2  VAL Q   3  0                                        
-SHEET    2   K 2 VAL Q  11  HIS Q  12 -1  O  VAL Q  11   N  VAL Q   3           
-SHEET    1   L 2 ILE R   2  GLN R   4  0                                        
-SHEET    2   L 2 MET R  10  HIS R  12 -1  O  VAL R  11   N  VAL R   3           
-SHEET    1   M 2 ILE S   2  VAL S   3  0                                        
-SHEET    2   M 2 VAL S  11  HIS S  12 -1  O  VAL S  11   N  VAL S   3           
-SHEET    1   N 2 ILE U   2  VAL U   3  0                                        
-SHEET    2   N 2 VAL U  11  HIS U  12 -1  O  VAL U  11   N  VAL U   3           
-SHEET    1   O 2 ILE V   2  ASN V   5  0                                        
-SHEET    2   O 2 GLN V   9  HIS V  12 -1  O  GLN V   9   N  ASN V   5           
-SHEET    1   P 2 ILE W   2  VAL W   3  0                                        
-SHEET    2   P 2 VAL W  11  HIS W  12 -1  O  VAL W  11   N  VAL W   3           
-SHEET    1   Q 3 ILE X   2  VAL X   3  0                                        
-SHEET    2   Q 3 VAL X  11  HIS X  12 -1  O  VAL X  11   N  VAL X   3           
-SHEET    3   Q 3 GLN Y   4  ASN Y   5 -1  O  GLN Y   4   N  HIS X  12           
-SHEET    1   R 2 ILE Z   2  VAL Z   3  0                                        
-SHEET    2   R 2 VAL Z  11  HIS Z  12 -1  O  VAL Z  11   N  VAL Z   3           
-SHEET    1   S 2 ILE b   2  ASN b   5  0                                        
-SHEET    2   S 2 GLN b   9  HIS b  12 -1  O  VAL b  11   N  VAL b   3           
-SHEET    1   T 2 ILE e   2  VAL e   3  0                                        
-SHEET    2   T 2 VAL e  11  HIS e  12 -1  O  VAL e  11   N  VAL e   3           
-SHEET    1   U 2 ILE f   2  VAL f   3  0                                        
-SHEET    2   U 2 VAL f  11  HIS f  12 -1  O  VAL f  11   N  VAL f   3           
-SHEET    1   V 2 ILE g   2  VAL g   3  0                                        
-SHEET    2   V 2 VAL g  11  HIS g  12 -1  O  VAL g  11   N  VAL g   3           
-SHEET    1   W 2 ILE h   2  VAL h   3  0                                        
-SHEET    2   W 2 VAL h  11  HIS h  12 -1  O  VAL h  11   N  VAL h   3           
-SHEET    1   X 2 ILE i   2  ASN i   5  0                                        
-SHEET    2   X 2 GLN i   9  HIS i  12 -1  O  GLN i   9   N  ASN i   5           
-SHEET    1   Y 2 ILE j   2  VAL j   3  0                                        
-SHEET    2   Y 2 VAL j  11  HIS j  12 -1  O  VAL j  11   N  VAL j   3           
-SHEET    1   Z 2 ILE l   2  ASN l   5  0                                        
-SHEET    2   Z 2 GLY l   8  HIS l  12 -1  O  VAL l  11   N  VAL l   3           
-SHEET    1  AA 2 ILE m   2  VAL m   3  0                                        
-SHEET    2  AA 2 VAL m  11  HIS m  12 -1  O  VAL m  11   N  VAL m   3           
-SHEET    1  AB 2 ILE o   2  LEU o   6  0                                        
-SHEET    2  AB 2 GLN o   9  HIS o  12 -1  O  VAL o  11   N  VAL o   3           
-SHEET    1  AC 2 ILE p   2  VAL p   3  0                                        
-SHEET    2  AC 2 VAL p  11  HIS p  12 -1  O  VAL p  11   N  VAL p   3           
-SHEET    1  AD 2 ILE q   2  VAL q   3  0                                        
-SHEET    2  AD 2 VAL q  11  HIS q  12 -1  O  VAL q  11   N  VAL q   3           
-SHEET    1  AE 4 ILE r   2  VAL r   3  0                                        
-SHEET    2  AE 4 VAL r  11  GLN r  13 -1  O  VAL r  11   N  VAL r   3           
-SHEET    3  AE 4 ILE 2   2  GLN 2   4 -1  O  GLN 2   4   N  HIS r  12           
-SHEET    4  AE 4 MET 2  10  HIS 2  12 -1  O  VAL 2  11   N  VAL 2   3           
-SHEET    1  AF 2 VAL r 221  GLY r 222  0                                        
-SHEET    2  AF 2 ARG r 229  VAL r 230 -1  O  VAL r 230   N  VAL r 221           
-SHEET    1  AG 2 ILE s   2  GLN s   4  0                                        
-SHEET    2  AG 2 MET s  10  HIS s  12 -1  O  VAL s  11   N  VAL s   3           
-SHEET    1  AH 2 ILE t   2  VAL t   3  0                                        
-SHEET    2  AH 2 VAL t  11  HIS t  12 -1  O  VAL t  11   N  VAL t   3           
-SHEET    1  AI 2 ILE v   2  ASN v   5  0                                        
-SHEET    2  AI 2 GLN v   9  HIS v  12 -1  O  VAL v  11   N  VAL v   3           
-SHEET    1  AJ 2 ILE x   2  VAL x   3  0                                        
-SHEET    2  AJ 2 VAL x  11  HIS x  12 -1  O  VAL x  11   N  VAL x   3           
-SHEET    1  AK 2 ILE y   2  GLN y   4  0                                        
-SHEET    2  AK 2 MET y  10  HIS y  12 -1  O  VAL y  11   N  VAL y   3           
-SHEET    1  AL 2 ILE z   2  VAL z   3  0                                        
-SHEET    2  AL 2 VAL z  11  HIS z  12 -1  O  VAL z  11   N  VAL z   3           
-SHEET    1  AM 2 ILE 1   2  GLN 1   4  0                                        
-SHEET    2  AM 2 MET 1  10  HIS 1  12 -1  O  VAL 1  11   N  VAL 1   3           
+HELIX    8   8 SER B  149  ILE B  153  5                                   5    
+HELIX    9   9 PRO B  160  GLU B  175  1                                  16    
+HELIX   10  10 THR B  188  ASN B  193  1                                   6    
+HELIX   11  11 ASN B  195  GLY B  206  1                                  12    
+HELIX   12  12 THR B  210  CYS B  218  1                                   9    
 SSBOND   1 CYS A  198    CYS A  218                          1555   1555  2.02  
 SSBOND   2 CYS B  198    CYS B  218                          1555   1555  1.99  
 SSBOND   3 CYS C  198    CYS C  218                          1555   1555  2.01  
@@ -7811,654 +7049,654 @@ ATOM   1150  O   THR A 148     414.780 985.425 379.082  1.00  0.00           O
 ATOM   1151  CB  THR A 148     411.540 986.545 378.707  1.00  0.00           C  
 ATOM   1152  OG1 THR A 148     411.140 986.017 377.425  1.00  0.00           O  
 ATOM   1153  CG2 THR A 148     412.280 987.876 378.426  1.00  0.00           C  
-ATOM   1154  N   SER A 149     413.410 984.245 377.652  1.00  0.00           N  
-ATOM   1155  CA  SER A 149     414.500 983.660 376.887  1.00  0.00           C  
-ATOM   1156  C   SER A 149     414.130 983.179 375.501  1.00  0.00           C  
-ATOM   1157  O   SER A 149     413.230 982.348 375.383  1.00  0.00           O  
-ATOM   1158  CB  SER A 149     415.090 982.440 377.673  1.00  0.00           C  
-ATOM   1159  OG  SER A 149     416.230 981.789 377.079  1.00  0.00           O  
-ATOM   1160  N   ILE A 150     414.830 983.744 374.498  1.00  0.00           N  
-ATOM   1161  CA  ILE A 150     414.610 983.377 373.139  1.00  0.00           C  
-ATOM   1162  C   ILE A 150     415.470 982.190 372.816  1.00  0.00           C  
-ATOM   1163  O   ILE A 150     415.360 981.413 371.809  1.00  0.00           O  
-ATOM   1164  CB  ILE A 150     415.040 984.496 372.210  1.00  0.00           C  
-ATOM   1165  CG1 ILE A 150     414.510 984.435 370.795  1.00  0.00           C  
-ATOM   1166  CG2 ILE A 150     416.520 984.801 372.193  1.00  0.00           C  
-ATOM   1167  CD1 ILE A 150     412.970 984.161 370.718  1.00  0.00           C  
-ATOM   1168  N   LEU A 151     416.300 981.805 373.854  1.00  0.00           N  
-ATOM   1169  CA  LEU A 151     417.150 980.600 373.816  1.00  0.00           C  
-ATOM   1170  C   LEU A 151     416.470 979.425 374.553  1.00  0.00           C  
-ATOM   1171  O   LEU A 151     417.000 978.293 374.595  1.00  0.00           O  
-ATOM   1172  CB  LEU A 151     418.480 980.879 374.459  1.00  0.00           C  
-ATOM   1173  CG  LEU A 151     419.440 981.811 373.640  1.00  0.00           C  
-ATOM   1174  CD1 LEU A 151     420.590 982.339 374.621  1.00  0.00           C  
-ATOM   1175  CD2 LEU A 151     419.850 981.141 372.318  1.00  0.00           C  
-ATOM   1176  N   ASP A 152     415.280 979.526 375.151  1.00  0.00           N  
-ATOM   1177  CA  ASP A 152     414.560 978.311 375.737  1.00  0.00           C  
-ATOM   1178  C   ASP A 152     413.550 977.667 374.764  1.00  0.00           C  
-ATOM   1179  O   ASP A 152     413.320 976.452 374.760  1.00  0.00           O  
-ATOM   1180  CB  ASP A 152     413.660 978.646 376.987  1.00  0.00           C  
-ATOM   1181  CG  ASP A 152     414.490 979.191 378.110  1.00  0.00           C  
-ATOM   1182  OD1 ASP A 152     413.860 979.495 379.168  1.00  0.00           O  
-ATOM   1183  OD2 ASP A 152     415.720 979.309 378.081  1.00  0.00           O  
-ATOM   1184  N   ILE A 153     413.040 978.484 373.836  1.00  0.00           N  
-ATOM   1185  CA  ILE A 153     411.920 978.191 372.956  1.00  0.00           C  
-ATOM   1186  C   ILE A 153     412.320 977.315 371.743  1.00  0.00           C  
-ATOM   1187  O   ILE A 153     413.110 977.724 370.884  1.00  0.00           O  
-ATOM   1188  CB  ILE A 153     411.040 979.380 372.642  1.00  0.00           C  
-ATOM   1189  CG1 ILE A 153     409.910 979.052 371.637  1.00  0.00           C  
-ATOM   1190  CG2 ILE A 153     411.890 980.508 371.877  1.00  0.00           C  
-ATOM   1191  CD1 ILE A 153     408.860 978.184 372.271  1.00  0.00           C  
-ATOM   1192  N   ARG A 154     411.750 976.083 371.674  1.00  0.00           N  
-ATOM   1193  CA  ARG A 154     411.960 975.104 370.603  1.00  0.00           C  
-ATOM   1194  C   ARG A 154     410.650 974.246 370.452  1.00  0.00           C  
-ATOM   1195  O   ARG A 154     409.770 974.373 371.258  1.00  0.00           O  
-ATOM   1196  CB  ARG A 154     413.140 974.142 371.003  1.00  0.00           C  
-ATOM   1197  CG  ARG A 154     412.980 973.379 372.266  1.00  0.00           C  
-ATOM   1198  CD  ARG A 154     414.190 972.434 372.478  1.00  0.00           C  
-ATOM   1199  NE  ARG A 154     414.070 971.278 371.495  1.00  0.00           N  
-ATOM   1200  CZ  ARG A 154     414.850 970.229 371.503  1.00  0.00           C  
-ATOM   1201  NH1 ARG A 154     415.530 969.895 372.595  1.00  0.00           N  
-ATOM   1202  NH2 ARG A 154     415.060 969.503 370.397  1.00  0.00           N  
-ATOM   1203  N   GLN A 155     410.610 973.401 369.421  1.00  0.00           N  
-ATOM   1204  CA  GLN A 155     409.560 972.458 369.186  1.00  0.00           C  
-ATOM   1205  C   GLN A 155     410.000 970.996 369.679  1.00  0.00           C  
-ATOM   1206  O   GLN A 155     411.000 970.435 369.220  1.00  0.00           O  
-ATOM   1207  CB  GLN A 155     409.250 972.343 367.646  1.00  0.00           C  
-ATOM   1208  CG  GLN A 155     407.970 971.618 367.349  1.00  0.00           C  
-ATOM   1209  CD  GLN A 155     407.520 971.828 365.889  1.00  0.00           C  
-ATOM   1210  OE1 GLN A 155     408.280 972.202 365.018  1.00  0.00           O  
-ATOM   1211  NE2 GLN A 155     406.300 971.342 365.626  1.00  0.00           N  
-ATOM   1212  N   GLY A 156     409.310 970.469 370.725  1.00  0.00           N  
-ATOM   1213  CA  GLY A 156     409.340 969.063 371.043  1.00  0.00           C  
-ATOM   1214  C   GLY A 156     408.880 968.102 369.942  1.00  0.00           C  
-ATOM   1215  O   GLY A 156     408.480 968.448 368.856  1.00  0.00           O  
-ATOM   1216  N   PRO A 157     409.130 966.813 370.355  1.00  0.00           N  
-ATOM   1217  CA  PRO A 157     409.030 965.782 369.319  1.00  0.00           C  
-ATOM   1218  C   PRO A 157     407.570 965.513 368.850  1.00  0.00           C  
-ATOM   1219  O   PRO A 157     407.410 965.287 367.692  1.00  0.00           O  
-ATOM   1220  CB  PRO A 157     409.750 964.583 369.905  1.00  0.00           C  
-ATOM   1221  CG  PRO A 157     409.530 964.829 371.411  1.00  0.00           C  
-ATOM   1222  CD  PRO A 157     409.790 966.355 371.585  1.00  0.00           C  
-ATOM   1223  N   LYS A 158     406.610 965.631 369.798  1.00  0.00           N  
-ATOM   1224  CA  LYS A 158     405.260 965.543 369.480  1.00  0.00           C  
-ATOM   1225  C   LYS A 158     404.430 966.797 369.624  1.00  0.00           C  
-ATOM   1226  O   LYS A 158     403.220 966.683 369.701  1.00  0.00           O  
-ATOM   1227  CB  LYS A 158     404.570 964.416 370.285  1.00  0.00           C  
-ATOM   1228  CG  LYS A 158     405.360 963.123 370.524  1.00  0.00           C  
-ATOM   1229  CD  LYS A 158     405.630 962.361 369.209  1.00  0.00           C  
-ATOM   1230  CE  LYS A 158     404.480 961.817 368.425  1.00  0.00           C  
-ATOM   1231  NZ  LYS A 158     404.890 960.969 367.293  1.00  0.00           N  
-ATOM   1232  N   GLU A 159     405.150 968.003 369.561  1.00  0.00           N  
-ATOM   1233  CA  GLU A 159     404.420 969.223 369.634  1.00  0.00           C  
-ATOM   1234  C   GLU A 159     403.890 969.711 368.247  1.00  0.00           C  
-ATOM   1235  O   GLU A 159     404.640 969.884 367.319  1.00  0.00           O  
-ATOM   1236  CB  GLU A 159     405.310 970.348 370.309  1.00  0.00           C  
-ATOM   1237  CG  GLU A 159     405.400 970.239 371.820  1.00  0.00           C  
-ATOM   1238  CD  GLU A 159     406.610 970.908 372.361  1.00  0.00           C  
-ATOM   1239  OE1 GLU A 159     407.070 972.031 371.925  1.00  0.00           O  
-ATOM   1240  OE2 GLU A 159     407.190 970.376 373.305  1.00  0.00           O  
-ATOM   1241  N   PRO A 160     402.620 970.048 368.104  1.00  0.00           N  
-ATOM   1242  CA  PRO A 160     402.030 970.869 366.960  1.00  0.00           C  
-ATOM   1243  C   PRO A 160     402.690 972.140 366.657  1.00  0.00           C  
-ATOM   1244  O   PRO A 160     403.010 972.911 367.582  1.00  0.00           O  
-ATOM   1245  CB  PRO A 160     400.530 970.978 367.330  1.00  0.00           C  
-ATOM   1246  CG  PRO A 160     400.320 969.755 368.293  1.00  0.00           C  
-ATOM   1247  CD  PRO A 160     401.560 969.690 369.067  1.00  0.00           C  
-ATOM   1248  N   PHE A 161     402.810 972.385 365.355  1.00  0.00           N  
-ATOM   1249  CA  PHE A 161     403.290 973.690 364.910  1.00  0.00           C  
-ATOM   1250  C   PHE A 161     402.500 974.963 365.331  1.00  0.00           C  
-ATOM   1251  O   PHE A 161     403.220 975.960 365.694  1.00  0.00           O  
-ATOM   1252  CB  PHE A 161     403.450 973.591 363.420  1.00  0.00           C  
-ATOM   1253  CG  PHE A 161     404.400 974.640 362.914  1.00  0.00           C  
-ATOM   1254  CD1 PHE A 161     403.850 975.584 362.081  1.00  0.00           C  
-ATOM   1255  CD2 PHE A 161     405.830 974.671 363.069  1.00  0.00           C  
-ATOM   1256  CE1 PHE A 161     404.640 976.616 361.507  1.00  0.00           C  
-ATOM   1257  CE2 PHE A 161     406.590 975.642 362.526  1.00  0.00           C  
-ATOM   1258  CZ  PHE A 161     406.010 976.656 361.759  1.00  0.00           C  
-ATOM   1259  N   ARG A 162     401.130 974.899 365.439  1.00  0.00           N  
-ATOM   1260  CA  ARG A 162     400.200 975.908 365.948  1.00  0.00           C  
-ATOM   1261  C   ARG A 162     400.530 976.292 367.331  1.00  0.00           C  
-ATOM   1262  O   ARG A 162     400.470 977.453 367.730  1.00  0.00           O  
-ATOM   1263  CB  ARG A 162     398.780 975.463 365.836  1.00  0.00           C  
-ATOM   1264  CG  ARG A 162     397.650 976.108 366.759  1.00  0.00           C  
-ATOM   1265  CD  ARG A 162     396.220 975.730 366.352  1.00  0.00           C  
-ATOM   1266  NE  ARG A 162     395.380 976.736 367.121  1.00  0.00           N  
-ATOM   1267  CZ  ARG A 162     394.110 976.727 367.095  1.00  0.00           C  
-ATOM   1268  NH1 ARG A 162     393.400 976.010 366.304  1.00  0.00           N  
-ATOM   1269  NH2 ARG A 162     393.400 977.517 367.949  1.00  0.00           N  
-ATOM   1270  N   ASP A 163     400.950 975.299 368.191  1.00  0.00           N  
-ATOM   1271  CA  ASP A 163     401.400 975.560 369.508  1.00  0.00           C  
-ATOM   1272  C   ASP A 163     402.770 976.211 369.567  1.00  0.00           C  
-ATOM   1273  O   ASP A 163     403.010 977.207 370.273  1.00  0.00           O  
-ATOM   1274  CB  ASP A 163     401.140 974.179 370.198  1.00  0.00           C  
-ATOM   1275  CG  ASP A 163     401.860 973.914 371.496  1.00  0.00           C  
-ATOM   1276  OD1 ASP A 163     402.450 974.916 372.005  1.00  0.00           O  
-ATOM   1277  OD2 ASP A 163     401.720 972.840 372.167  1.00  0.00           O  
-ATOM   1278  N   TYR A 164     403.750 975.621 368.774  1.00  0.00           N  
-ATOM   1279  CA  TYR A 164     405.140 975.973 368.798  1.00  0.00           C  
-ATOM   1280  C   TYR A 164     405.320 977.414 368.242  1.00  0.00           C  
-ATOM   1281  O   TYR A 164     405.900 978.306 368.978  1.00  0.00           O  
-ATOM   1282  CB  TYR A 164     406.030 974.902 368.121  1.00  0.00           C  
-ATOM   1283  CG  TYR A 164     407.340 975.464 367.660  1.00  0.00           C  
-ATOM   1284  CD1 TYR A 164     408.190 975.897 368.632  1.00  0.00           C  
-ATOM   1285  CD2 TYR A 164     407.690 975.428 366.321  1.00  0.00           C  
-ATOM   1286  CE1 TYR A 164     409.440 976.343 368.241  1.00  0.00           C  
-ATOM   1287  CE2 TYR A 164     408.940 976.010 365.931  1.00  0.00           C  
-ATOM   1288  CZ  TYR A 164     409.830 976.461 366.896  1.00  0.00           C  
-ATOM   1289  OH  TYR A 164     411.080 976.949 366.474  1.00  0.00           O  
-ATOM   1290  N   VAL A 165     404.730 977.730 367.095  1.00  0.00           N  
-ATOM   1291  CA  VAL A 165     404.800 979.075 366.557  1.00  0.00           C  
-ATOM   1292  C   VAL A 165     404.060 980.182 367.374  1.00  0.00           C  
-ATOM   1293  O   VAL A 165     404.530 981.334 367.408  1.00  0.00           O  
-ATOM   1294  CB  VAL A 165     404.330 979.059 365.098  1.00  0.00           C  
-ATOM   1295  CG1 VAL A 165     402.750 978.999 365.032  1.00  0.00           C  
-ATOM   1296  CG2 VAL A 165     404.820 980.275 364.259  1.00  0.00           C  
-ATOM   1297  N   ASP A 166     402.940 979.923 368.109  1.00  0.00           N  
-ATOM   1298  CA  ASP A 166     402.260 980.947 368.971  1.00  0.00           C  
-ATOM   1299  C   ASP A 166     403.210 981.375 370.143  1.00  0.00           C  
-ATOM   1300  O   ASP A 166     403.530 982.543 370.317  1.00  0.00           O  
-ATOM   1301  CB  ASP A 166     400.950 980.324 369.417  1.00  0.00           C  
-ATOM   1302  CG  ASP A 166     399.970 981.205 370.162  1.00  0.00           C  
-ATOM   1303  OD1 ASP A 166     399.090 980.745 370.863  1.00  0.00           O  
-ATOM   1304  OD2 ASP A 166     400.000 982.417 369.806  1.00  0.00           O  
-ATOM   1305  N   ARG A 167     403.880 980.377 370.684  1.00  0.00           N  
-ATOM   1306  CA  ARG A 167     404.950 980.493 371.694  1.00  0.00           C  
-ATOM   1307  C   ARG A 167     406.100 981.295 371.248  1.00  0.00           C  
-ATOM   1308  O   ARG A 167     406.500 982.271 371.926  1.00  0.00           O  
-ATOM   1309  CB  ARG A 167     405.370 979.099 372.296  1.00  0.00           C  
-ATOM   1310  CG  ARG A 167     404.460 978.437 373.316  1.00  0.00           C  
-ATOM   1311  CD  ARG A 167     405.110 977.143 373.858  1.00  0.00           C  
-ATOM   1312  NE  ARG A 167     404.940 976.154 372.769  1.00  0.00           N  
-ATOM   1313  CZ  ARG A 167     405.660 975.066 372.450  1.00  0.00           C  
-ATOM   1314  NH1 ARG A 167     406.800 974.748 373.014  1.00  0.00           N  
-ATOM   1315  NH2 ARG A 167     405.140 974.122 371.655  1.00  0.00           N  
-ATOM   1316  N   PHE A 168     406.650 981.037 370.040  1.00  0.00           N  
-ATOM   1317  CA  PHE A 168     407.900 981.593 369.622  1.00  0.00           C  
-ATOM   1318  C   PHE A 168     407.780 983.119 369.395  1.00  0.00           C  
-ATOM   1319  O   PHE A 168     408.540 983.908 369.879  1.00  0.00           O  
-ATOM   1320  CB  PHE A 168     408.390 980.869 368.335  1.00  0.00           C  
-ATOM   1321  CG  PHE A 168     409.700 981.476 367.654  1.00  0.00           C  
-ATOM   1322  CD1 PHE A 168     411.000 981.221 368.145  1.00  0.00           C  
-ATOM   1323  CD2 PHE A 168     409.600 982.469 366.659  1.00  0.00           C  
-ATOM   1324  CE1 PHE A 168     412.150 981.937 367.647  1.00  0.00           C  
-ATOM   1325  CE2 PHE A 168     410.730 983.213 366.207  1.00  0.00           C  
-ATOM   1326  CZ  PHE A 168     411.930 982.940 366.697  1.00  0.00           C  
-ATOM   1327  N   TYR A 169     406.670 983.516 368.715  1.00  0.00           N  
-ATOM   1328  CA  TYR A 169     406.380 984.918 368.474  1.00  0.00           C  
-ATOM   1329  C   TYR A 169     406.230 985.664 369.788  1.00  0.00           C  
-ATOM   1330  O   TYR A 169     406.840 986.740 370.062  1.00  0.00           O  
-ATOM   1331  CB  TYR A 169     405.290 985.196 367.454  1.00  0.00           C  
-ATOM   1332  CG  TYR A 169     405.880 984.896 366.023  1.00  0.00           C  
-ATOM   1333  CD1 TYR A 169     405.660 983.690 365.419  1.00  0.00           C  
-ATOM   1334  CD2 TYR A 169     406.610 985.948 365.383  1.00  0.00           C  
-ATOM   1335  CE1 TYR A 169     406.200 983.464 364.127  1.00  0.00           C  
-ATOM   1336  CE2 TYR A 169     407.180 985.763 364.124  1.00  0.00           C  
-ATOM   1337  CZ  TYR A 169     406.960 984.480 363.515  1.00  0.00           C  
-ATOM   1338  OH  TYR A 169     407.460 984.137 362.251  1.00  0.00           O  
-ATOM   1339  N   LYS A 170     405.430 985.096 370.686  1.00  0.00           N  
-ATOM   1340  CA  LYS A 170     405.240 985.680 372.042  1.00  0.00           C  
-ATOM   1341  C   LYS A 170     406.550 985.814 372.780  1.00  0.00           C  
-ATOM   1342  O   LYS A 170     406.800 986.764 373.555  1.00  0.00           O  
-ATOM   1343  CB  LYS A 170     404.330 984.707 372.842  1.00  0.00           C  
-ATOM   1344  CG  LYS A 170     403.960 985.059 374.295  1.00  0.00           C  
-ATOM   1345  CD  LYS A 170     402.940 986.160 374.426  1.00  0.00           C  
-ATOM   1346  CE  LYS A 170     402.460 986.489 375.825  1.00  0.00           C  
-ATOM   1347  NZ  LYS A 170     401.610 985.375 376.361  1.00  0.00           N  
-ATOM   1348  N   THR A 171     407.420 984.829 372.679  1.00  0.00           N  
-ATOM   1349  CA  THR A 171     408.750 984.729 373.232  1.00  0.00           C  
-ATOM   1350  C   THR A 171     409.700 985.819 372.782  1.00  0.00           C  
-ATOM   1351  O   THR A 171     410.250 986.570 373.631  1.00  0.00           O  
-ATOM   1352  CB  THR A 171     409.450 983.356 373.097  1.00  0.00           C  
-ATOM   1353  OG1 THR A 171     408.680 982.215 373.440  1.00  0.00           O  
-ATOM   1354  CG2 THR A 171     410.750 983.387 373.902  1.00  0.00           C  
-ATOM   1355  N   LEU A 172     409.740 986.033 371.430  1.00  0.00           N  
-ATOM   1356  CA  LEU A 172     410.440 987.093 370.746  1.00  0.00           C  
-ATOM   1357  C   LEU A 172     409.870 988.504 371.075  1.00  0.00           C  
-ATOM   1358  O   LEU A 172     410.530 989.524 371.345  1.00  0.00           O  
-ATOM   1359  CB  LEU A 172     410.380 986.795 369.270  1.00  0.00           C  
-ATOM   1360  CG  LEU A 172     411.320 987.616 368.396  1.00  0.00           C  
-ATOM   1361  CD1 LEU A 172     412.770 987.026 368.322  1.00  0.00           C  
-ATOM   1362  CD2 LEU A 172     410.860 987.666 366.886  1.00  0.00           C  
-ATOM   1363  N   ARG A 173     408.490 988.633 371.143  1.00  0.00           N  
-ATOM   1364  CA  ARG A 173     407.760 989.744 371.670  1.00  0.00           C  
-ATOM   1365  C   ARG A 173     408.170 990.179 373.096  1.00  0.00           C  
-ATOM   1366  O   ARG A 173     407.960 991.341 373.442  1.00  0.00           O  
-ATOM   1367  CB  ARG A 173     406.220 989.432 371.439  1.00  0.00           C  
-ATOM   1368  CG  ARG A 173     405.110 990.124 372.250  1.00  0.00           C  
-ATOM   1369  CD  ARG A 173     404.890 989.744 373.726  1.00  0.00           C  
-ATOM   1370  NE  ARG A 173     403.710 990.597 374.146  1.00  0.00           N  
-ATOM   1371  CZ  ARG A 173     403.200 990.729 375.383  1.00  0.00           C  
-ATOM   1372  NH1 ARG A 173     403.500 989.970 376.396  1.00  0.00           N  
-ATOM   1373  NH2 ARG A 173     402.290 991.629 375.617  1.00  0.00           N  
-ATOM   1374  N   ALA A 174     408.710 989.277 373.925  1.00  0.00           N  
-ATOM   1375  CA  ALA A 174     409.250 989.575 375.211  1.00  0.00           C  
-ATOM   1376  C   ALA A 174     410.680 990.051 375.102  1.00  0.00           C  
-ATOM   1377  O   ALA A 174     411.240 990.631 376.036  1.00  0.00           O  
-ATOM   1378  CB  ALA A 174     409.180 988.326 376.085  1.00  0.00           C  
-ATOM   1379  N   GLU A 175     411.390 989.894 373.941  1.00  0.00           N  
-ATOM   1380  CA  GLU A 175     412.830 990.251 373.832  1.00  0.00           C  
-ATOM   1381  C   GLU A 175     413.060 991.730 373.748  1.00  0.00           C  
-ATOM   1382  O   GLU A 175     412.170 992.452 373.318  1.00  0.00           O  
-ATOM   1383  CB  GLU A 175     413.490 989.354 372.739  1.00  0.00           C  
-ATOM   1384  CG  GLU A 175     414.990 989.678 372.533  1.00  0.00           C  
-ATOM   1385  CD  GLU A 175     415.970 989.453 373.680  1.00  0.00           C  
-ATOM   1386  OE1 GLU A 175     416.200 990.411 374.465  1.00  0.00           O  
-ATOM   1387  OE2 GLU A 175     416.620 988.382 373.853  1.00  0.00           O  
-ATOM   1388  N   GLN A 176     414.250 992.250 374.166  1.00  0.00           N  
-ATOM   1389  CA  GLN A 176     414.430 993.715 374.214  1.00  0.00           C  
-ATOM   1390  C   GLN A 176     415.040 994.204 372.911  1.00  0.00           C  
-ATOM   1391  O   GLN A 176     414.950 995.388 372.612  1.00  0.00           O  
-ATOM   1392  CB  GLN A 176     415.350 994.002 375.429  1.00  0.00           C  
-ATOM   1393  CG  GLN A 176     414.740 993.908 376.790  1.00  0.00           C  
-ATOM   1394  CD  GLN A 176     413.410 994.540 376.864  1.00  0.00           C  
-ATOM   1395  OE1 GLN A 176     413.130 995.714 376.582  1.00  0.00           O  
-ATOM   1396  NE2 GLN A 176     412.420 993.773 377.316  1.00  0.00           N  
-ATOM   1397  N   ALA A 177     415.700 993.238 372.211  1.00  0.00           N  
-ATOM   1398  CA  ALA A 177     416.390 993.503 370.985  1.00  0.00           C  
-ATOM   1399  C   ALA A 177     415.670 994.380 369.935  1.00  0.00           C  
-ATOM   1400  O   ALA A 177     414.470 994.356 369.745  1.00  0.00           O  
-ATOM   1401  CB  ALA A 177     416.840 992.174 370.299  1.00  0.00           C  
-ATOM   1402  N   SER A 178     416.450 995.106 369.163  1.00  0.00           N  
-ATOM   1403  CA  SER A 178     416.060 995.982 368.015  1.00  0.00           C  
-ATOM   1404  C   SER A 178     415.440 995.202 366.881  1.00  0.00           C  
-ATOM   1405  O   SER A 178     415.820 994.064 366.729  1.00  0.00           O  
-ATOM   1406  CB  SER A 178     417.180 996.967 367.426  1.00  0.00           C  
-ATOM   1407  OG  SER A 178     418.380 996.273 367.161  1.00  0.00           O  
-ATOM   1408  N   GLN A 179     414.580 995.834 366.031  1.00  0.00           N  
-ATOM   1409  CA  GLN A 179     413.970 995.104 364.934  1.00  0.00           C  
-ATOM   1410  C   GLN A 179     414.930 994.396 364.000  1.00  0.00           C  
-ATOM   1411  O   GLN A 179     414.630 993.261 363.558  1.00  0.00           O  
-ATOM   1412  CB  GLN A 179     412.870 996.064 364.194  1.00  0.00           C  
-ATOM   1413  CG  GLN A 179     411.500 995.997 364.837  1.00  0.00           C  
-ATOM   1414  CD  GLN A 179     410.830 994.619 365.232  1.00  0.00           C  
-ATOM   1415  OE1 GLN A 179     411.140 993.534 364.755  1.00  0.00           O  
-ATOM   1416  NE2 GLN A 179     409.680 994.811 365.922  1.00  0.00           N  
-ATOM   1417  N   GLU A 180     416.020 994.975 363.560  1.00  0.00           N  
-ATOM   1418  CA  GLU A 180     417.000 994.224 362.748  1.00  0.00           C  
-ATOM   1419  C   GLU A 180     417.530 992.889 363.338  1.00  0.00           C  
-ATOM   1420  O   GLU A 180     417.520 991.822 362.694  1.00  0.00           O  
-ATOM   1421  CB  GLU A 180     418.250 995.067 362.439  1.00  0.00           C  
-ATOM   1422  CG  GLU A 180     417.970 996.336 361.540  1.00  0.00           C  
-ATOM   1423  CD  GLU A 180     419.210 996.785 360.926  1.00  0.00           C  
-ATOM   1424  OE1 GLU A 180     419.960 997.653 361.517  1.00  0.00           O  
-ATOM   1425  OE2 GLU A 180     419.490 996.381 359.780  1.00  0.00           O  
-ATOM   1426  N   VAL A 181     417.930 992.919 364.600  1.00  0.00           N  
-ATOM   1427  CA  VAL A 181     418.350 991.741 365.378  1.00  0.00           C  
-ATOM   1428  C   VAL A 181     417.320 990.675 365.488  1.00  0.00           C  
-ATOM   1429  O   VAL A 181     417.560 989.474 365.244  1.00  0.00           O  
-ATOM   1430  CB  VAL A 181     418.910 992.099 366.767  1.00  0.00           C  
-ATOM   1431  CG1 VAL A 181     419.450 990.835 367.577  1.00  0.00           C  
-ATOM   1432  CG2 VAL A 181     420.030 993.115 366.617  1.00  0.00           C  
-ATOM   1433  N   LYS A 182     416.100 991.110 365.820  1.00  0.00           N  
-ATOM   1434  CA  LYS A 182     414.930 990.231 365.858  1.00  0.00           C  
-ATOM   1435  C   LYS A 182     414.520 989.672 364.413  1.00  0.00           C  
-ATOM   1436  O   LYS A 182     413.990 988.605 364.376  1.00  0.00           O  
-ATOM   1437  CB  LYS A 182     413.700 990.978 366.404  1.00  0.00           C  
-ATOM   1438  CG  LYS A 182     413.840 991.447 367.892  1.00  0.00           C  
-ATOM   1439  CD  LYS A 182     412.460 992.052 368.166  1.00  0.00           C  
-ATOM   1440  CE  LYS A 182     412.050 991.844 369.614  1.00  0.00           C  
-ATOM   1441  NZ  LYS A 182     410.700 992.268 369.812  1.00  0.00           N  
-ATOM   1442  N   ASN A 183     414.640 990.441 363.295  1.00  0.00           N  
-ATOM   1443  CA  ASN A 183     414.470 989.885 361.918  1.00  0.00           C  
-ATOM   1444  C   ASN A 183     415.360 988.695 361.667  1.00  0.00           C  
-ATOM   1445  O   ASN A 183     415.000 987.595 361.249  1.00  0.00           O  
-ATOM   1446  CB  ASN A 183     414.630 991.091 360.897  1.00  0.00           C  
-ATOM   1447  CG  ASN A 183     414.510 990.663 359.445  1.00  0.00           C  
-ATOM   1448  OD1 ASN A 183     415.510 990.846 358.806  1.00  0.00           O  
-ATOM   1449  ND2 ASN A 183     413.340 990.350 358.936  1.00  0.00           N  
-ATOM   1450  N   TRP A 184     416.640 988.933 362.016  1.00  0.00           N  
-ATOM   1451  CA  TRP A 184     417.730 987.934 361.906  1.00  0.00           C  
-ATOM   1452  C   TRP A 184     417.520 986.642 362.654  1.00  0.00           C  
-ATOM   1453  O   TRP A 184     417.620 985.497 362.138  1.00  0.00           O  
-ATOM   1454  CB  TRP A 184     419.130 988.601 362.170  1.00  0.00           C  
-ATOM   1455  CG  TRP A 184     420.330 987.598 362.180  1.00  0.00           C  
-ATOM   1456  CD1 TRP A 184     421.070 987.185 361.064  1.00  0.00           C  
-ATOM   1457  CD2 TRP A 184     420.700 986.829 363.301  1.00  0.00           C  
-ATOM   1458  NE1 TRP A 184     421.900 986.145 361.462  1.00  0.00           N  
-ATOM   1459  CE2 TRP A 184     421.680 985.904 362.858  1.00  0.00           C  
-ATOM   1460  CE3 TRP A 184     420.410 986.882 364.654  1.00  0.00           C  
-ATOM   1461  CZ2 TRP A 184     422.290 985.062 363.694  1.00  0.00           C  
-ATOM   1462  CZ3 TRP A 184     421.070 985.958 365.500  1.00  0.00           C  
-ATOM   1463  CH2 TRP A 184     421.930 985.032 364.988  1.00  0.00           C  
-ATOM   1464  N   MET A 185     417.140 986.777 363.882  1.00  0.00           N  
-ATOM   1465  CA  MET A 185     416.740 985.733 364.796  1.00  0.00           C  
-ATOM   1466  C   MET A 185     415.550 984.949 364.318  1.00  0.00           C  
-ATOM   1467  O   MET A 185     415.440 983.736 364.437  1.00  0.00           O  
-ATOM   1468  CB  MET A 185     416.270 986.361 366.117  1.00  0.00           C  
-ATOM   1469  CG  MET A 185     417.460 986.631 367.096  1.00  0.00           C  
-ATOM   1470  SD  MET A 185     417.150 986.815 368.890  1.00  0.00           S  
-ATOM   1471  CE  MET A 185     416.290 988.397 368.623  1.00  0.00           C  
-ATOM   1472  N   THR A 186     414.540 985.681 363.844  1.00  0.00           N  
-ATOM   1473  CA  THR A 186     413.340 985.091 363.294  1.00  0.00           C  
-ATOM   1474  C   THR A 186     413.680 984.177 362.110  1.00  0.00           C  
-ATOM   1475  O   THR A 186     413.250 982.961 362.070  1.00  0.00           O  
-ATOM   1476  CB  THR A 186     412.250 986.123 362.822  1.00  0.00           C  
-ATOM   1477  OG1 THR A 186     411.860 986.853 363.966  1.00  0.00           O  
-ATOM   1478  CG2 THR A 186     411.030 985.436 362.307  1.00  0.00           C  
-ATOM   1479  N   GLU A 187     414.460 984.647 361.159  1.00  0.00           N  
-ATOM   1480  CA  GLU A 187     414.920 983.938 359.950  1.00  0.00           C  
-ATOM   1481  C   GLU A 187     415.680 982.644 360.333  1.00  0.00           C  
-ATOM   1482  O   GLU A 187     415.540 981.602 359.647  1.00  0.00           O  
-ATOM   1483  CB  GLU A 187     415.750 984.948 359.115  1.00  0.00           C  
-ATOM   1484  CG  GLU A 187     414.820 986.038 358.453  1.00  0.00           C  
-ATOM   1485  CD  GLU A 187     414.550 985.942 356.920  1.00  0.00           C  
-ATOM   1486  OE1 GLU A 187     415.370 986.589 356.161  1.00  0.00           O  
-ATOM   1487  OE2 GLU A 187     413.540 985.374 356.534  1.00  0.00           O  
-ATOM   1488  N   THR A 188     416.640 982.737 361.271  1.00  0.00           N  
-ATOM   1489  CA  THR A 188     417.510 981.726 361.747  1.00  0.00           C  
-ATOM   1490  C   THR A 188     416.860 980.589 362.513  1.00  0.00           C  
-ATOM   1491  O   THR A 188     416.970 979.432 362.199  1.00  0.00           O  
-ATOM   1492  CB  THR A 188     418.470 982.412 362.758  1.00  0.00           C  
-ATOM   1493  OG1 THR A 188     419.150 983.378 362.106  1.00  0.00           O  
-ATOM   1494  CG2 THR A 188     419.520 981.451 363.383  1.00  0.00           C  
-ATOM   1495  N   LEU A 189     416.110 980.921 363.557  1.00  0.00           N  
-ATOM   1496  CA  LEU A 189     415.730 980.003 364.619  1.00  0.00           C  
-ATOM   1497  C   LEU A 189     414.530 979.199 364.281  1.00  0.00           C  
-ATOM   1498  O   LEU A 189     414.430 978.057 364.611  1.00  0.00           O  
-ATOM   1499  CB  LEU A 189     415.340 980.707 365.882  1.00  0.00           C  
-ATOM   1500  CG  LEU A 189     416.480 981.381 366.746  1.00  0.00           C  
-ATOM   1501  CD1 LEU A 189     416.000 982.293 367.851  1.00  0.00           C  
-ATOM   1502  CD2 LEU A 189     417.360 980.314 367.487  1.00  0.00           C  
-ATOM   1503  N   LEU A 190     413.500 979.742 363.618  1.00  0.00           N  
-ATOM   1504  CA  LEU A 190     412.150 979.193 363.770  1.00  0.00           C  
-ATOM   1505  C   LEU A 190     412.040 977.791 363.184  1.00  0.00           C  
-ATOM   1506  O   LEU A 190     411.530 976.866 363.793  1.00  0.00           O  
-ATOM   1507  CB  LEU A 190     411.150 980.201 363.049  1.00  0.00           C  
-ATOM   1508  CG  LEU A 190     409.610 979.790 363.063  1.00  0.00           C  
-ATOM   1509  CD1 LEU A 190     409.190 979.434 364.479  1.00  0.00           C  
-ATOM   1510  CD2 LEU A 190     408.730 980.939 362.446  1.00  0.00           C  
-ATOM   1511  N   VAL A 191     412.640 977.597 361.961  1.00  0.00           N  
-ATOM   1512  CA  VAL A 191     412.770 976.338 361.257  1.00  0.00           C  
-ATOM   1513  C   VAL A 191     413.930 975.498 361.734  1.00  0.00           C  
-ATOM   1514  O   VAL A 191     413.920 974.322 361.903  1.00  0.00           O  
-ATOM   1515  CB  VAL A 191     412.880 976.537 359.739  1.00  0.00           C  
-ATOM   1516  CG1 VAL A 191     413.030 975.181 359.047  1.00  0.00           C  
-ATOM   1517  CG2 VAL A 191     411.610 977.237 359.155  1.00  0.00           C  
-ATOM   1518  N   GLN A 192     414.920 976.198 362.281  1.00  0.00           N  
-ATOM   1519  CA  GLN A 192     416.040 975.537 362.876  1.00  0.00           C  
-ATOM   1520  C   GLN A 192     415.670 974.719 364.127  1.00  0.00           C  
-ATOM   1521  O   GLN A 192     416.150 973.643 364.324  1.00  0.00           O  
-ATOM   1522  CB  GLN A 192     417.010 976.584 363.225  1.00  0.00           C  
-ATOM   1523  CG  GLN A 192     418.440 976.119 363.727  1.00  0.00           C  
-ATOM   1524  CD  GLN A 192     419.110 975.329 362.652  1.00  0.00           C  
-ATOM   1525  OE1 GLN A 192     418.730 974.265 362.194  1.00  0.00           O  
-ATOM   1526  NE2 GLN A 192     420.250 975.836 362.273  1.00  0.00           N  
-ATOM   1527  N   ASN A 193     414.840 975.217 365.007  1.00  0.00           N  
-ATOM   1528  CA  ASN A 193     414.420 974.598 366.254  1.00  0.00           C  
-ATOM   1529  C   ASN A 193     413.130 973.768 366.028  1.00  0.00           C  
-ATOM   1530  O   ASN A 193     412.510 973.395 367.038  1.00  0.00           O  
-ATOM   1531  CB  ASN A 193     414.190 975.590 367.379  1.00  0.00           C  
-ATOM   1532  CG  ASN A 193     415.540 976.088 367.824  1.00  0.00           C  
-ATOM   1533  OD1 ASN A 193     416.610 975.974 367.263  1.00  0.00           O  
-ATOM   1534  ND2 ASN A 193     415.510 976.923 368.896  1.00  0.00           N  
-ATOM   1535  N   ALA A 194     412.690 973.624 364.755  1.00  0.00           N  
-ATOM   1536  CA  ALA A 194     411.510 972.822 364.367  1.00  0.00           C  
-ATOM   1537  C   ALA A 194     411.760 971.336 364.358  1.00  0.00           C  
-ATOM   1538  O   ALA A 194     412.850 970.963 363.891  1.00  0.00           O  
-ATOM   1539  CB  ALA A 194     411.020 973.280 363.003  1.00  0.00           C  
-ATOM   1540  N   ASN A 195     410.820 970.468 364.833  1.00  0.00           N  
-ATOM   1541  CA  ASN A 195     411.140 969.045 364.961  1.00  0.00           C  
-ATOM   1542  C   ASN A 195     411.290 968.351 363.583  1.00  0.00           C  
-ATOM   1543  O   ASN A 195     410.950 968.868 362.549  1.00  0.00           O  
-ATOM   1544  CB  ASN A 195     410.060 968.408 365.913  1.00  0.00           C  
-ATOM   1545  CG  ASN A 195     408.670 968.016 365.277  1.00  0.00           C  
-ATOM   1546  OD1 ASN A 195     408.420 968.126 364.091  1.00  0.00           O  
-ATOM   1547  ND2 ASN A 195     407.720 967.683 366.166  1.00  0.00           N  
-ATOM   1548  N   PRO A 196     411.810 967.076 363.566  1.00  0.00           N  
-ATOM   1549  CA  PRO A 196     412.060 966.484 362.328  1.00  0.00           C  
-ATOM   1550  C   PRO A 196     410.820 966.253 361.433  1.00  0.00           C  
-ATOM   1551  O   PRO A 196     410.920 966.491 360.183  1.00  0.00           O  
-ATOM   1552  CB  PRO A 196     412.790 965.182 362.642  1.00  0.00           C  
-ATOM   1553  CG  PRO A 196     413.540 965.521 364.059  1.00  0.00           C  
-ATOM   1554  CD  PRO A 196     412.520 966.510 364.698  1.00  0.00           C  
-ATOM   1555  N   ASP A 197     409.670 965.804 361.987  1.00  0.00           N  
-ATOM   1556  CA  ASP A 197     408.470 965.525 361.244  1.00  0.00           C  
-ATOM   1557  C   ASP A 197     407.960 966.770 360.542  1.00  0.00           C  
-ATOM   1558  O   ASP A 197     407.480 966.620 359.415  1.00  0.00           O  
-ATOM   1559  CB  ASP A 197     407.300 964.970 362.110  1.00  0.00           C  
-ATOM   1560  CG  ASP A 197     407.670 963.784 362.928  1.00  0.00           C  
-ATOM   1561  OD1 ASP A 197     407.100 962.694 362.793  1.00  0.00           O  
-ATOM   1562  OD2 ASP A 197     408.590 963.982 363.785  1.00  0.00           O  
-ATOM   1563  N   CYS A 198     407.970 967.962 361.208  1.00  0.00           N  
-ATOM   1564  CA  CYS A 198     407.700 969.232 360.705  1.00  0.00           C  
-ATOM   1565  C   CYS A 198     408.700 969.801 359.815  1.00  0.00           C  
-ATOM   1566  O   CYS A 198     408.310 970.400 358.836  1.00  0.00           O  
-ATOM   1567  CB  CYS A 198     407.490 970.246 361.869  1.00  0.00           C  
-ATOM   1568  SG  CYS A 198     406.620 971.765 361.433  1.00  0.00           S  
-ATOM   1569  N   LYS A 199     410.050 969.574 360.010  1.00  0.00           N  
-ATOM   1570  CA  LYS A 199     411.120 970.060 359.191  1.00  0.00           C  
-ATOM   1571  C   LYS A 199     411.110 969.766 357.717  1.00  0.00           C  
-ATOM   1572  O   LYS A 199     411.350 970.620 356.850  1.00  0.00           O  
-ATOM   1573  CB  LYS A 199     412.510 969.748 359.820  1.00  0.00           C  
-ATOM   1574  CG  LYS A 199     413.720 970.420 359.184  1.00  0.00           C  
-ATOM   1575  CD  LYS A 199     414.890 970.319 360.291  1.00  0.00           C  
-ATOM   1576  CE  LYS A 199     415.060 971.586 361.123  1.00  0.00           C  
-ATOM   1577  NZ  LYS A 199     416.010 971.288 362.239  1.00  0.00           N  
-ATOM   1578  N   THR A 200     410.860 968.550 357.370  1.00  0.00           N  
-ATOM   1579  CA  THR A 200     410.620 968.127 355.993  1.00  0.00           C  
-ATOM   1580  C   THR A 200     409.580 968.876 355.200  1.00  0.00           C  
-ATOM   1581  O   THR A 200     409.760 969.168 354.049  1.00  0.00           O  
-ATOM   1582  CB  THR A 200     410.180 966.587 355.803  1.00  0.00           C  
-ATOM   1583  OG1 THR A 200     409.140 966.199 356.742  1.00  0.00           O  
-ATOM   1584  CG2 THR A 200     411.440 965.768 356.003  1.00  0.00           C  
-ATOM   1585  N   ILE A 201     408.380 969.240 355.763  1.00  0.00           N  
-ATOM   1586  CA  ILE A 201     407.420 970.011 354.946  1.00  0.00           C  
-ATOM   1587  C   ILE A 201     407.820 971.480 354.865  1.00  0.00           C  
-ATOM   1588  O   ILE A 201     407.710 972.110 353.842  1.00  0.00           O  
-ATOM   1589  CB  ILE A 201     405.940 969.901 355.323  1.00  0.00           C  
-ATOM   1590  CG1 ILE A 201     404.980 970.672 354.415  1.00  0.00           C  
-ATOM   1591  CG2 ILE A 201     405.600 970.112 356.827  1.00  0.00           C  
-ATOM   1592  CD1 ILE A 201     403.530 970.108 354.331  1.00  0.00           C  
-ATOM   1593  N   LEU A 202     408.400 971.975 356.008  1.00  0.00           N  
-ATOM   1594  CA  LEU A 202     409.030 973.353 355.927  1.00  0.00           C  
-ATOM   1595  C   LEU A 202     410.110 973.402 354.839  1.00  0.00           C  
-ATOM   1596  O   LEU A 202     410.220 974.443 354.162  1.00  0.00           O  
-ATOM   1597  CB  LEU A 202     409.690 973.636 357.306  1.00  0.00           C  
-ATOM   1598  CG  LEU A 202     408.730 973.740 358.450  1.00  0.00           C  
-ATOM   1599  CD1 LEU A 202     409.430 973.852 359.846  1.00  0.00           C  
-ATOM   1600  CD2 LEU A 202     407.740 974.924 358.166  1.00  0.00           C  
-ATOM   1601  N   LYS A 203     410.940 972.345 354.664  1.00  0.00           N  
-ATOM   1602  CA  LYS A 203     411.990 972.315 353.702  1.00  0.00           C  
-ATOM   1603  C   LYS A 203     411.470 972.122 352.320  1.00  0.00           C  
-ATOM   1604  O   LYS A 203     412.240 972.280 351.360  1.00  0.00           O  
-ATOM   1605  CB  LYS A 203     413.010 971.158 354.010  1.00  0.00           C  
-ATOM   1606  CG  LYS A 203     414.020 971.380 355.181  1.00  0.00           C  
-ATOM   1607  CD  LYS A 203     415.020 972.455 355.084  1.00  0.00           C  
-ATOM   1608  CE  LYS A 203     416.070 972.483 356.243  1.00  0.00           C  
-ATOM   1609  NZ  LYS A 203     417.000 973.633 356.199  1.00  0.00           N  
-ATOM   1610  N   ALA A 204     410.200 971.811 352.120  1.00  0.00           N  
-ATOM   1611  CA  ALA A 204     409.730 971.910 350.777  1.00  0.00           C  
-ATOM   1612  C   ALA A 204     409.310 973.385 350.433  1.00  0.00           C  
-ATOM   1613  O   ALA A 204     409.430 973.848 349.279  1.00  0.00           O  
-ATOM   1614  CB  ALA A 204     408.480 971.033 350.686  1.00  0.00           C  
-ATOM   1615  N   LEU A 205     408.850 974.216 351.364  1.00  0.00           N  
-ATOM   1616  CA  LEU A 205     408.310 975.590 351.239  1.00  0.00           C  
-ATOM   1617  C   LEU A 205     409.440 976.524 350.989  1.00  0.00           C  
-ATOM   1618  O   LEU A 205     409.220 977.613 350.358  1.00  0.00           O  
-ATOM   1619  CB  LEU A 205     407.670 976.055 352.541  1.00  0.00           C  
-ATOM   1620  CG  LEU A 205     406.450 975.220 352.964  1.00  0.00           C  
-ATOM   1621  CD1 LEU A 205     405.990 975.628 354.415  1.00  0.00           C  
-ATOM   1622  CD2 LEU A 205     405.370 975.038 351.821  1.00  0.00           C  
-ATOM   1623  N   GLY A 206     410.680 976.125 351.338  1.00  0.00           N  
-ATOM   1624  CA  GLY A 206     411.960 976.816 351.003  1.00  0.00           C  
-ATOM   1625  C   GLY A 206     412.260 977.999 351.847  1.00  0.00           C  
-ATOM   1626  O   GLY A 206     411.460 978.384 352.689  1.00  0.00           O  
-ATOM   1627  N   PRO A 207     413.470 978.659 351.750  1.00  0.00           N  
-ATOM   1628  CA  PRO A 207     414.010 979.598 352.650  1.00  0.00           C  
-ATOM   1629  C   PRO A 207     413.220 980.924 352.555  1.00  0.00           C  
-ATOM   1630  O   PRO A 207     413.320 981.778 353.423  1.00  0.00           O  
-ATOM   1631  CB  PRO A 207     415.490 979.708 352.165  1.00  0.00           C  
-ATOM   1632  CG  PRO A 207     415.520 979.436 350.656  1.00  0.00           C  
-ATOM   1633  CD  PRO A 207     414.400 978.368 350.600  1.00  0.00           C  
-ATOM   1634  N   ALA A 208     412.460 981.272 351.452  1.00  0.00           N  
-ATOM   1635  CA  ALA A 208     411.790 982.549 351.362  1.00  0.00           C  
-ATOM   1636  C   ALA A 208     410.290 982.536 351.627  1.00  0.00           C  
-ATOM   1637  O   ALA A 208     409.560 983.573 351.509  1.00  0.00           O  
-ATOM   1638  CB  ALA A 208     412.080 983.109 349.943  1.00  0.00           C  
-ATOM   1639  N   ALA A 209     409.810 981.317 352.027  1.00  0.00           N  
-ATOM   1640  CA  ALA A 209     408.460 980.969 352.517  1.00  0.00           C  
-ATOM   1641  C   ALA A 209     407.740 982.088 353.237  1.00  0.00           C  
-ATOM   1642  O   ALA A 209     408.180 982.615 354.219  1.00  0.00           O  
-ATOM   1643  CB  ALA A 209     408.550 979.670 353.454  1.00  0.00           C  
-ATOM   1644  N   THR A 210     406.500 982.314 352.719  1.00  0.00           N  
-ATOM   1645  CA  THR A 210     405.510 983.100 353.416  1.00  0.00           C  
-ATOM   1646  C   THR A 210     405.160 982.532 354.854  1.00  0.00           C  
-ATOM   1647  O   THR A 210     405.270 981.309 355.035  1.00  0.00           O  
-ATOM   1648  CB  THR A 210     404.340 983.548 352.618  1.00  0.00           C  
-ATOM   1649  OG1 THR A 210     403.430 982.496 352.462  1.00  0.00           O  
-ATOM   1650  CG2 THR A 210     404.630 984.224 351.258  1.00  0.00           C  
-ATOM   1651  N   LEU A 211     404.850 983.353 355.830  1.00  0.00           N  
-ATOM   1652  CA  LEU A 211     404.300 983.024 357.075  1.00  0.00           C  
-ATOM   1653  C   LEU A 211     403.080 982.170 356.986  1.00  0.00           C  
-ATOM   1654  O   LEU A 211     402.950 981.212 357.775  1.00  0.00           O  
-ATOM   1655  CB  LEU A 211     404.180 984.273 358.005  1.00  0.00           C  
-ATOM   1656  CG  LEU A 211     403.420 984.137 359.341  1.00  0.00           C  
-ATOM   1657  CD1 LEU A 211     404.270 983.725 360.473  1.00  0.00           C  
-ATOM   1658  CD2 LEU A 211     402.660 985.420 359.696  1.00  0.00           C  
-ATOM   1659  N   GLU A 212     402.160 982.535 356.061  1.00  0.00           N  
-ATOM   1660  CA  GLU A 212     401.040 981.767 355.707  1.00  0.00           C  
-ATOM   1661  C   GLU A 212     401.420 980.334 355.242  1.00  0.00           C  
-ATOM   1662  O   GLU A 212     400.950 979.378 355.831  1.00  0.00           O  
-ATOM   1663  CB  GLU A 212     400.230 982.315 354.516  1.00  0.00           C  
-ATOM   1664  CG  GLU A 212     399.550 983.643 354.911  1.00  0.00           C  
-ATOM   1665  CD  GLU A 212     399.400 984.573 353.667  1.00  0.00           C  
-ATOM   1666  OE1 GLU A 212     399.120 984.017 352.579  1.00  0.00           O  
-ATOM   1667  OE2 GLU A 212     399.370 985.787 353.892  1.00  0.00           O  
-ATOM   1668  N   GLU A 213     402.410 980.158 354.362  1.00  0.00           N  
-ATOM   1669  CA  GLU A 213     402.910 978.839 353.967  1.00  0.00           C  
-ATOM   1670  C   GLU A 213     403.320 977.915 355.139  1.00  0.00           C  
-ATOM   1671  O   GLU A 213     402.860 976.804 355.407  1.00  0.00           O  
-ATOM   1672  CB  GLU A 213     404.020 978.783 352.917  1.00  0.00           C  
-ATOM   1673  CG  GLU A 213     403.440 979.319 351.549  1.00  0.00           C  
-ATOM   1674  CD  GLU A 213     404.500 979.904 350.654  1.00  0.00           C  
-ATOM   1675  OE1 GLU A 213     405.180 980.885 351.000  1.00  0.00           O  
-ATOM   1676  OE2 GLU A 213     404.710 979.394 349.519  1.00  0.00           O  
-ATOM   1677  N   MET A 214     404.180 978.509 356.061  1.00  0.00           N  
-ATOM   1678  CA  MET A 214     404.570 977.889 357.322  1.00  0.00           C  
-ATOM   1679  C   MET A 214     403.410 977.533 358.280  1.00  0.00           C  
-ATOM   1680  O   MET A 214     403.280 976.402 358.787  1.00  0.00           O  
-ATOM   1681  CB  MET A 214     405.620 978.681 358.015  1.00  0.00           C  
-ATOM   1682  CG  MET A 214     406.950 978.792 357.204  1.00  0.00           C  
-ATOM   1683  SD  MET A 214     408.390 979.573 358.070  1.00  0.00           S  
-ATOM   1684  CE  MET A 214     407.740 981.324 357.868  1.00  0.00           C  
-ATOM   1685  N   MET A 215     402.520 978.504 358.572  1.00  0.00           N  
-ATOM   1686  CA  MET A 215     401.370 978.355 359.421  1.00  0.00           C  
-ATOM   1687  C   MET A 215     400.420 977.338 358.992  1.00  0.00           C  
-ATOM   1688  O   MET A 215     399.870 976.739 359.854  1.00  0.00           O  
-ATOM   1689  CB  MET A 215     400.700 979.724 359.895  1.00  0.00           C  
-ATOM   1690  CG  MET A 215     401.690 980.531 360.838  1.00  0.00           C  
-ATOM   1691  SD  MET A 215     400.960 982.005 361.625  1.00  0.00           S  
-ATOM   1692  CE  MET A 215     399.600 981.248 362.656  1.00  0.00           C  
-ATOM   1693  N   THR A 216     400.170 977.145 357.671  1.00  0.00           N  
-ATOM   1694  CA  THR A 216     399.230 976.112 357.228  1.00  0.00           C  
-ATOM   1695  C   THR A 216     399.750 974.701 357.203  1.00  0.00           C  
-ATOM   1696  O   THR A 216     399.050 973.746 357.450  1.00  0.00           O  
-ATOM   1697  CB  THR A 216     398.600 976.573 355.876  1.00  0.00           C  
-ATOM   1698  OG1 THR A 216     397.690 975.553 355.476  1.00  0.00           O  
-ATOM   1699  CG2 THR A 216     399.650 976.591 354.845  1.00  0.00           C  
-ATOM   1700  N   ALA A 217     401.020 974.514 356.936  1.00  0.00           N  
-ATOM   1701  CA  ALA A 217     401.830 973.281 356.886  1.00  0.00           C  
-ATOM   1702  C   ALA A 217     401.810 972.459 358.141  1.00  0.00           C  
-ATOM   1703  O   ALA A 217     401.090 972.697 359.116  1.00  0.00           O  
-ATOM   1704  CB  ALA A 217     403.340 973.694 356.830  1.00  0.00           C  
-ATOM   1705  N   CYS A 218     402.530 971.356 358.233  1.00  0.00           N  
-ATOM   1706  CA  CYS A 218     402.720 970.489 359.417  1.00  0.00           C  
-ATOM   1707  C   CYS A 218     401.490 969.798 359.841  1.00  0.00           C  
-ATOM   1708  O   CYS A 218     401.060 969.731 361.028  1.00  0.00           O  
-ATOM   1709  CB  CYS A 218     403.430 971.224 360.573  1.00  0.00           C  
-ATOM   1710  SG  CYS A 218     405.100 972.067 360.141  1.00  0.00           S  
-ATOM   1711  N   GLN A 219     400.680 969.321 358.845  1.00  0.00           N  
-ATOM   1712  CA  GLN A 219     399.500 968.624 359.211  1.00  0.00           C  
-ATOM   1713  C   GLN A 219     399.750 967.220 359.717  1.00  0.00           C  
-ATOM   1714  O   GLN A 219     400.500 966.579 358.971  1.00  0.00           O  
-ATOM   1715  CB  GLN A 219     398.520 968.674 358.110  1.00  0.00           C  
-ATOM   1716  CG  GLN A 219     398.350 970.043 357.294  1.00  0.00           C  
-ATOM   1717  CD  GLN A 219     399.280 970.385 356.055  1.00  0.00           C  
-ATOM   1718  OE1 GLN A 219     400.120 969.549 355.647  1.00  0.00           O  
-ATOM   1719  NE2 GLN A 219     399.180 971.606 355.542  1.00  0.00           N  
-ATOM   1720  N   GLY A 220     399.200 966.757 360.929  1.00  0.00           N  
-ATOM   1721  CA  GLY A 220     399.660 965.458 361.432  1.00  0.00           C  
-ATOM   1722  C   GLY A 220     401.010 965.411 362.110  1.00  0.00           C  
-ATOM   1723  O   GLY A 220     401.540 964.342 362.214  1.00  0.00           O  
-ATOM   1724  N   VAL A 221     401.570 966.605 362.609  1.00  0.00           N  
-ATOM   1725  CA  VAL A 221     402.790 966.551 363.415  1.00  0.00           C  
-ATOM   1726  C   VAL A 221     402.340 966.761 364.841  1.00  0.00           C  
-ATOM   1727  O   VAL A 221     401.780 967.801 365.074  1.00  0.00           O  
-ATOM   1728  CB  VAL A 221     403.740 967.649 363.075  1.00  0.00           C  
-ATOM   1729  CG1 VAL A 221     404.900 967.800 364.109  1.00  0.00           C  
-ATOM   1730  CG2 VAL A 221     404.420 967.594 361.673  1.00  0.00           C  
-ATOM   1731  N   GLY A 222     402.500 965.860 365.852  1.00  0.00           N  
-ATOM   1732  CA  GLY A 222     401.840 965.966 367.126  1.00  0.00           C  
-ATOM   1733  C   GLY A 222     400.350 965.624 367.023  1.00  0.00           C  
-ATOM   1734  O   GLY A 222     399.850 965.401 365.941  1.00  0.00           O  
-ATOM   1735  N   GLY A 223     399.690 965.567 368.211  1.00  0.00           N  
-ATOM   1736  CA  GLY A 223     398.210 965.298 368.477  1.00  0.00           C  
-ATOM   1737  C   GLY A 223     397.360 966.484 368.256  1.00  0.00           C  
-ATOM   1738  O   GLY A 223     397.580 967.206 367.250  1.00  0.00           O  
-ATOM   1739  N   PRO A 224     396.370 966.801 369.031  1.00  0.00           N  
-ATOM   1740  CA  PRO A 224     395.680 968.105 368.954  1.00  0.00           C  
-ATOM   1741  C   PRO A 224     396.610 969.324 369.223  1.00  0.00           C  
-ATOM   1742  O   PRO A 224     397.500 969.281 370.042  1.00  0.00           O  
-ATOM   1743  CB  PRO A 224     394.700 968.027 370.190  1.00  0.00           C  
-ATOM   1744  CG  PRO A 224     394.470 966.539 370.299  1.00  0.00           C  
-ATOM   1745  CD  PRO A 224     395.800 965.921 370.090  1.00  0.00           C  
-ATOM   1746  N   GLY A 225     396.370 970.437 368.527  1.00  0.00           N  
-ATOM   1747  CA  GLY A 225     397.160 971.701 368.677  1.00  0.00           C  
-ATOM   1748  C   GLY A 225     396.610 972.769 369.638  1.00  0.00           C  
-ATOM   1749  O   GLY A 225     397.340 973.641 370.050  1.00  0.00           O  
-ATOM   1750  N   HIS A 226     395.360 972.696 370.022  1.00  0.00           N  
-ATOM   1751  CA  HIS A 226     394.720 973.742 370.836  1.00  0.00           C  
-ATOM   1752  C   HIS A 226     395.190 973.649 372.330  1.00  0.00           C  
-ATOM   1753  O   HIS A 226     394.930 972.665 373.056  1.00  0.00           O  
-ATOM   1754  CB  HIS A 226     393.190 973.602 370.720  1.00  0.00           C  
-ATOM   1755  CG  HIS A 226     392.460 974.719 371.368  1.00  0.00           C  
-ATOM   1756  ND1 HIS A 226     392.070 975.840 370.688  1.00  0.00           N  
-ATOM   1757  CD2 HIS A 226     391.830 974.613 372.474  1.00  0.00           C  
-ATOM   1758  CE1 HIS A 226     391.210 976.500 371.526  1.00  0.00           C  
-ATOM   1759  NE2 HIS A 226     391.050 975.798 372.630  1.00  0.00           N  
-ATOM   1760  N   LYS A 227     395.830 974.668 372.904  1.00  0.00           N  
-ATOM   1761  CA  LYS A 227     396.240 974.670 374.287  1.00  0.00           C  
-ATOM   1762  C   LYS A 227     395.670 975.804 375.070  1.00  0.00           C  
-ATOM   1763  O   LYS A 227     395.740 976.959 374.747  1.00  0.00           O  
-ATOM   1764  CB  LYS A 227     397.840 974.701 374.484  1.00  0.00           C  
-ATOM   1765  CG  LYS A 227     398.740 973.597 373.808  1.00  0.00           C  
-ATOM   1766  CD  LYS A 227     398.390 972.205 374.365  1.00  0.00           C  
-ATOM   1767  CE  LYS A 227     398.660 971.009 373.389  1.00  0.00           C  
-ATOM   1768  NZ  LYS A 227     400.090 970.809 373.051  1.00  0.00           N  
-ATOM   1769  N   ALA A 228     394.930 975.489 376.126  1.00  0.00           N  
-ATOM   1770  CA  ALA A 228     394.350 976.502 377.079  1.00  0.00           C  
-ATOM   1771  C   ALA A 228     395.430 977.397 377.828  1.00  0.00           C  
-ATOM   1772  O   ALA A 228     396.370 976.912 378.484  1.00  0.00           O  
-ATOM   1773  CB  ALA A 228     393.520 975.838 378.124  1.00  0.00           C  
-ATOM   1774  N   ARG A 229     395.440 978.697 377.605  1.00  0.00           N  
-ATOM   1775  CA  ARG A 229     396.590 979.508 377.817  1.00  0.00           C  
-ATOM   1776  C   ARG A 229     396.130 980.866 378.275  1.00  0.00           C  
-ATOM   1777  O   ARG A 229     395.340 981.500 377.534  1.00  0.00           O  
-ATOM   1778  CB  ARG A 229     397.470 979.579 376.479  1.00  0.00           C  
-ATOM   1779  CG  ARG A 229     398.390 978.328 376.411  1.00  0.00           C  
-ATOM   1780  CD  ARG A 229     399.310 978.319 375.261  1.00  0.00           C  
-ATOM   1781  NE  ARG A 229     400.360 977.243 375.487  1.00  0.00           N  
-ATOM   1782  CZ  ARG A 229     401.140 976.654 374.593  1.00  0.00           C  
-ATOM   1783  NH1 ARG A 229     401.000 976.844 373.323  1.00  0.00           N  
-ATOM   1784  NH2 ARG A 229     401.930 975.636 374.870  1.00  0.00           N  
-ATOM   1785  N   VAL A 230     396.700 981.400 379.359  1.00  0.00           N  
-ATOM   1786  CA  VAL A 230     396.500 982.748 379.909  1.00  0.00           C  
-ATOM   1787  C   VAL A 230     396.770 983.897 378.926  1.00  0.00           C  
-ATOM   1788  O   VAL A 230     397.810 983.857 378.154  1.00  0.00           O  
-ATOM   1789  CB  VAL A 230     397.160 983.005 381.248  1.00  0.00           C  
-ATOM   1790  CG1 VAL A 230     396.920 984.396 381.890  1.00  0.00           C  
-ATOM   1791  CG2 VAL A 230     396.710 981.925 382.240  1.00  0.00           C  
-ATOM   1792  N   LEU A 231     395.970 984.987 378.946  1.00  0.00           N  
-ATOM   1793  CA  LEU A 231     396.030 986.180 378.173  1.00  0.00           C  
-ATOM   1794  C   LEU A 231     396.750 987.310 378.942  1.00  0.00           C  
-ATOM   1795  O   LEU A 231     396.190 987.819 379.955  1.00  0.00           O  
-ATOM   1796  CB  LEU A 231     394.630 986.506 377.658  1.00  0.00           C  
-ATOM   1797  CG  LEU A 231     394.640 987.390 376.382  1.00  0.00           C  
-ATOM   1798  CD1 LEU A 231     395.280 986.797 375.103  1.00  0.00           C  
-ATOM   1799  CD2 LEU A 231     393.170 987.837 376.125  1.00  0.00           C  
-ATOM   1800  OXT LEU A 231     397.740 987.784 378.454  1.00  0.00           O  
-TER    1801      LEU A 231                                                      
+ATOM   1154  N   SER B 149     413.410 984.245 377.652  1.00  0.00           N  
+ATOM   1155  CA  SER B 149     414.500 983.660 376.887  1.00  0.00           C  
+ATOM   1156  C   SER B 149     414.130 983.179 375.501  1.00  0.00           C  
+ATOM   1157  O   SER B 149     413.230 982.348 375.383  1.00  0.00           O  
+ATOM   1158  CB  SER B 149     415.090 982.440 377.673  1.00  0.00           C  
+ATOM   1159  OG  SER B 149     416.230 981.789 377.079  1.00  0.00           O  
+ATOM   1160  N   ILE B 150     414.830 983.744 374.498  1.00  0.00           N  
+ATOM   1161  CA  ILE B 150     414.610 983.377 373.139  1.00  0.00           C  
+ATOM   1162  C   ILE B 150     415.470 982.190 372.816  1.00  0.00           C  
+ATOM   1163  O   ILE B 150     415.360 981.413 371.809  1.00  0.00           O  
+ATOM   1164  CB  ILE B 150     415.040 984.496 372.210  1.00  0.00           C  
+ATOM   1165  CG1 ILE B 150     414.510 984.435 370.795  1.00  0.00           C  
+ATOM   1166  CG2 ILE B 150     416.520 984.801 372.193  1.00  0.00           C  
+ATOM   1167  CD1 ILE B 150     412.970 984.161 370.718  1.00  0.00           C  
+ATOM   1168  N   LEU B 151     416.300 981.805 373.854  1.00  0.00           N  
+ATOM   1169  CA  LEU B 151     417.150 980.600 373.816  1.00  0.00           C  
+ATOM   1170  C   LEU B 151     416.470 979.425 374.553  1.00  0.00           C  
+ATOM   1171  O   LEU B 151     417.000 978.293 374.595  1.00  0.00           O  
+ATOM   1172  CB  LEU B 151     418.480 980.879 374.459  1.00  0.00           C  
+ATOM   1173  CG  LEU B 151     419.440 981.811 373.640  1.00  0.00           C  
+ATOM   1174  CD1 LEU B 151     420.590 982.339 374.621  1.00  0.00           C  
+ATOM   1175  CD2 LEU B 151     419.850 981.141 372.318  1.00  0.00           C  
+ATOM   1176  N   ASP B 152     415.280 979.526 375.151  1.00  0.00           N  
+ATOM   1177  CA  ASP B 152     414.560 978.311 375.737  1.00  0.00           C  
+ATOM   1178  C   ASP B 152     413.550 977.667 374.764  1.00  0.00           C  
+ATOM   1179  O   ASP B 152     413.320 976.452 374.760  1.00  0.00           O  
+ATOM   1180  CB  ASP B 152     413.660 978.646 376.987  1.00  0.00           C  
+ATOM   1181  CG  ASP B 152     414.490 979.191 378.110  1.00  0.00           C  
+ATOM   1182  OD1 ASP B 152     413.860 979.495 379.168  1.00  0.00           O  
+ATOM   1183  OD2 ASP B 152     415.720 979.309 378.081  1.00  0.00           O  
+ATOM   1184  N   ILE B 153     413.040 978.484 373.836  1.00  0.00           N  
+ATOM   1185  CA  ILE B 153     411.920 978.191 372.956  1.00  0.00           C  
+ATOM   1186  C   ILE B 153     412.320 977.315 371.743  1.00  0.00           C  
+ATOM   1187  O   ILE B 153     413.110 977.724 370.884  1.00  0.00           O  
+ATOM   1188  CB  ILE B 153     411.040 979.380 372.642  1.00  0.00           C  
+ATOM   1189  CG1 ILE B 153     409.910 979.052 371.637  1.00  0.00           C  
+ATOM   1190  CG2 ILE B 153     411.890 980.508 371.877  1.00  0.00           C  
+ATOM   1191  CD1 ILE B 153     408.860 978.184 372.271  1.00  0.00           C  
+ATOM   1192  N   ARG B 154     411.750 976.083 371.674  1.00  0.00           N  
+ATOM   1193  CA  ARG B 154     411.960 975.104 370.603  1.00  0.00           C  
+ATOM   1194  C   ARG B 154     410.650 974.246 370.452  1.00  0.00           C  
+ATOM   1195  O   ARG B 154     409.770 974.373 371.258  1.00  0.00           O  
+ATOM   1196  CB  ARG B 154     413.140 974.142 371.003  1.00  0.00           C  
+ATOM   1197  CG  ARG B 154     412.980 973.379 372.266  1.00  0.00           C  
+ATOM   1198  CD  ARG B 154     414.190 972.434 372.478  1.00  0.00           C  
+ATOM   1199  NE  ARG B 154     414.070 971.278 371.495  1.00  0.00           N  
+ATOM   1200  CZ  ARG B 154     414.850 970.229 371.503  1.00  0.00           C  
+ATOM   1201  NH1 ARG B 154     415.530 969.895 372.595  1.00  0.00           N  
+ATOM   1202  NH2 ARG B 154     415.060 969.503 370.397  1.00  0.00           N  
+ATOM   1203  N   GLN B 155     410.610 973.401 369.421  1.00  0.00           N  
+ATOM   1204  CA  GLN B 155     409.560 972.458 369.186  1.00  0.00           C  
+ATOM   1205  C   GLN B 155     410.000 970.996 369.679  1.00  0.00           C  
+ATOM   1206  O   GLN B 155     411.000 970.435 369.220  1.00  0.00           O  
+ATOM   1207  CB  GLN B 155     409.250 972.343 367.646  1.00  0.00           C  
+ATOM   1208  CG  GLN B 155     407.970 971.618 367.349  1.00  0.00           C  
+ATOM   1209  CD  GLN B 155     407.520 971.828 365.889  1.00  0.00           C  
+ATOM   1210  OE1 GLN B 155     408.280 972.202 365.018  1.00  0.00           O  
+ATOM   1211  NE2 GLN B 155     406.300 971.342 365.626  1.00  0.00           N  
+ATOM   1212  N   GLY B 156     409.310 970.469 370.725  1.00  0.00           N  
+ATOM   1213  CA  GLY B 156     409.340 969.063 371.043  1.00  0.00           C  
+ATOM   1214  C   GLY B 156     408.880 968.102 369.942  1.00  0.00           C  
+ATOM   1215  O   GLY B 156     408.480 968.448 368.856  1.00  0.00           O  
+ATOM   1216  N   PRO B 157     409.130 966.813 370.355  1.00  0.00           N  
+ATOM   1217  CA  PRO B 157     409.030 965.782 369.319  1.00  0.00           C  
+ATOM   1218  C   PRO B 157     407.570 965.513 368.850  1.00  0.00           C  
+ATOM   1219  O   PRO B 157     407.410 965.287 367.692  1.00  0.00           O  
+ATOM   1220  CB  PRO B 157     409.750 964.583 369.905  1.00  0.00           C  
+ATOM   1221  CG  PRO B 157     409.530 964.829 371.411  1.00  0.00           C  
+ATOM   1222  CD  PRO B 157     409.790 966.355 371.585  1.00  0.00           C  
+ATOM   1223  N   LYS B 158     406.610 965.631 369.798  1.00  0.00           N  
+ATOM   1224  CA  LYS B 158     405.260 965.543 369.480  1.00  0.00           C  
+ATOM   1225  C   LYS B 158     404.430 966.797 369.624  1.00  0.00           C  
+ATOM   1226  O   LYS B 158     403.220 966.683 369.701  1.00  0.00           O  
+ATOM   1227  CB  LYS B 158     404.570 964.416 370.285  1.00  0.00           C  
+ATOM   1228  CG  LYS B 158     405.360 963.123 370.524  1.00  0.00           C  
+ATOM   1229  CD  LYS B 158     405.630 962.361 369.209  1.00  0.00           C  
+ATOM   1230  CE  LYS B 158     404.480 961.817 368.425  1.00  0.00           C  
+ATOM   1231  NZ  LYS B 158     404.890 960.969 367.293  1.00  0.00           N  
+ATOM   1232  N   GLU B 159     405.150 968.003 369.561  1.00  0.00           N  
+ATOM   1233  CA  GLU B 159     404.420 969.223 369.634  1.00  0.00           C  
+ATOM   1234  C   GLU B 159     403.890 969.711 368.247  1.00  0.00           C  
+ATOM   1235  O   GLU B 159     404.640 969.884 367.319  1.00  0.00           O  
+ATOM   1236  CB  GLU B 159     405.310 970.348 370.309  1.00  0.00           C  
+ATOM   1237  CG  GLU B 159     405.400 970.239 371.820  1.00  0.00           C  
+ATOM   1238  CD  GLU B 159     406.610 970.908 372.361  1.00  0.00           C  
+ATOM   1239  OE1 GLU B 159     407.070 972.031 371.925  1.00  0.00           O  
+ATOM   1240  OE2 GLU B 159     407.190 970.376 373.305  1.00  0.00           O  
+ATOM   1241  N   PRO B 160     402.620 970.048 368.104  1.00  0.00           N  
+ATOM   1242  CA  PRO B 160     402.030 970.869 366.960  1.00  0.00           C  
+ATOM   1243  C   PRO B 160     402.690 972.140 366.657  1.00  0.00           C  
+ATOM   1244  O   PRO B 160     403.010 972.911 367.582  1.00  0.00           O  
+ATOM   1245  CB  PRO B 160     400.530 970.978 367.330  1.00  0.00           C  
+ATOM   1246  CG  PRO B 160     400.320 969.755 368.293  1.00  0.00           C  
+ATOM   1247  CD  PRO B 160     401.560 969.690 369.067  1.00  0.00           C  
+ATOM   1248  N   PHE B 161     402.810 972.385 365.355  1.00  0.00           N  
+ATOM   1249  CA  PHE B 161     403.290 973.690 364.910  1.00  0.00           C  
+ATOM   1250  C   PHE B 161     402.500 974.963 365.331  1.00  0.00           C  
+ATOM   1251  O   PHE B 161     403.220 975.960 365.694  1.00  0.00           O  
+ATOM   1252  CB  PHE B 161     403.450 973.591 363.420  1.00  0.00           C  
+ATOM   1253  CG  PHE B 161     404.400 974.640 362.914  1.00  0.00           C  
+ATOM   1254  CD1 PHE B 161     403.850 975.584 362.081  1.00  0.00           C  
+ATOM   1255  CD2 PHE B 161     405.830 974.671 363.069  1.00  0.00           C  
+ATOM   1256  CE1 PHE B 161     404.640 976.616 361.507  1.00  0.00           C  
+ATOM   1257  CE2 PHE B 161     406.590 975.642 362.526  1.00  0.00           C  
+ATOM   1258  CZ  PHE B 161     406.010 976.656 361.759  1.00  0.00           C  
+ATOM   1259  N   ARG B 162     401.130 974.899 365.439  1.00  0.00           N  
+ATOM   1260  CA  ARG B 162     400.200 975.908 365.948  1.00  0.00           C  
+ATOM   1261  C   ARG B 162     400.530 976.292 367.331  1.00  0.00           C  
+ATOM   1262  O   ARG B 162     400.470 977.453 367.730  1.00  0.00           O  
+ATOM   1263  CB  ARG B 162     398.780 975.463 365.836  1.00  0.00           C  
+ATOM   1264  CG  ARG B 162     397.650 976.108 366.759  1.00  0.00           C  
+ATOM   1265  CD  ARG B 162     396.220 975.730 366.352  1.00  0.00           C  
+ATOM   1266  NE  ARG B 162     395.380 976.736 367.121  1.00  0.00           N  
+ATOM   1267  CZ  ARG B 162     394.110 976.727 367.095  1.00  0.00           C  
+ATOM   1268  NH1 ARG B 162     393.400 976.010 366.304  1.00  0.00           N  
+ATOM   1269  NH2 ARG B 162     393.400 977.517 367.949  1.00  0.00           N  
+ATOM   1270  N   ASP B 163     400.950 975.299 368.191  1.00  0.00           N  
+ATOM   1271  CA  ASP B 163     401.400 975.560 369.508  1.00  0.00           C  
+ATOM   1272  C   ASP B 163     402.770 976.211 369.567  1.00  0.00           C  
+ATOM   1273  O   ASP B 163     403.010 977.207 370.273  1.00  0.00           O  
+ATOM   1274  CB  ASP B 163     401.140 974.179 370.198  1.00  0.00           C  
+ATOM   1275  CG  ASP B 163     401.860 973.914 371.496  1.00  0.00           C  
+ATOM   1276  OD1 ASP B 163     402.450 974.916 372.005  1.00  0.00           O  
+ATOM   1277  OD2 ASP B 163     401.720 972.840 372.167  1.00  0.00           O  
+ATOM   1278  N   TYR B 164     403.750 975.621 368.774  1.00  0.00           N  
+ATOM   1279  CA  TYR B 164     405.140 975.973 368.798  1.00  0.00           C  
+ATOM   1280  C   TYR B 164     405.320 977.414 368.242  1.00  0.00           C  
+ATOM   1281  O   TYR B 164     405.900 978.306 368.978  1.00  0.00           O  
+ATOM   1282  CB  TYR B 164     406.030 974.902 368.121  1.00  0.00           C  
+ATOM   1283  CG  TYR B 164     407.340 975.464 367.660  1.00  0.00           C  
+ATOM   1284  CD1 TYR B 164     408.190 975.897 368.632  1.00  0.00           C  
+ATOM   1285  CD2 TYR B 164     407.690 975.428 366.321  1.00  0.00           C  
+ATOM   1286  CE1 TYR B 164     409.440 976.343 368.241  1.00  0.00           C  
+ATOM   1287  CE2 TYR B 164     408.940 976.010 365.931  1.00  0.00           C  
+ATOM   1288  CZ  TYR B 164     409.830 976.461 366.896  1.00  0.00           C  
+ATOM   1289  OH  TYR B 164     411.080 976.949 366.474  1.00  0.00           O  
+ATOM   1290  N   VAL B 165     404.730 977.730 367.095  1.00  0.00           N  
+ATOM   1291  CA  VAL B 165     404.800 979.075 366.557  1.00  0.00           C  
+ATOM   1292  C   VAL B 165     404.060 980.182 367.374  1.00  0.00           C  
+ATOM   1293  O   VAL B 165     404.530 981.334 367.408  1.00  0.00           O  
+ATOM   1294  CB  VAL B 165     404.330 979.059 365.098  1.00  0.00           C  
+ATOM   1295  CG1 VAL B 165     402.750 978.999 365.032  1.00  0.00           C  
+ATOM   1296  CG2 VAL B 165     404.820 980.275 364.259  1.00  0.00           C  
+ATOM   1297  N   ASP B 166     402.940 979.923 368.109  1.00  0.00           N  
+ATOM   1298  CA  ASP B 166     402.260 980.947 368.971  1.00  0.00           C  
+ATOM   1299  C   ASP B 166     403.210 981.375 370.143  1.00  0.00           C  
+ATOM   1300  O   ASP B 166     403.530 982.543 370.317  1.00  0.00           O  
+ATOM   1301  CB  ASP B 166     400.950 980.324 369.417  1.00  0.00           C  
+ATOM   1302  CG  ASP B 166     399.970 981.205 370.162  1.00  0.00           C  
+ATOM   1303  OD1 ASP B 166     399.090 980.745 370.863  1.00  0.00           O  
+ATOM   1304  OD2 ASP B 166     400.000 982.417 369.806  1.00  0.00           O  
+ATOM   1305  N   ARG B 167     403.880 980.377 370.684  1.00  0.00           N  
+ATOM   1306  CA  ARG B 167     404.950 980.493 371.694  1.00  0.00           C  
+ATOM   1307  C   ARG B 167     406.100 981.295 371.248  1.00  0.00           C  
+ATOM   1308  O   ARG B 167     406.500 982.271 371.926  1.00  0.00           O  
+ATOM   1309  CB  ARG B 167     405.370 979.099 372.296  1.00  0.00           C  
+ATOM   1310  CG  ARG B 167     404.460 978.437 373.316  1.00  0.00           C  
+ATOM   1311  CD  ARG B 167     405.110 977.143 373.858  1.00  0.00           C  
+ATOM   1312  NE  ARG B 167     404.940 976.154 372.769  1.00  0.00           N  
+ATOM   1313  CZ  ARG B 167     405.660 975.066 372.450  1.00  0.00           C  
+ATOM   1314  NH1 ARG B 167     406.800 974.748 373.014  1.00  0.00           N  
+ATOM   1315  NH2 ARG B 167     405.140 974.122 371.655  1.00  0.00           N  
+ATOM   1316  N   PHE B 168     406.650 981.037 370.040  1.00  0.00           N  
+ATOM   1317  CA  PHE B 168     407.900 981.593 369.622  1.00  0.00           C  
+ATOM   1318  C   PHE B 168     407.780 983.119 369.395  1.00  0.00           C  
+ATOM   1319  O   PHE B 168     408.540 983.908 369.879  1.00  0.00           O  
+ATOM   1320  CB  PHE B 168     408.390 980.869 368.335  1.00  0.00           C  
+ATOM   1321  CG  PHE B 168     409.700 981.476 367.654  1.00  0.00           C  
+ATOM   1322  CD1 PHE B 168     411.000 981.221 368.145  1.00  0.00           C  
+ATOM   1323  CD2 PHE B 168     409.600 982.469 366.659  1.00  0.00           C  
+ATOM   1324  CE1 PHE B 168     412.150 981.937 367.647  1.00  0.00           C  
+ATOM   1325  CE2 PHE B 168     410.730 983.213 366.207  1.00  0.00           C  
+ATOM   1326  CZ  PHE B 168     411.930 982.940 366.697  1.00  0.00           C  
+ATOM   1327  N   TYR B 169     406.670 983.516 368.715  1.00  0.00           N  
+ATOM   1328  CA  TYR B 169     406.380 984.918 368.474  1.00  0.00           C  
+ATOM   1329  C   TYR B 169     406.230 985.664 369.788  1.00  0.00           C  
+ATOM   1330  O   TYR B 169     406.840 986.740 370.062  1.00  0.00           O  
+ATOM   1331  CB  TYR B 169     405.290 985.196 367.454  1.00  0.00           C  
+ATOM   1332  CG  TYR B 169     405.880 984.896 366.023  1.00  0.00           C  
+ATOM   1333  CD1 TYR B 169     405.660 983.690 365.419  1.00  0.00           C  
+ATOM   1334  CD2 TYR B 169     406.610 985.948 365.383  1.00  0.00           C  
+ATOM   1335  CE1 TYR B 169     406.200 983.464 364.127  1.00  0.00           C  
+ATOM   1336  CE2 TYR B 169     407.180 985.763 364.124  1.00  0.00           C  
+ATOM   1337  CZ  TYR B 169     406.960 984.480 363.515  1.00  0.00           C  
+ATOM   1338  OH  TYR B 169     407.460 984.137 362.251  1.00  0.00           O  
+ATOM   1339  N   LYS B 170     405.430 985.096 370.686  1.00  0.00           N  
+ATOM   1340  CA  LYS B 170     405.240 985.680 372.042  1.00  0.00           C  
+ATOM   1341  C   LYS B 170     406.550 985.814 372.780  1.00  0.00           C  
+ATOM   1342  O   LYS B 170     406.800 986.764 373.555  1.00  0.00           O  
+ATOM   1343  CB  LYS B 170     404.330 984.707 372.842  1.00  0.00           C  
+ATOM   1344  CG  LYS B 170     403.960 985.059 374.295  1.00  0.00           C  
+ATOM   1345  CD  LYS B 170     402.940 986.160 374.426  1.00  0.00           C  
+ATOM   1346  CE  LYS B 170     402.460 986.489 375.825  1.00  0.00           C  
+ATOM   1347  NZ  LYS B 170     401.610 985.375 376.361  1.00  0.00           N  
+ATOM   1348  N   THR B 171     407.420 984.829 372.679  1.00  0.00           N  
+ATOM   1349  CA  THR B 171     408.750 984.729 373.232  1.00  0.00           C  
+ATOM   1350  C   THR B 171     409.700 985.819 372.782  1.00  0.00           C  
+ATOM   1351  O   THR B 171     410.250 986.570 373.631  1.00  0.00           O  
+ATOM   1352  CB  THR B 171     409.450 983.356 373.097  1.00  0.00           C  
+ATOM   1353  OG1 THR B 171     408.680 982.215 373.440  1.00  0.00           O  
+ATOM   1354  CG2 THR B 171     410.750 983.387 373.902  1.00  0.00           C  
+ATOM   1355  N   LEU B 172     409.740 986.033 371.430  1.00  0.00           N  
+ATOM   1356  CA  LEU B 172     410.440 987.093 370.746  1.00  0.00           C  
+ATOM   1357  C   LEU B 172     409.870 988.504 371.075  1.00  0.00           C  
+ATOM   1358  O   LEU B 172     410.530 989.524 371.345  1.00  0.00           O  
+ATOM   1359  CB  LEU B 172     410.380 986.795 369.270  1.00  0.00           C  
+ATOM   1360  CG  LEU B 172     411.320 987.616 368.396  1.00  0.00           C  
+ATOM   1361  CD1 LEU B 172     412.770 987.026 368.322  1.00  0.00           C  
+ATOM   1362  CD2 LEU B 172     410.860 987.666 366.886  1.00  0.00           C  
+ATOM   1363  N   ARG B 173     408.490 988.633 371.143  1.00  0.00           N  
+ATOM   1364  CA  ARG B 173     407.760 989.744 371.670  1.00  0.00           C  
+ATOM   1365  C   ARG B 173     408.170 990.179 373.096  1.00  0.00           C  
+ATOM   1366  O   ARG B 173     407.960 991.341 373.442  1.00  0.00           O  
+ATOM   1367  CB  ARG B 173     406.220 989.432 371.439  1.00  0.00           C  
+ATOM   1368  CG  ARG B 173     405.110 990.124 372.250  1.00  0.00           C  
+ATOM   1369  CD  ARG B 173     404.890 989.744 373.726  1.00  0.00           C  
+ATOM   1370  NE  ARG B 173     403.710 990.597 374.146  1.00  0.00           N  
+ATOM   1371  CZ  ARG B 173     403.200 990.729 375.383  1.00  0.00           C  
+ATOM   1372  NH1 ARG B 173     403.500 989.970 376.396  1.00  0.00           N  
+ATOM   1373  NH2 ARG B 173     402.290 991.629 375.617  1.00  0.00           N  
+ATOM   1374  N   ALA B 174     408.710 989.277 373.925  1.00  0.00           N  
+ATOM   1375  CA  ALA B 174     409.250 989.575 375.211  1.00  0.00           C  
+ATOM   1376  C   ALA B 174     410.680 990.051 375.102  1.00  0.00           C  
+ATOM   1377  O   ALA B 174     411.240 990.631 376.036  1.00  0.00           O  
+ATOM   1378  CB  ALA B 174     409.180 988.326 376.085  1.00  0.00           C  
+ATOM   1379  N   GLU B 175     411.390 989.894 373.941  1.00  0.00           N  
+ATOM   1380  CA  GLU B 175     412.830 990.251 373.832  1.00  0.00           C  
+ATOM   1381  C   GLU B 175     413.060 991.730 373.748  1.00  0.00           C  
+ATOM   1382  O   GLU B 175     412.170 992.452 373.318  1.00  0.00           O  
+ATOM   1383  CB  GLU B 175     413.490 989.354 372.739  1.00  0.00           C  
+ATOM   1384  CG  GLU B 175     414.990 989.678 372.533  1.00  0.00           C  
+ATOM   1385  CD  GLU B 175     415.970 989.453 373.680  1.00  0.00           C  
+ATOM   1386  OE1 GLU B 175     416.200 990.411 374.465  1.00  0.00           O  
+ATOM   1387  OE2 GLU B 175     416.620 988.382 373.853  1.00  0.00           O  
+ATOM   1388  N   GLN B 176     414.250 992.250 374.166  1.00  0.00           N  
+ATOM   1389  CA  GLN B 176     414.430 993.715 374.214  1.00  0.00           C  
+ATOM   1390  C   GLN B 176     415.040 994.204 372.911  1.00  0.00           C  
+ATOM   1391  O   GLN B 176     414.950 995.388 372.612  1.00  0.00           O  
+ATOM   1392  CB  GLN B 176     415.350 994.002 375.429  1.00  0.00           C  
+ATOM   1393  CG  GLN B 176     414.740 993.908 376.790  1.00  0.00           C  
+ATOM   1394  CD  GLN B 176     413.410 994.540 376.864  1.00  0.00           C  
+ATOM   1395  OE1 GLN B 176     413.130 995.714 376.582  1.00  0.00           O  
+ATOM   1396  NE2 GLN B 176     412.420 993.773 377.316  1.00  0.00           N  
+ATOM   1397  N   ALA B 177     415.700 993.238 372.211  1.00  0.00           N  
+ATOM   1398  CA  ALA B 177     416.390 993.503 370.985  1.00  0.00           C  
+ATOM   1399  C   ALA B 177     415.670 994.380 369.935  1.00  0.00           C  
+ATOM   1400  O   ALA B 177     414.470 994.356 369.745  1.00  0.00           O  
+ATOM   1401  CB  ALA B 177     416.840 992.174 370.299  1.00  0.00           C  
+ATOM   1402  N   SER B 178     416.450 995.106 369.163  1.00  0.00           N  
+ATOM   1403  CA  SER B 178     416.060 995.982 368.015  1.00  0.00           C  
+ATOM   1404  C   SER B 178     415.440 995.202 366.881  1.00  0.00           C  
+ATOM   1405  O   SER B 178     415.820 994.064 366.729  1.00  0.00           O  
+ATOM   1406  CB  SER B 178     417.180 996.967 367.426  1.00  0.00           C  
+ATOM   1407  OG  SER B 178     418.380 996.273 367.161  1.00  0.00           O  
+ATOM   1408  N   GLN B 179     414.580 995.834 366.031  1.00  0.00           N  
+ATOM   1409  CA  GLN B 179     413.970 995.104 364.934  1.00  0.00           C  
+ATOM   1410  C   GLN B 179     414.930 994.396 364.000  1.00  0.00           C  
+ATOM   1411  O   GLN B 179     414.630 993.261 363.558  1.00  0.00           O  
+ATOM   1412  CB  GLN B 179     412.870 996.064 364.194  1.00  0.00           C  
+ATOM   1413  CG  GLN B 179     411.500 995.997 364.837  1.00  0.00           C  
+ATOM   1414  CD  GLN B 179     410.830 994.619 365.232  1.00  0.00           C  
+ATOM   1415  OE1 GLN B 179     411.140 993.534 364.755  1.00  0.00           O  
+ATOM   1416  NE2 GLN B 179     409.680 994.811 365.922  1.00  0.00           N  
+ATOM   1417  N   GLU B 180     416.020 994.975 363.560  1.00  0.00           N  
+ATOM   1418  CA  GLU B 180     417.000 994.224 362.748  1.00  0.00           C  
+ATOM   1419  C   GLU B 180     417.530 992.889 363.338  1.00  0.00           C  
+ATOM   1420  O   GLU B 180     417.520 991.822 362.694  1.00  0.00           O  
+ATOM   1421  CB  GLU B 180     418.250 995.067 362.439  1.00  0.00           C  
+ATOM   1422  CG  GLU B 180     417.970 996.336 361.540  1.00  0.00           C  
+ATOM   1423  CD  GLU B 180     419.210 996.785 360.926  1.00  0.00           C  
+ATOM   1424  OE1 GLU B 180     419.960 997.653 361.517  1.00  0.00           O  
+ATOM   1425  OE2 GLU B 180     419.490 996.381 359.780  1.00  0.00           O  
+ATOM   1426  N   VAL B 181     417.930 992.919 364.600  1.00  0.00           N  
+ATOM   1427  CA  VAL B 181     418.350 991.741 365.378  1.00  0.00           C  
+ATOM   1428  C   VAL B 181     417.320 990.675 365.488  1.00  0.00           C  
+ATOM   1429  O   VAL B 181     417.560 989.474 365.244  1.00  0.00           O  
+ATOM   1430  CB  VAL B 181     418.910 992.099 366.767  1.00  0.00           C  
+ATOM   1431  CG1 VAL B 181     419.450 990.835 367.577  1.00  0.00           C  
+ATOM   1432  CG2 VAL B 181     420.030 993.115 366.617  1.00  0.00           C  
+ATOM   1433  N   LYS B 182     416.100 991.110 365.820  1.00  0.00           N  
+ATOM   1434  CA  LYS B 182     414.930 990.231 365.858  1.00  0.00           C  
+ATOM   1435  C   LYS B 182     414.520 989.672 364.413  1.00  0.00           C  
+ATOM   1436  O   LYS B 182     413.990 988.605 364.376  1.00  0.00           O  
+ATOM   1437  CB  LYS B 182     413.700 990.978 366.404  1.00  0.00           C  
+ATOM   1438  CG  LYS B 182     413.840 991.447 367.892  1.00  0.00           C  
+ATOM   1439  CD  LYS B 182     412.460 992.052 368.166  1.00  0.00           C  
+ATOM   1440  CE  LYS B 182     412.050 991.844 369.614  1.00  0.00           C  
+ATOM   1441  NZ  LYS B 182     410.700 992.268 369.812  1.00  0.00           N  
+ATOM   1442  N   ASN B 183     414.640 990.441 363.295  1.00  0.00           N  
+ATOM   1443  CA  ASN B 183     414.470 989.885 361.918  1.00  0.00           C  
+ATOM   1444  C   ASN B 183     415.360 988.695 361.667  1.00  0.00           C  
+ATOM   1445  O   ASN B 183     415.000 987.595 361.249  1.00  0.00           O  
+ATOM   1446  CB  ASN B 183     414.630 991.091 360.897  1.00  0.00           C  
+ATOM   1447  CG  ASN B 183     414.510 990.663 359.445  1.00  0.00           C  
+ATOM   1448  OD1 ASN B 183     415.510 990.846 358.806  1.00  0.00           O  
+ATOM   1449  ND2 ASN B 183     413.340 990.350 358.936  1.00  0.00           N  
+ATOM   1450  N   TRP B 184     416.640 988.933 362.016  1.00  0.00           N  
+ATOM   1451  CA  TRP B 184     417.730 987.934 361.906  1.00  0.00           C  
+ATOM   1452  C   TRP B 184     417.520 986.642 362.654  1.00  0.00           C  
+ATOM   1453  O   TRP B 184     417.620 985.497 362.138  1.00  0.00           O  
+ATOM   1454  CB  TRP B 184     419.130 988.601 362.170  1.00  0.00           C  
+ATOM   1455  CG  TRP B 184     420.330 987.598 362.180  1.00  0.00           C  
+ATOM   1456  CD1 TRP B 184     421.070 987.185 361.064  1.00  0.00           C  
+ATOM   1457  CD2 TRP B 184     420.700 986.829 363.301  1.00  0.00           C  
+ATOM   1458  NE1 TRP B 184     421.900 986.145 361.462  1.00  0.00           N  
+ATOM   1459  CE2 TRP B 184     421.680 985.904 362.858  1.00  0.00           C  
+ATOM   1460  CE3 TRP B 184     420.410 986.882 364.654  1.00  0.00           C  
+ATOM   1461  CZ2 TRP B 184     422.290 985.062 363.694  1.00  0.00           C  
+ATOM   1462  CZ3 TRP B 184     421.070 985.958 365.500  1.00  0.00           C  
+ATOM   1463  CH2 TRP B 184     421.930 985.032 364.988  1.00  0.00           C  
+ATOM   1464  N   MET B 185     417.140 986.777 363.882  1.00  0.00           N  
+ATOM   1465  CA  MET B 185     416.740 985.733 364.796  1.00  0.00           C  
+ATOM   1466  C   MET B 185     415.550 984.949 364.318  1.00  0.00           C  
+ATOM   1467  O   MET B 185     415.440 983.736 364.437  1.00  0.00           O  
+ATOM   1468  CB  MET B 185     416.270 986.361 366.117  1.00  0.00           C  
+ATOM   1469  CG  MET B 185     417.460 986.631 367.096  1.00  0.00           C  
+ATOM   1470  SD  MET B 185     417.150 986.815 368.890  1.00  0.00           S  
+ATOM   1471  CE  MET B 185     416.290 988.397 368.623  1.00  0.00           C  
+ATOM   1472  N   THR B 186     414.540 985.681 363.844  1.00  0.00           N  
+ATOM   1473  CA  THR B 186     413.340 985.091 363.294  1.00  0.00           C  
+ATOM   1474  C   THR B 186     413.680 984.177 362.110  1.00  0.00           C  
+ATOM   1475  O   THR B 186     413.250 982.961 362.070  1.00  0.00           O  
+ATOM   1476  CB  THR B 186     412.250 986.123 362.822  1.00  0.00           C  
+ATOM   1477  OG1 THR B 186     411.860 986.853 363.966  1.00  0.00           O  
+ATOM   1478  CG2 THR B 186     411.030 985.436 362.307  1.00  0.00           C  
+ATOM   1479  N   GLU B 187     414.460 984.647 361.159  1.00  0.00           N  
+ATOM   1480  CA  GLU B 187     414.920 983.938 359.950  1.00  0.00           C  
+ATOM   1481  C   GLU B 187     415.680 982.644 360.333  1.00  0.00           C  
+ATOM   1482  O   GLU B 187     415.540 981.602 359.647  1.00  0.00           O  
+ATOM   1483  CB  GLU B 187     415.750 984.948 359.115  1.00  0.00           C  
+ATOM   1484  CG  GLU B 187     414.820 986.038 358.453  1.00  0.00           C  
+ATOM   1485  CD  GLU B 187     414.550 985.942 356.920  1.00  0.00           C  
+ATOM   1486  OE1 GLU B 187     415.370 986.589 356.161  1.00  0.00           O  
+ATOM   1487  OE2 GLU B 187     413.540 985.374 356.534  1.00  0.00           O  
+ATOM   1488  N   THR B 188     416.640 982.737 361.271  1.00  0.00           N  
+ATOM   1489  CA  THR B 188     417.510 981.726 361.747  1.00  0.00           C  
+ATOM   1490  C   THR B 188     416.860 980.589 362.513  1.00  0.00           C  
+ATOM   1491  O   THR B 188     416.970 979.432 362.199  1.00  0.00           O  
+ATOM   1492  CB  THR B 188     418.470 982.412 362.758  1.00  0.00           C  
+ATOM   1493  OG1 THR B 188     419.150 983.378 362.106  1.00  0.00           O  
+ATOM   1494  CG2 THR B 188     419.520 981.451 363.383  1.00  0.00           C  
+ATOM   1495  N   LEU B 189     416.110 980.921 363.557  1.00  0.00           N  
+ATOM   1496  CA  LEU B 189     415.730 980.003 364.619  1.00  0.00           C  
+ATOM   1497  C   LEU B 189     414.530 979.199 364.281  1.00  0.00           C  
+ATOM   1498  O   LEU B 189     414.430 978.057 364.611  1.00  0.00           O  
+ATOM   1499  CB  LEU B 189     415.340 980.707 365.882  1.00  0.00           C  
+ATOM   1500  CG  LEU B 189     416.480 981.381 366.746  1.00  0.00           C  
+ATOM   1501  CD1 LEU B 189     416.000 982.293 367.851  1.00  0.00           C  
+ATOM   1502  CD2 LEU B 189     417.360 980.314 367.487  1.00  0.00           C  
+ATOM   1503  N   LEU B 190     413.500 979.742 363.618  1.00  0.00           N  
+ATOM   1504  CA  LEU B 190     412.150 979.193 363.770  1.00  0.00           C  
+ATOM   1505  C   LEU B 190     412.040 977.791 363.184  1.00  0.00           C  
+ATOM   1506  O   LEU B 190     411.530 976.866 363.793  1.00  0.00           O  
+ATOM   1507  CB  LEU B 190     411.150 980.201 363.049  1.00  0.00           C  
+ATOM   1508  CG  LEU B 190     409.610 979.790 363.063  1.00  0.00           C  
+ATOM   1509  CD1 LEU B 190     409.190 979.434 364.479  1.00  0.00           C  
+ATOM   1510  CD2 LEU B 190     408.730 980.939 362.446  1.00  0.00           C  
+ATOM   1511  N   VAL B 191     412.640 977.597 361.961  1.00  0.00           N  
+ATOM   1512  CA  VAL B 191     412.770 976.338 361.257  1.00  0.00           C  
+ATOM   1513  C   VAL B 191     413.930 975.498 361.734  1.00  0.00           C  
+ATOM   1514  O   VAL B 191     413.920 974.322 361.903  1.00  0.00           O  
+ATOM   1515  CB  VAL B 191     412.880 976.537 359.739  1.00  0.00           C  
+ATOM   1516  CG1 VAL B 191     413.030 975.181 359.047  1.00  0.00           C  
+ATOM   1517  CG2 VAL B 191     411.610 977.237 359.155  1.00  0.00           C  
+ATOM   1518  N   GLN B 192     414.920 976.198 362.281  1.00  0.00           N  
+ATOM   1519  CA  GLN B 192     416.040 975.537 362.876  1.00  0.00           C  
+ATOM   1520  C   GLN B 192     415.670 974.719 364.127  1.00  0.00           C  
+ATOM   1521  O   GLN B 192     416.150 973.643 364.324  1.00  0.00           O  
+ATOM   1522  CB  GLN B 192     417.010 976.584 363.225  1.00  0.00           C  
+ATOM   1523  CG  GLN B 192     418.440 976.119 363.727  1.00  0.00           C  
+ATOM   1524  CD  GLN B 192     419.110 975.329 362.652  1.00  0.00           C  
+ATOM   1525  OE1 GLN B 192     418.730 974.265 362.194  1.00  0.00           O  
+ATOM   1526  NE2 GLN B 192     420.250 975.836 362.273  1.00  0.00           N  
+ATOM   1527  N   ASN B 193     414.840 975.217 365.007  1.00  0.00           N  
+ATOM   1528  CA  ASN B 193     414.420 974.598 366.254  1.00  0.00           C  
+ATOM   1529  C   ASN B 193     413.130 973.768 366.028  1.00  0.00           C  
+ATOM   1530  O   ASN B 193     412.510 973.395 367.038  1.00  0.00           O  
+ATOM   1531  CB  ASN B 193     414.190 975.590 367.379  1.00  0.00           C  
+ATOM   1532  CG  ASN B 193     415.540 976.088 367.824  1.00  0.00           C  
+ATOM   1533  OD1 ASN B 193     416.610 975.974 367.263  1.00  0.00           O  
+ATOM   1534  ND2 ASN B 193     415.510 976.923 368.896  1.00  0.00           N  
+ATOM   1535  N   ALA B 194     412.690 973.624 364.755  1.00  0.00           N  
+ATOM   1536  CA  ALA B 194     411.510 972.822 364.367  1.00  0.00           C  
+ATOM   1537  C   ALA B 194     411.760 971.336 364.358  1.00  0.00           C  
+ATOM   1538  O   ALA B 194     412.850 970.963 363.891  1.00  0.00           O  
+ATOM   1539  CB  ALA B 194     411.020 973.280 363.003  1.00  0.00           C  
+ATOM   1540  N   ASN B 195     410.820 970.468 364.833  1.00  0.00           N  
+ATOM   1541  CA  ASN B 195     411.140 969.045 364.961  1.00  0.00           C  
+ATOM   1542  C   ASN B 195     411.290 968.351 363.583  1.00  0.00           C  
+ATOM   1543  O   ASN B 195     410.950 968.868 362.549  1.00  0.00           O  
+ATOM   1544  CB  ASN B 195     410.060 968.408 365.913  1.00  0.00           C  
+ATOM   1545  CG  ASN B 195     408.670 968.016 365.277  1.00  0.00           C  
+ATOM   1546  OD1 ASN B 195     408.420 968.126 364.091  1.00  0.00           O  
+ATOM   1547  ND2 ASN B 195     407.720 967.683 366.166  1.00  0.00           N  
+ATOM   1548  N   PRO B 196     411.810 967.076 363.566  1.00  0.00           N  
+ATOM   1549  CA  PRO B 196     412.060 966.484 362.328  1.00  0.00           C  
+ATOM   1550  C   PRO B 196     410.820 966.253 361.433  1.00  0.00           C  
+ATOM   1551  O   PRO B 196     410.920 966.491 360.183  1.00  0.00           O  
+ATOM   1552  CB  PRO B 196     412.790 965.182 362.642  1.00  0.00           C  
+ATOM   1553  CG  PRO B 196     413.540 965.521 364.059  1.00  0.00           C  
+ATOM   1554  CD  PRO B 196     412.520 966.510 364.698  1.00  0.00           C  
+ATOM   1555  N   ASP B 197     409.670 965.804 361.987  1.00  0.00           N  
+ATOM   1556  CA  ASP B 197     408.470 965.525 361.244  1.00  0.00           C  
+ATOM   1557  C   ASP B 197     407.960 966.770 360.542  1.00  0.00           C  
+ATOM   1558  O   ASP B 197     407.480 966.620 359.415  1.00  0.00           O  
+ATOM   1559  CB  ASP B 197     407.300 964.970 362.110  1.00  0.00           C  
+ATOM   1560  CG  ASP B 197     407.670 963.784 362.928  1.00  0.00           C  
+ATOM   1561  OD1 ASP B 197     407.100 962.694 362.793  1.00  0.00           O  
+ATOM   1562  OD2 ASP B 197     408.590 963.982 363.785  1.00  0.00           O  
+ATOM   1563  N   CYS B 198     407.970 967.962 361.208  1.00  0.00           N  
+ATOM   1564  CA  CYS B 198     407.700 969.232 360.705  1.00  0.00           C  
+ATOM   1565  C   CYS B 198     408.700 969.801 359.815  1.00  0.00           C  
+ATOM   1566  O   CYS B 198     408.310 970.400 358.836  1.00  0.00           O  
+ATOM   1567  CB  CYS B 198     407.490 970.246 361.869  1.00  0.00           C  
+ATOM   1568  SG  CYS B 198     406.620 971.765 361.433  1.00  0.00           S  
+ATOM   1569  N   LYS B 199     410.050 969.574 360.010  1.00  0.00           N  
+ATOM   1570  CA  LYS B 199     411.120 970.060 359.191  1.00  0.00           C  
+ATOM   1571  C   LYS B 199     411.110 969.766 357.717  1.00  0.00           C  
+ATOM   1572  O   LYS B 199     411.350 970.620 356.850  1.00  0.00           O  
+ATOM   1573  CB  LYS B 199     412.510 969.748 359.820  1.00  0.00           C  
+ATOM   1574  CG  LYS B 199     413.720 970.420 359.184  1.00  0.00           C  
+ATOM   1575  CD  LYS B 199     414.890 970.319 360.291  1.00  0.00           C  
+ATOM   1576  CE  LYS B 199     415.060 971.586 361.123  1.00  0.00           C  
+ATOM   1577  NZ  LYS B 199     416.010 971.288 362.239  1.00  0.00           N  
+ATOM   1578  N   THR B 200     410.860 968.550 357.370  1.00  0.00           N  
+ATOM   1579  CA  THR B 200     410.620 968.127 355.993  1.00  0.00           C  
+ATOM   1580  C   THR B 200     409.580 968.876 355.200  1.00  0.00           C  
+ATOM   1581  O   THR B 200     409.760 969.168 354.049  1.00  0.00           O  
+ATOM   1582  CB  THR B 200     410.180 966.587 355.803  1.00  0.00           C  
+ATOM   1583  OG1 THR B 200     409.140 966.199 356.742  1.00  0.00           O  
+ATOM   1584  CG2 THR B 200     411.440 965.768 356.003  1.00  0.00           C  
+ATOM   1585  N   ILE B 201     408.380 969.240 355.763  1.00  0.00           N  
+ATOM   1586  CA  ILE B 201     407.420 970.011 354.946  1.00  0.00           C  
+ATOM   1587  C   ILE B 201     407.820 971.480 354.865  1.00  0.00           C  
+ATOM   1588  O   ILE B 201     407.710 972.110 353.842  1.00  0.00           O  
+ATOM   1589  CB  ILE B 201     405.940 969.901 355.323  1.00  0.00           C  
+ATOM   1590  CG1 ILE B 201     404.980 970.672 354.415  1.00  0.00           C  
+ATOM   1591  CG2 ILE B 201     405.600 970.112 356.827  1.00  0.00           C  
+ATOM   1592  CD1 ILE B 201     403.530 970.108 354.331  1.00  0.00           C  
+ATOM   1593  N   LEU B 202     408.400 971.975 356.008  1.00  0.00           N  
+ATOM   1594  CA  LEU B 202     409.030 973.353 355.927  1.00  0.00           C  
+ATOM   1595  C   LEU B 202     410.110 973.402 354.839  1.00  0.00           C  
+ATOM   1596  O   LEU B 202     410.220 974.443 354.162  1.00  0.00           O  
+ATOM   1597  CB  LEU B 202     409.690 973.636 357.306  1.00  0.00           C  
+ATOM   1598  CG  LEU B 202     408.730 973.740 358.450  1.00  0.00           C  
+ATOM   1599  CD1 LEU B 202     409.430 973.852 359.846  1.00  0.00           C  
+ATOM   1600  CD2 LEU B 202     407.740 974.924 358.166  1.00  0.00           C  
+ATOM   1601  N   LYS B 203     410.940 972.345 354.664  1.00  0.00           N  
+ATOM   1602  CA  LYS B 203     411.990 972.315 353.702  1.00  0.00           C  
+ATOM   1603  C   LYS B 203     411.470 972.122 352.320  1.00  0.00           C  
+ATOM   1604  O   LYS B 203     412.240 972.280 351.360  1.00  0.00           O  
+ATOM   1605  CB  LYS B 203     413.010 971.158 354.010  1.00  0.00           C  
+ATOM   1606  CG  LYS B 203     414.020 971.380 355.181  1.00  0.00           C  
+ATOM   1607  CD  LYS B 203     415.020 972.455 355.084  1.00  0.00           C  
+ATOM   1608  CE  LYS B 203     416.070 972.483 356.243  1.00  0.00           C  
+ATOM   1609  NZ  LYS B 203     417.000 973.633 356.199  1.00  0.00           N  
+ATOM   1610  N   ALA B 204     410.200 971.811 352.120  1.00  0.00           N  
+ATOM   1611  CA  ALA B 204     409.730 971.910 350.777  1.00  0.00           C  
+ATOM   1612  C   ALA B 204     409.310 973.385 350.433  1.00  0.00           C  
+ATOM   1613  O   ALA B 204     409.430 973.848 349.279  1.00  0.00           O  
+ATOM   1614  CB  ALA B 204     408.480 971.033 350.686  1.00  0.00           C  
+ATOM   1615  N   LEU B 205     408.850 974.216 351.364  1.00  0.00           N  
+ATOM   1616  CA  LEU B 205     408.310 975.590 351.239  1.00  0.00           C  
+ATOM   1617  C   LEU B 205     409.440 976.524 350.989  1.00  0.00           C  
+ATOM   1618  O   LEU B 205     409.220 977.613 350.358  1.00  0.00           O  
+ATOM   1619  CB  LEU B 205     407.670 976.055 352.541  1.00  0.00           C  
+ATOM   1620  CG  LEU B 205     406.450 975.220 352.964  1.00  0.00           C  
+ATOM   1621  CD1 LEU B 205     405.990 975.628 354.415  1.00  0.00           C  
+ATOM   1622  CD2 LEU B 205     405.370 975.038 351.821  1.00  0.00           C  
+ATOM   1623  N   GLY B 206     410.680 976.125 351.338  1.00  0.00           N  
+ATOM   1624  CA  GLY B 206     411.960 976.816 351.003  1.00  0.00           C  
+ATOM   1625  C   GLY B 206     412.260 977.999 351.847  1.00  0.00           C  
+ATOM   1626  O   GLY B 206     411.460 978.384 352.689  1.00  0.00           O  
+ATOM   1627  N   PRO B 207     413.470 978.659 351.750  1.00  0.00           N  
+ATOM   1628  CA  PRO B 207     414.010 979.598 352.650  1.00  0.00           C  
+ATOM   1629  C   PRO B 207     413.220 980.924 352.555  1.00  0.00           C  
+ATOM   1630  O   PRO B 207     413.320 981.778 353.423  1.00  0.00           O  
+ATOM   1631  CB  PRO B 207     415.490 979.708 352.165  1.00  0.00           C  
+ATOM   1632  CG  PRO B 207     415.520 979.436 350.656  1.00  0.00           C  
+ATOM   1633  CD  PRO B 207     414.400 978.368 350.600  1.00  0.00           C  
+ATOM   1634  N   ALA B 208     412.460 981.272 351.452  1.00  0.00           N  
+ATOM   1635  CA  ALA B 208     411.790 982.549 351.362  1.00  0.00           C  
+ATOM   1636  C   ALA B 208     410.290 982.536 351.627  1.00  0.00           C  
+ATOM   1637  O   ALA B 208     409.560 983.573 351.509  1.00  0.00           O  
+ATOM   1638  CB  ALA B 208     412.080 983.109 349.943  1.00  0.00           C  
+ATOM   1639  N   ALA B 209     409.810 981.317 352.027  1.00  0.00           N  
+ATOM   1640  CA  ALA B 209     408.460 980.969 352.517  1.00  0.00           C  
+ATOM   1641  C   ALA B 209     407.740 982.088 353.237  1.00  0.00           C  
+ATOM   1642  O   ALA B 209     408.180 982.615 354.219  1.00  0.00           O  
+ATOM   1643  CB  ALA B 209     408.550 979.670 353.454  1.00  0.00           C  
+ATOM   1644  N   THR B 210     406.500 982.314 352.719  1.00  0.00           N  
+ATOM   1645  CA  THR B 210     405.510 983.100 353.416  1.00  0.00           C  
+ATOM   1646  C   THR B 210     405.160 982.532 354.854  1.00  0.00           C  
+ATOM   1647  O   THR B 210     405.270 981.309 355.035  1.00  0.00           O  
+ATOM   1648  CB  THR B 210     404.340 983.548 352.618  1.00  0.00           C  
+ATOM   1649  OG1 THR B 210     403.430 982.496 352.462  1.00  0.00           O  
+ATOM   1650  CG2 THR B 210     404.630 984.224 351.258  1.00  0.00           C  
+ATOM   1651  N   LEU B 211     404.850 983.353 355.830  1.00  0.00           N  
+ATOM   1652  CA  LEU B 211     404.300 983.024 357.075  1.00  0.00           C  
+ATOM   1653  C   LEU B 211     403.080 982.170 356.986  1.00  0.00           C  
+ATOM   1654  O   LEU B 211     402.950 981.212 357.775  1.00  0.00           O  
+ATOM   1655  CB  LEU B 211     404.180 984.273 358.005  1.00  0.00           C  
+ATOM   1656  CG  LEU B 211     403.420 984.137 359.341  1.00  0.00           C  
+ATOM   1657  CD1 LEU B 211     404.270 983.725 360.473  1.00  0.00           C  
+ATOM   1658  CD2 LEU B 211     402.660 985.420 359.696  1.00  0.00           C  
+ATOM   1659  N   GLU B 212     402.160 982.535 356.061  1.00  0.00           N  
+ATOM   1660  CA  GLU B 212     401.040 981.767 355.707  1.00  0.00           C  
+ATOM   1661  C   GLU B 212     401.420 980.334 355.242  1.00  0.00           C  
+ATOM   1662  O   GLU B 212     400.950 979.378 355.831  1.00  0.00           O  
+ATOM   1663  CB  GLU B 212     400.230 982.315 354.516  1.00  0.00           C  
+ATOM   1664  CG  GLU B 212     399.550 983.643 354.911  1.00  0.00           C  
+ATOM   1665  CD  GLU B 212     399.400 984.573 353.667  1.00  0.00           C  
+ATOM   1666  OE1 GLU B 212     399.120 984.017 352.579  1.00  0.00           O  
+ATOM   1667  OE2 GLU B 212     399.370 985.787 353.892  1.00  0.00           O  
+ATOM   1668  N   GLU B 213     402.410 980.158 354.362  1.00  0.00           N  
+ATOM   1669  CA  GLU B 213     402.910 978.839 353.967  1.00  0.00           C  
+ATOM   1670  C   GLU B 213     403.320 977.915 355.139  1.00  0.00           C  
+ATOM   1671  O   GLU B 213     402.860 976.804 355.407  1.00  0.00           O  
+ATOM   1672  CB  GLU B 213     404.020 978.783 352.917  1.00  0.00           C  
+ATOM   1673  CG  GLU B 213     403.440 979.319 351.549  1.00  0.00           C  
+ATOM   1674  CD  GLU B 213     404.500 979.904 350.654  1.00  0.00           C  
+ATOM   1675  OE1 GLU B 213     405.180 980.885 351.000  1.00  0.00           O  
+ATOM   1676  OE2 GLU B 213     404.710 979.394 349.519  1.00  0.00           O  
+ATOM   1677  N   MET B 214     404.180 978.509 356.061  1.00  0.00           N  
+ATOM   1678  CA  MET B 214     404.570 977.889 357.322  1.00  0.00           C  
+ATOM   1679  C   MET B 214     403.410 977.533 358.280  1.00  0.00           C  
+ATOM   1680  O   MET B 214     403.280 976.402 358.787  1.00  0.00           O  
+ATOM   1681  CB  MET B 214     405.620 978.681 358.015  1.00  0.00           C  
+ATOM   1682  CG  MET B 214     406.950 978.792 357.204  1.00  0.00           C  
+ATOM   1683  SD  MET B 214     408.390 979.573 358.070  1.00  0.00           S  
+ATOM   1684  CE  MET B 214     407.740 981.324 357.868  1.00  0.00           C  
+ATOM   1685  N   MET B 215     402.520 978.504 358.572  1.00  0.00           N  
+ATOM   1686  CA  MET B 215     401.370 978.355 359.421  1.00  0.00           C  
+ATOM   1687  C   MET B 215     400.420 977.338 358.992  1.00  0.00           C  
+ATOM   1688  O   MET B 215     399.870 976.739 359.854  1.00  0.00           O  
+ATOM   1689  CB  MET B 215     400.700 979.724 359.895  1.00  0.00           C  
+ATOM   1690  CG  MET B 215     401.690 980.531 360.838  1.00  0.00           C  
+ATOM   1691  SD  MET B 215     400.960 982.005 361.625  1.00  0.00           S  
+ATOM   1692  CE  MET B 215     399.600 981.248 362.656  1.00  0.00           C  
+ATOM   1693  N   THR B 216     400.170 977.145 357.671  1.00  0.00           N  
+ATOM   1694  CA  THR B 216     399.230 976.112 357.228  1.00  0.00           C  
+ATOM   1695  C   THR B 216     399.750 974.701 357.203  1.00  0.00           C  
+ATOM   1696  O   THR B 216     399.050 973.746 357.450  1.00  0.00           O  
+ATOM   1697  CB  THR B 216     398.600 976.573 355.876  1.00  0.00           C  
+ATOM   1698  OG1 THR B 216     397.690 975.553 355.476  1.00  0.00           O  
+ATOM   1699  CG2 THR B 216     399.650 976.591 354.845  1.00  0.00           C  
+ATOM   1700  N   ALA B 217     401.020 974.514 356.936  1.00  0.00           N  
+ATOM   1701  CA  ALA B 217     401.830 973.281 356.886  1.00  0.00           C  
+ATOM   1702  C   ALA B 217     401.810 972.459 358.141  1.00  0.00           C  
+ATOM   1703  O   ALA B 217     401.090 972.697 359.116  1.00  0.00           O  
+ATOM   1704  CB  ALA B 217     403.340 973.694 356.830  1.00  0.00           C  
+ATOM   1705  N   CYS B 218     402.530 971.356 358.233  1.00  0.00           N  
+ATOM   1706  CA  CYS B 218     402.720 970.489 359.417  1.00  0.00           C  
+ATOM   1707  C   CYS B 218     401.490 969.798 359.841  1.00  0.00           C  
+ATOM   1708  O   CYS B 218     401.060 969.731 361.028  1.00  0.00           O  
+ATOM   1709  CB  CYS B 218     403.430 971.224 360.573  1.00  0.00           C  
+ATOM   1710  SG  CYS B 218     405.100 972.067 360.141  1.00  0.00           S  
+ATOM   1711  N   GLN B 219     400.680 969.321 358.845  1.00  0.00           N  
+ATOM   1712  CA  GLN B 219     399.500 968.624 359.211  1.00  0.00           C  
+ATOM   1713  C   GLN B 219     399.750 967.220 359.717  1.00  0.00           C  
+ATOM   1714  O   GLN B 219     400.500 966.579 358.971  1.00  0.00           O  
+ATOM   1715  CB  GLN B 219     398.520 968.674 358.110  1.00  0.00           C  
+ATOM   1716  CG  GLN B 219     398.350 970.043 357.294  1.00  0.00           C  
+ATOM   1717  CD  GLN B 219     399.280 970.385 356.055  1.00  0.00           C  
+ATOM   1718  OE1 GLN B 219     400.120 969.549 355.647  1.00  0.00           O  
+ATOM   1719  NE2 GLN B 219     399.180 971.606 355.542  1.00  0.00           N  
+ATOM   1720  N   GLY B 220     399.200 966.757 360.929  1.00  0.00           N  
+ATOM   1721  CA  GLY B 220     399.660 965.458 361.432  1.00  0.00           C  
+ATOM   1722  C   GLY B 220     401.010 965.411 362.110  1.00  0.00           C  
+ATOM   1723  O   GLY B 220     401.540 964.342 362.214  1.00  0.00           O  
+ATOM   1724  N   VAL B 221     401.570 966.605 362.609  1.00  0.00           N  
+ATOM   1725  CA  VAL B 221     402.790 966.551 363.415  1.00  0.00           C  
+ATOM   1726  C   VAL B 221     402.340 966.761 364.841  1.00  0.00           C  
+ATOM   1727  O   VAL B 221     401.780 967.801 365.074  1.00  0.00           O  
+ATOM   1728  CB  VAL B 221     403.740 967.649 363.075  1.00  0.00           C  
+ATOM   1729  CG1 VAL B 221     404.900 967.800 364.109  1.00  0.00           C  
+ATOM   1730  CG2 VAL B 221     404.420 967.594 361.673  1.00  0.00           C  
+ATOM   1731  N   GLY B 222     402.500 965.860 365.852  1.00  0.00           N  
+ATOM   1732  CA  GLY B 222     401.840 965.966 367.126  1.00  0.00           C  
+ATOM   1733  C   GLY B 222     400.350 965.624 367.023  1.00  0.00           C  
+ATOM   1734  O   GLY B 222     399.850 965.401 365.941  1.00  0.00           O  
+ATOM   1735  N   GLY B 223     399.690 965.567 368.211  1.00  0.00           N  
+ATOM   1736  CA  GLY B 223     398.210 965.298 368.477  1.00  0.00           C  
+ATOM   1737  C   GLY B 223     397.360 966.484 368.256  1.00  0.00           C  
+ATOM   1738  O   GLY B 223     397.580 967.206 367.250  1.00  0.00           O  
+ATOM   1739  N   PRO B 224     396.370 966.801 369.031  1.00  0.00           N  
+ATOM   1740  CA  PRO B 224     395.680 968.105 368.954  1.00  0.00           C  
+ATOM   1741  C   PRO B 224     396.610 969.324 369.223  1.00  0.00           C  
+ATOM   1742  O   PRO B 224     397.500 969.281 370.042  1.00  0.00           O  
+ATOM   1743  CB  PRO B 224     394.700 968.027 370.190  1.00  0.00           C  
+ATOM   1744  CG  PRO B 224     394.470 966.539 370.299  1.00  0.00           C  
+ATOM   1745  CD  PRO B 224     395.800 965.921 370.090  1.00  0.00           C  
+ATOM   1746  N   GLY B 225     396.370 970.437 368.527  1.00  0.00           N  
+ATOM   1747  CA  GLY B 225     397.160 971.701 368.677  1.00  0.00           C  
+ATOM   1748  C   GLY B 225     396.610 972.769 369.638  1.00  0.00           C  
+ATOM   1749  O   GLY B 225     397.340 973.641 370.050  1.00  0.00           O  
+ATOM   1750  N   HIS B 226     395.360 972.696 370.022  1.00  0.00           N  
+ATOM   1751  CA  HIS B 226     394.720 973.742 370.836  1.00  0.00           C  
+ATOM   1752  C   HIS B 226     395.190 973.649 372.330  1.00  0.00           C  
+ATOM   1753  O   HIS B 226     394.930 972.665 373.056  1.00  0.00           O  
+ATOM   1754  CB  HIS B 226     393.190 973.602 370.720  1.00  0.00           C  
+ATOM   1755  CG  HIS B 226     392.460 974.719 371.368  1.00  0.00           C  
+ATOM   1756  ND1 HIS B 226     392.070 975.840 370.688  1.00  0.00           N  
+ATOM   1757  CD2 HIS B 226     391.830 974.613 372.474  1.00  0.00           C  
+ATOM   1758  CE1 HIS B 226     391.210 976.500 371.526  1.00  0.00           C  
+ATOM   1759  NE2 HIS B 226     391.050 975.798 372.630  1.00  0.00           N  
+ATOM   1760  N   LYS B 227     395.830 974.668 372.904  1.00  0.00           N  
+ATOM   1761  CA  LYS B 227     396.240 974.670 374.287  1.00  0.00           C  
+ATOM   1762  C   LYS B 227     395.670 975.804 375.070  1.00  0.00           C  
+ATOM   1763  O   LYS B 227     395.740 976.959 374.747  1.00  0.00           O  
+ATOM   1764  CB  LYS B 227     397.840 974.701 374.484  1.00  0.00           C  
+ATOM   1765  CG  LYS B 227     398.740 973.597 373.808  1.00  0.00           C  
+ATOM   1766  CD  LYS B 227     398.390 972.205 374.365  1.00  0.00           C  
+ATOM   1767  CE  LYS B 227     398.660 971.009 373.389  1.00  0.00           C  
+ATOM   1768  NZ  LYS B 227     400.090 970.809 373.051  1.00  0.00           N  
+ATOM   1769  N   ALA B 228     394.930 975.489 376.126  1.00  0.00           N  
+ATOM   1770  CA  ALA B 228     394.350 976.502 377.079  1.00  0.00           C  
+ATOM   1771  C   ALA B 228     395.430 977.397 377.828  1.00  0.00           C  
+ATOM   1772  O   ALA B 228     396.370 976.912 378.484  1.00  0.00           O  
+ATOM   1773  CB  ALA B 228     393.520 975.838 378.124  1.00  0.00           C  
+ATOM   1774  N   ARG B 229     395.440 978.697 377.605  1.00  0.00           N  
+ATOM   1775  CA  ARG B 229     396.590 979.508 377.817  1.00  0.00           C  
+ATOM   1776  C   ARG B 229     396.130 980.866 378.275  1.00  0.00           C  
+ATOM   1777  O   ARG B 229     395.340 981.500 377.534  1.00  0.00           O  
+ATOM   1778  CB  ARG B 229     397.470 979.579 376.479  1.00  0.00           C  
+ATOM   1779  CG  ARG B 229     398.390 978.328 376.411  1.00  0.00           C  
+ATOM   1780  CD  ARG B 229     399.310 978.319 375.261  1.00  0.00           C  
+ATOM   1781  NE  ARG B 229     400.360 977.243 375.487  1.00  0.00           N  
+ATOM   1782  CZ  ARG B 229     401.140 976.654 374.593  1.00  0.00           C  
+ATOM   1783  NH1 ARG B 229     401.000 976.844 373.323  1.00  0.00           N  
+ATOM   1784  NH2 ARG B 229     401.930 975.636 374.870  1.00  0.00           N  
+ATOM   1785  N   VAL B 230     396.700 981.400 379.359  1.00  0.00           N  
+ATOM   1786  CA  VAL B 230     396.500 982.748 379.909  1.00  0.00           C  
+ATOM   1787  C   VAL B 230     396.770 983.897 378.926  1.00  0.00           C  
+ATOM   1788  O   VAL B 230     397.810 983.857 378.154  1.00  0.00           O  
+ATOM   1789  CB  VAL B 230     397.160 983.005 381.248  1.00  0.00           C  
+ATOM   1790  CG1 VAL B 230     396.920 984.396 381.890  1.00  0.00           C  
+ATOM   1791  CG2 VAL B 230     396.710 981.925 382.240  1.00  0.00           C  
+ATOM   1792  N   LEU B 231     395.970 984.987 378.946  1.00  0.00           N  
+ATOM   1793  CA  LEU B 231     396.030 986.180 378.173  1.00  0.00           C  
+ATOM   1794  C   LEU B 231     396.750 987.310 378.942  1.00  0.00           C  
+ATOM   1795  O   LEU B 231     396.190 987.819 379.955  1.00  0.00           O  
+ATOM   1796  CB  LEU B 231     394.630 986.506 377.658  1.00  0.00           C  
+ATOM   1797  CG  LEU B 231     394.640 987.390 376.382  1.00  0.00           C  
+ATOM   1798  CD1 LEU B 231     395.280 986.797 375.103  1.00  0.00           C  
+ATOM   1799  CD2 LEU B 231     393.170 987.837 376.125  1.00  0.00           C  
+ATOM   1800  OXT LEU B 231     397.740 987.784 378.454  1.00  0.00           O  
+TER    1801      LEU B 231                                                      
 CONECT 1568 1710                                                                
 CONECT 1710 1568                                                                
 MASTER      583    0    0  693   81    0    0    699000   55  110  990          
