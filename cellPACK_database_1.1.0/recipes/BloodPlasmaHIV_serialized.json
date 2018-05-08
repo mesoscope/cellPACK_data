@@ -4483,60 +4483,6 @@
                 {
                   "Ingredients": [
                     {
-                      "ingredient_id": 53,
-                      "molarity": 0,
-                      "name": "HIV1_CA_mono_0_1_0",
-                      "nbMol": 91,
-                      "path": "",
-                      "positions": [
-                        [
-                          [
-                            2.42,
-                            -20.51,
-                            -10.5
-                          ],
-                          [
-                            -1.56,
-                            13.23,
-                            6.78
-                          ]
-                        ]
-                      ],
-                      "principalVector": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "radii": [
-                        [
-                          24.69,
-                          29.93
-                        ]
-                      ],
-                      "source": {
-                        "pdb": "1VU4CtoH_hex",
-                        "transform": {
-                          "center": true
-                        }
-                      }
-                    }
-                  ],
-                  "groupType": 0,
-                  "local_id": 0,
-                  "name": "proteins",
-                  "unique_id": 7
-                }
-              ],
-              "local_id": 0,
-              "name": "surface",
-              "unique_id": 11
-            },
-            {
-              "Compartments": [],
-              "IngredientGroups": [
-                {
-                  "Ingredients": [
-                    {
                       "ingredient_id": 54,
                       "molarity": 0,
                       "name": "HIV1_IN_1ex4_0_1_0",
