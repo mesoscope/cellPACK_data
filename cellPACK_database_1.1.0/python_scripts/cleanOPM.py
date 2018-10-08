@@ -22,7 +22,6 @@ def pdb2mmtf(handle):
                 state += 1
             elif rec in ('ATOM  ', 'HETATM'):
                 if (line[17:20]=="DUM"):continue
-                bFactor = float(line[60:66])
                 yield {
                     u'modelIndex': state,
                     u'atomId': int(line[6:11]),
@@ -36,7 +35,7 @@ def pdb2mmtf(handle):
                     u'xCoord': float(line[30:38]),
                     u'yCoord': float(line[38:46]),
                     u'zCoord': float(line[46:54]),
-                    u'bFactor': 0.1,
+                    u'bFactor': float(line[60:66]),
                     u'occupancy': float(line[54:60]),
                     u'chainId': mmtfstr(line[72:76].strip()),
                     u'element': mmtfstr(line[76:78].lstrip()),
