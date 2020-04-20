@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Influenza Virus",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/influenza_model1.json",
+        "resultfile": "autoPACKserver/results/influenza_model1.json"
+    },
+    {
+        "name":"HIV Immature and Blood Plasma",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/blood_hiv_immature_inside.json",
+        "resultfile": "autoPACKserver/results/blood_hiv_immature_inside.json"
+    },
+    {
+        "name":"HIV Mature and Blood Plasma",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/BloodHIV1.0_mixed_fixed_nc1.cpr",
+        "resultfile": "autoPACKserver/results/BloodHIV1.0_mixed_fixed_nc1.cpr"
+    },
+    {
+        "name":"HIV Mature",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6-8_mixed_radii_pdb.cpr",
+        "resultfile": "autoPACKserver/results/HIV-1_0.1.6-8_mixed_radii_pdb.cpr"
+    },    
+    {
+        "name":"Exosome and catalase",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/ExosomeModel.json",
+        "resultfile": "autoPACKserver/results/ExosomeModel.json"
+    },
+    {
+        "name":"Mycoplasma first model",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/Mycoplasma1.5_mixed_pdb_fixed.cpr",
+        "resultfile": "autoPACKserver/results/Mycoplasma1.5_mixed_pdb_fixed.cpr"
+    },
+    {
+        "name":"Mycoplasma WholeCell model",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/MycoplasmaModel.json",
+        "resultfile": "autoPACKserver/results/MycoplasmaModel.json"
+    }
+]
