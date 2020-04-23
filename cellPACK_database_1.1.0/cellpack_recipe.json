@@ -1,9 +1,21 @@
 [
     {
-        "name":"Influenza Virus",
+        "name":"Influenza Virus Surface",
         "version":"1.0",
         "setupfile": "autoPACKserver/recipes/influenza_model1.json",
         "resultfile": "autoPACKserver/results/influenza_model1.json"
+    },
+    {
+        "name":"Influenza Virus Complete",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/influenza_model1.json",
+        "resultfile": "autoPACKserver/results/InfluenzaModel2.json"
+    },
+    {
+        "name":"HIV Immature",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/HIV_immature_model.json",
+        "resultfile": "autoPACKserver/results/HIV_immature.json"
     },
     {
         "name":"HIV Immature and Blood Plasma",
