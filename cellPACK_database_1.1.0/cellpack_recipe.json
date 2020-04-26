@@ -14,8 +14,8 @@
     {
         "name":"HIV Immature",
         "version":"1.0",
-        "setupfile": "autoPACKserver/recipes/HIV_immature_model.json",
-        "resultfile": "autoPACKserver/results/HIV_immature.json"
+        "setupfile": "autoPACKserver/recipes/HIV_immature.json",
+        "resultfile": "autoPACKserver/results/HIV_immature_model.json"
     },
     {
         "name":"HIV Immature and Blood Plasma",
