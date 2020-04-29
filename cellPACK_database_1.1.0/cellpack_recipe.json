@@ -30,11 +30,17 @@
         "resultfile": "autoPACKserver/results/BloodHIV1.0_mixed_fixed_nc1.cpr"
     },
     {
-        "name":"HIV Mature",
+        "name":"HIV Mature Old",
         "version":"1.0",
         "setupfile": "autoPACKserver/recipes/HIV-1_0.1.6-8_mixed_radii_pdb.cpr",
         "resultfile": "autoPACKserver/results/HIV-1_0.1.6-8_mixed_radii_pdb.cpr"
-    },    
+    },   
+    {
+        "name":"HIV Mature",
+        "version":"1.0",
+        "setupfile": "autoPACKserver/recipes/HIV_mature.json",
+        "resultfile": "autoPACKserver/results/HIV_mature_model.json"
+    },   
     {
         "name":"Exosome and catalase",
         "version":"1.0",
