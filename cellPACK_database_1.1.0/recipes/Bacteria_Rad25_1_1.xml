@@ -6,7 +6,7 @@
 	cutoff_surface="0" 
 	gradient="gR" 
 	jitterMax="(1.0, 1.0, 0.0)" 
-	meshFile="autoPACKserver/autoPACK_database_1.0.0/geometries/Bacteria_Rad25_1_1.dae" 
+	meshFile="autoPACKserver/geometries/Bacteria_Rad25_1_1.dae" 
 	molarity="0.00" 
 	name="Bacteria_Rad25_1_1" 
 	nbJitter="50" 
