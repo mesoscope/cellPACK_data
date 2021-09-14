@@ -58720,8 +58720,6 @@
 	},
 	"compartments": {
 		"HIVenvelop_mature": {
-			"geom_type":"None",
-			"geom":"",
 			"mb":{"positions":[0,0,0],"radii":[725]},			
 			"surface": {
 				"ingredients": {
